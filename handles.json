@@ -1,0 +1,2754 @@
+{
+    "Alabama": [
+        {
+            "Riding": "Alabama 1st District",
+            "Name": "Carl, Jerry",
+            "Twitter": "@RepJerryCarl",
+            "Party": "R"
+        },
+        {
+            "Riding": "Alabama 2nd District",
+            "Name": "Moore, Barry",
+            "Twitter": "@RepBarryMoore",
+            "Party": "R"
+        },
+        {
+            "Riding": "Alabama 3rd District",
+            "Name": "Rogers, Mike",
+            "Twitter": "@RepMikeRogers",
+            "Party": "R"
+        },
+        {
+            "Riding": "Alabama 4th District",
+            "Name": "Aderholt, Robert",
+            "Twitter": "@Robert_Aderholt",
+            "Party": "R"
+        },
+        {
+            "Riding": "Alabama 5th District",
+            "Name": "Brooks, Mo",
+            "Twitter": "@RepMoBrooks",
+            "Party": "R"
+        },
+        {
+            "Riding": "Alabama 6th District",
+            "Name": "Palmer, Gary",
+            "Twitter": "@USRepGaryPalmer",
+            "Party": "R"
+        },
+        {
+            "Riding": "Alabama 7th District",
+            "Name": "Sewell, Terri A.",
+            "Twitter": "@RepTerriSewell",
+            "Party": "D"
+        }
+    ],
+    "Alaska At-Large": [
+        {
+            "Riding": "Alaska At-Large",
+            "Name": "Young, Don",
+            "Twitter": "@RepDonYoung",
+            "Party": "R"
+        }
+    ],
+    "American Samoa At-Large": [
+        {
+            "Riding": "American Samoa At-Large",
+            "Name": "Radewagen, Amata",
+            "Twitter": "@RepAmata",
+            "Party": "R"
+        }
+    ],
+    "Arizona": [
+        {
+            "Riding": "Arizona 1st District",
+            "Name": "O'Halleran, Tom",
+            "Twitter": "@TomOHalleran",
+            "Party": "D"
+        },
+        {
+            "Riding": "Arizona 2nd District",
+            "Name": "Kirkpatrick, Ann",
+            "Twitter": "@RepKirkPatrick",
+            "Party": "D"
+        },
+        {
+            "Riding": "Arizona 3rd District",
+            "Name": "Grijalva, Raul",
+            "Twitter": "@RepRaulGrijalva",
+            "Party": "D"
+        },
+        {
+            "Riding": "Arizona 4th District",
+            "Name": "Gosar, Paul A.",
+            "Twitter": "@RepGosar",
+            "Party": "R"
+        },
+        {
+            "Riding": "Arizona 5th District",
+            "Name": "Biggs, Andy",
+            "Twitter": "@AndyBiggs4AZ",
+            "Party": "R"
+        },
+        {
+            "Riding": "Arizona 6th District",
+            "Name": "Schweikert, David",
+            "Twitter": "@RepDavid",
+            "Party": "R"
+        },
+        {
+            "Riding": "Arizona 7th District",
+            "Name": "Gallego, Ruben",
+            "Twitter": "@RepRubenGallego",
+            "Party": "D"
+        },
+        {
+            "Riding": "Arizona 8th District",
+            "Name": "Lesko, Debbie&nbsp;",
+            "Twitter": "@RepDLesko",
+            "Party": "R"
+        },
+        {
+            "Riding": "Arizona 9th District",
+            "Name": "Stanton, Greg",
+            "Twitter": "@RepGregStanton",
+            "Party": "D"
+        }
+    ],
+    "Arkansas": [
+        {
+            "Riding": "Arkansas 1st District",
+            "Name": "Crawford, Rick",
+            "Twitter": "@RepRickCrawford",
+            "Party": "R"
+        },
+        {
+            "Riding": "Arkansas 2nd District",
+            "Name": "Hill, French",
+            "Twitter": "@RepFrenchHill",
+            "Party": "R"
+        },
+        {
+            "Riding": "Arkansas 3rd District",
+            "Name": "Womack, Steve",
+            "Twitter": "@rep_stevewomack",
+            "Party": "R"
+        },
+        {
+            "Riding": "Arkansas 4th District",
+            "Name": "Westerman, Bruce",
+            "Twitter": "@RepWesterman",
+            "Party": "R"
+        }
+    ],
+    "California": [
+        {
+            "Riding": "California 1st District",
+            "Name": "LaMalfa, Doug",
+            "Twitter": "@RepLaMalfa",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 2nd District",
+            "Name": "Huffman, Jared",
+            "Twitter": "@RepHuffman",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 3rd District",
+            "Name": "Garamendi, John",
+            "Twitter": "@RepGaramendi",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 4th District",
+            "Name": "McClintock, Tom",
+            "Twitter": "@RepMcClintock",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 5th District",
+            "Name": "Thompson, Mike",
+            "Twitter": "@RepThompson",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 6th District",
+            "Name": "Matsui, Doris O.",
+            "Twitter": "@DorisMatsui",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 7th District",
+            "Name": "Bera, Ami",
+            "Twitter": "@RepBera",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 8th District",
+            "Name": "Obernolte, Jay",
+            "Twitter": "@JayObernolte",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 9th District",
+            "Name": "McNerney, Jerry",
+            "Twitter": "@RepMcNerney",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 10th District",
+            "Name": "Harder, Josh",
+            "Twitter": "@RepJoshHarder",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 11th District",
+            "Name": "DeSaulnier, Mark",
+            "Twitter": "@RepDeSaulnier",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 12th District",
+            "Name": "Pelosi, Nancy",
+            "Twitter": "@SpeakerPelosi",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 13th District",
+            "Name": "Lee, Barbara",
+            "Twitter": "@RepBarbaraLee",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 14th District",
+            "Name": "Speier, Jackie",
+            "Twitter": "@RepSpeier",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 15th District",
+            "Name": "Swalwell, Eric",
+            "Twitter": "@RepSwalwell",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 16th District",
+            "Name": "Costa, Jim",
+            "Twitter": "@RepJimCosta",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 17th District",
+            "Name": "Khanna, Ro",
+            "Twitter": "@RoKhannaUSA",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 18th District",
+            "Name": "Eshoo, Anna G.",
+            "Twitter": "@RepAnnaEshoo",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 19th District",
+            "Name": "Lofgren, Zoe",
+            "Twitter": "@RepZoeLofgren",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 20th District",
+            "Name": "Panetta, Jimmy",
+            "Twitter": "@JimmyPanetta",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 21st District",
+            "Name": "Valadao, David",
+            "Twitter": "@RepDavidValadao",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 22nd District",
+            "Name": "Nunes, Devin",
+            "Twitter": "@DevinNunes",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 23rd District",
+            "Name": "McCarthy, Kevin",
+            "Twitter": "@GOPLeader",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 24th District",
+            "Name": "Carbajal, Salud",
+            "Twitter": "@CarbajalSalud",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 25th District",
+            "Name": "Garcia, Mike",
+            "Twitter": "@MikeGarcia2020",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 26th District",
+            "Name": "Brownley, Julia",
+            "Twitter": "@RepBrownley",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 27th District",
+            "Name": "Chu, Judy",
+            "Twitter": "@RepJudyChu",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 28th District",
+            "Name": "Schiff, Adam",
+            "Twitter": "@RepAdamSchiff",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 29th District",
+            "Name": "C\u00e1rdenas, Tony",
+            "Twitter": "@RepCardenas",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 30th District",
+            "Name": "Sherman, Brad",
+            "Twitter": "@BradSherman",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 31st District",
+            "Name": "Aguilar, Pete",
+            "Twitter": "@RepPeteAguilar",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 32nd District",
+            "Name": "Napolitano, Grace",
+            "Twitter": "@gracenapolitano",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 33rd District",
+            "Name": "Lieu, Ted",
+            "Twitter": "@RepTedLieu",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 34th District",
+            "Name": "Gomez, Jimmy",
+            "Twitter": "@RepJimmyGomez",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 35th District",
+            "Name": "Torres, Norma",
+            "Twitter": "@NormaJTorres",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 36th District",
+            "Name": "Ruiz, Raul",
+            "Twitter": "@RepRaulRuizMD",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 37th District",
+            "Name": "Bass, Karen",
+            "Twitter": "@RepKarenBass",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 38th District",
+            "Name": "S\u00e1nchez, Linda",
+            "Twitter": "@RepLindaSanchez",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 39th District",
+            "Name": "Kim, Young",
+            "Twitter": "@YoungKimCA",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 40th District",
+            "Name": "Roybal-Allard, Lucille",
+            "Twitter": "@RepRoybalAllard",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 41st District",
+            "Name": "Takano, Mark",
+            "Twitter": "@RepMarkTakano",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 42nd District",
+            "Name": "Calvert, Ken",
+            "Twitter": "@KenCalvert",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 43rd District",
+            "Name": "Waters, Maxine",
+            "Twitter": "@MaxineWaters",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 44th District",
+            "Name": "Barragan, Nanette",
+            "Twitter": "@Nanette4CA",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 45th District",
+            "Name": "Porter, Katie",
+            "Twitter": "@RepKatiePorter",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 46th Division",
+            "Name": "Correa, Lou",
+            "Twitter": "@RepLouCorrea",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 47th District",
+            "Name": "Lowenthal, Alan",
+            "Twitter": "@RepLowenthal",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 48th District",
+            "Name": "Steel, Michelle",
+            "Twitter": "@MichelleSteelCA",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 49th District",
+            "Name": "Levin, Mike",
+            "Twitter": "@RepMikeLevin",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 50th District",
+            "Name": " Issa, Darrell",
+            "Twitter": "@DarrellIssa",
+            "Party": "R"
+        },
+        {
+            "Riding": "California 51st District",
+            "Name": "Vargas, Juan",
+            "Twitter": "@RepJuanVargas",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 52nd District",
+            "Name": "Peters, Scott",
+            "Twitter": "@RepScottPeters",
+            "Party": "D"
+        },
+        {
+            "Riding": "California 53rd District",
+            "Name": "Jacobs, Sara",
+            "Twitter": "@SaraJacobsCA",
+            "Party": "D"
+        }
+    ],
+    "Colorado": [
+        {
+            "Riding": "Colorado 1st District",
+            "Name": "DeGette, Diana",
+            "Twitter": "@RepDianaDeGette",
+            "Party": "D"
+        },
+        {
+            "Riding": "Colorado 2nd District",
+            "Name": "Neguse, Joe",
+            "Twitter": "@RepJoeNeguse",
+            "Party": "R"
+        },
+        {
+            "Riding": "Colorado 3rd District",
+            "Name": "Boebert, Lauren",
+            "Twitter": "@laurenboebert",
+            "Party": "R"
+        },
+        {
+            "Riding": "Colorado 4th District",
+            "Name": "Buck, Ken",
+            "Twitter": "@RepKenBuck",
+            "Party": "R"
+        },
+        {
+            "Riding": "Colorado 5th District",
+            "Name": "Lamborn, Doug",
+            "Twitter": "@RepDLamborn",
+            "Party": "R"
+        },
+        {
+            "Riding": "Colorado 6th District",
+            "Name": "Crow, Jason",
+            "Twitter": "@RepJasonCrow",
+            "Party": "D"
+        },
+        {
+            "Riding": "Colorado 7th District",
+            "Name": "Perlmutter, Ed",
+            "Twitter": "@RepPerlmutter",
+            "Party": "D"
+        }
+    ],
+    "Connecticut": [
+        {
+            "Riding": "Connecticut 1st District",
+            "Name": "Larson, John B.",
+            "Twitter": "@RepJohnLarson",
+            "Party": "D"
+        },
+        {
+            "Riding": "Connecticut 2nd District",
+            "Name": "Courtney, Joe",
+            "Twitter": "@RepJoeCourtney",
+            "Party": "D"
+        },
+        {
+            "Riding": "Connecticut 3rd District",
+            "Name": "DeLauro, Rosa L.",
+            "Twitter": "@rosadelauro",
+            "Party": "D"
+        },
+        {
+            "Riding": "Connecticut 4th District",
+            "Name": "Himes, Jim",
+            "Twitter": "@jahimes",
+            "Party": "D"
+        },
+        {
+            "Riding": "Connecticut 5th District",
+            "Name": "Hayes, Jahana",
+            "Twitter": "@RepJahanaHayes",
+            "Party": "D"
+        }
+    ],
+    "Delaware At-Large": [
+        {
+            "Riding": "Delaware At-Large",
+            "Name": "Blunt Rochester, Lisa",
+            "Twitter": "@LisaBRochester",
+            "Party": "D"
+        }
+    ],
+    "District of Columbia At-Large": [
+        {
+            "Riding": "District of Columbia At-Large",
+            "Name": "Norton, Eleanor Holmes",
+            "Twitter": "@EleanorNorton",
+            "Party": "D"
+        }
+    ],
+    "Florida": [
+        {
+            "Riding": "Florida 1st District",
+            "Name": "Gaetz, Matt",
+            "Twitter": "@MattGaetz",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 2nd District",
+            "Name": "Dunn, Neal",
+            "Twitter": "@DrNealDunnFL2",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 3rd District",
+            "Name": "Cammack, Kat",
+            "Twitter": "@Kat_Cammack",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 4th District",
+            "Name": "Rutherford, John",
+            "Twitter": "@JRutherfordFL",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 5th District",
+            "Name": "Lawson, Al",
+            "Twitter": "@AlLawsonJr",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 6th District",
+            "Name": "Waltz, Michael",
+            "Twitter": "@RepMichaelWaltz",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 7th District",
+            "Name": "Murphy, Stephanie",
+            "Twitter": "@SMurphyCongress",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 8th District",
+            "Name": "Posey, Bill",
+            "Twitter": "@congbillposey",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 9th District",
+            "Name": "Soto, Darren",
+            "Twitter": "@RepDarrenSoto",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 10th District",
+            "Name": "Demings, Val",
+            "Twitter": "@Val_Demings",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 11th District",
+            "Name": "Webster, Daniel",
+            "Twitter": "@RepWebster",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 12th District",
+            "Name": "Bilirakis, Gus M.",
+            "Twitter": "@RepGusBilirakis",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 13th District",
+            "Name": "Crist, Charlie",
+            "Twitter": "@CharlieCrist",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 14th District",
+            "Name": "Castor, Kathy",
+            "Twitter": "@USRepKCastor",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 15th District",
+            "Name": "Franklin, Scott",
+            "Twitter": "@ScottFranklinFL",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 16th District",
+            "Name": "Buchanan, Vern",
+            "Twitter": "@VernBuchanan",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 17th District",
+            "Name": "Steube, W. Gregory",
+            "Twitter": "@RepGregSteube",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 18th District",
+            "Name": "Mast, Brian",
+            "Twitter": "@BrianMastFL",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 19th District",
+            "Name": "Rooney, Francis",
+            "Twitter": "@FrancisRooney",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 20th District",
+            "Name": "Hastings, Alcee L.",
+            "Twitter": "@RepHastingsFL",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 21st District",
+            "Name": "Frankel, Lois",
+            "Twitter": "@RepLoisFrankel",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 22nd District",
+            "Name": "Deutch, Ted",
+            "Twitter": "@RepTedDeutch",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 23rd District",
+            "Name": "Wasserman Schultz, Debbie",
+            "Twitter": "@RepDWStweets",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 24th District",
+            "Name": "Wilson, Frederica",
+            "Twitter": "@RepWilson",
+            "Party": "D"
+        },
+        {
+            "Riding": "Florida 25th District",
+            "Name": "Diaz-Balart, Mario",
+            "Twitter": "@MarioDB",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 26th District",
+            "Name": "Gim\u00e9nez, Carlos",
+            "Twitter": "@RepCarlos",
+            "Party": "R"
+        },
+        {
+            "Riding": "Florida 27th District",
+            "Name": "Salazar, Maria Elvira",
+            "Twitter": "@MaElviraSalazar",
+            "Party": "R"
+        }
+    ],
+    "Georgia": [
+        {
+            "Riding": "Georgia 1st District",
+            "Name": "Carter, Buddy",
+            "Twitter": "@RepBuddyCarter",
+            "Party": "R"
+        },
+        {
+            "Riding": "Georgia 2nd District",
+            "Name": "Bishop Jr., Sanford D.",
+            "Twitter": "@SanfordBishop",
+            "Party": "D"
+        },
+        {
+            "Riding": "Georgia 3rd District",
+            "Name": "Ferguson, Drew",
+            "Twitter": "@DrewFergusonGA",
+            "Party": "R"
+        },
+        {
+            "Riding": "Georgia 4th District",
+            "Name": "Johnson, Henry C. \u201cHank\u201d Jr.",
+            "Twitter": "@RepHankJohnson",
+            "Party": "D"
+        },
+        {
+            "Riding": "Georgia 5th District",
+            "Name": "Williams, Nikema",
+            "Twitter": "@NikemaWilliams",
+            "Party": "D"
+        },
+        {
+            "Riding": "Georgia 6th District",
+            "Name": "McBath, Lucy",
+            "Twitter": "@RepLucyMcBath",
+            "Party": "D"
+        },
+        {
+            "Riding": "Georgia 7th District",
+            "Name": "Bourdeaux, Carolyn",
+            "Twitter": "@RepBourdeaux",
+            "Party": "D"
+        },
+        {
+            "Riding": "Georgia 8th District",
+            "Name": "Scott, Austin",
+            "Twitter": "@AustinScottGA08",
+            "Party": "R"
+        },
+        {
+            "Riding": "Georgia 9th District",
+            "Name": "Clyde, Andrew",
+            "Twitter": "@repclyde",
+            "Party": "R"
+        },
+        {
+            "Riding": "Georgia 10th District",
+            "Name": "Hice, Jody",
+            "Twitter": "@CongressmanHice",
+            "Party": "R"
+        },
+        {
+            "Riding": "Georgia 11th District",
+            "Name": "Loudermilk, Barry",
+            "Twitter": "@RepLoudermilk",
+            "Party": "R"
+        },
+        {
+            "Riding": "Georgia 12th District",
+            "Name": "Allen, Rick",
+            "Twitter": "@RepRickAllen",
+            "Party": "R"
+        },
+        {
+            "Riding": "Georgia 13th District",
+            "Name": "Scott, David",
+            "Twitter": "@repdavidscott",
+            "Party": "D"
+        },
+        {
+            "Riding": "Georgia 14th District",
+            "Name": "Greene, Marjorie Taylor",
+            "Twitter": "@mtgreenee",
+            "Party": "R"
+        }
+    ],
+    "Guam At-Large": [
+        {
+            "Riding": "Guam At-Large",
+            "Name": "San Nicolas, Michael F.Q.",
+            "Twitter": "@GuamCongressman",
+            "Party": "D"
+        }
+    ],
+    "Hawaii": [
+        {
+            "Riding": "Hawaii 1st District",
+            "Name": "Case, Ed",
+            "Twitter": "@RepEdCase",
+            "Party": "D"
+        },
+        {
+            "Riding": "Hawaii 2nd District",
+            "Name": "Kahele, Kai",
+            "Twitter": "@kaikahele",
+            "Party": "D"
+        }
+    ],
+    "Idaho": [
+        {
+            "Riding": "Idaho 1st District",
+            "Name": "Fulcher, Russ",
+            "Twitter": "@RepRussFulcher",
+            "Party": "R"
+        },
+        {
+            "Riding": "Idaho 2nd District",
+            "Name": "Simpson, Mike",
+            "Twitter": "@CongMikeSimpson",
+            "Party": "R"
+        }
+    ],
+    "Illinois": [
+        {
+            "Riding": "Illinois 1st District",
+            "Name": "Rush, Bobby L.",
+            "Twitter": "@RepBobbyRush",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 2nd District",
+            "Name": "Kelly, Robin",
+            "Twitter": "@RepRobinKelly",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 3rd District",
+            "Name": "Newman, Marie",
+            "Twitter": "@RepMarieNewman",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 4th District",
+            "Name": "Garcia, Jesus \u201cChuy\u201d",
+            "Twitter": "@RepChuyGarcia",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 5th District",
+            "Name": "Quigley, Mike",
+            "Twitter": "@RepMikeQuigley",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 6th District",
+            "Name": "Casten, Sean",
+            "Twitter": "@RepCasten",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 7th District",
+            "Name": "Davis, Danny K.",
+            "Twitter": "@RepDannyDavis",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 8th District",
+            "Name": "Krishnamoorthi, Raja",
+            "Twitter": "@RajaForCongress",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 9th District",
+            "Name": "Schakowsky, Jan",
+            "Twitter": "@janschakowsky",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 10th District",
+            "Name": "Schneider, Bradley",
+            "Twitter": "@RepSchneider",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 11th District",
+            "Name": "Foster, Bill",
+            "Twitter": "@RepBillFoster",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 12th District",
+            "Name": "Bost, Mike",
+            "Twitter": "@RepBost",
+            "Party": "R"
+        },
+        {
+            "Riding": "Illinois 13th District",
+            "Name": "Davis, Rodney",
+            "Twitter": "@RodneyDavis",
+            "Party": "R"
+        },
+        {
+            "Riding": "Illinois 14th District",
+            "Name": "Underwood, Lauren",
+            "Twitter": "@RepUnderwood",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 15th District",
+            "Name": "Miller, Mary",
+            "Twitter": "@RepMaryMiller",
+            "Party": "R"
+        },
+        {
+            "Riding": "Illinois 16th District",
+            "Name": "Kinzinger, Adam",
+            "Twitter": "@RepKinzinger",
+            "Party": "R"
+        },
+        {
+            "Riding": "Illinois 17th District",
+            "Name": "Bustos, Cheri",
+            "Twitter": "@RepCheri",
+            "Party": "D"
+        },
+        {
+            "Riding": "Illinois 18th District",
+            "Name": "LaHood,Darin",
+            "Twitter": "@ElectLaHood",
+            "Party": "R"
+        }
+    ],
+    "Indiana": [
+        {
+            "Riding": "Indiana 1st District",
+            "Name": "Mrvan, Frank",
+            "Twitter": "@RepMrvan",
+            "Party": "D"
+        },
+        {
+            "Riding": "Indiana 2nd District",
+            "Name": "Walorski, Jackie",
+            "Twitter": "@RepWalorski",
+            "Party": "R"
+        },
+        {
+            "Riding": "Indiana 3rd District",
+            "Name": "Banks, Jim",
+            "Twitter": "@Jim_Banks",
+            "Party": "R"
+        },
+        {
+            "Riding": "Indiana 4th District",
+            "Name": "Baird, James",
+            "Twitter": "@RepJimBaird",
+            "Party": "R"
+        },
+        {
+            "Riding": "Indiana 5th District",
+            "Name": "Spartz, Victoria",
+            "Twitter": "@Victoria_Spartz",
+            "Party": "R"
+        },
+        {
+            "Riding": "Indiana 6th District",
+            "Name": "Pence, Greg",
+            "Twitter": "@RepGregPence",
+            "Party": "R"
+        },
+        {
+            "Riding": "Indiana 7th District",
+            "Name": "Carson, Andr\u00e9",
+            "Twitter": "@RepAndreCarson",
+            "Party": "D"
+        },
+        {
+            "Riding": "Indiana 8th District",
+            "Name": "Bucshon, Larry",
+            "Twitter": "@RepLarryBucshon",
+            "Party": "R"
+        },
+        {
+            "Riding": "Indiana 9th District",
+            "Name": "Hollingsworth, Trey",
+            "Twitter": "@VoteForTrey",
+            "Party": "R"
+        }
+    ],
+    "Iowa": [
+        {
+            "Riding": "Iowa 1st District",
+            "Name": "Hinson, Ashley",
+            "Twitter": "@RepAshleyHinson",
+            "Party": "R"
+        },
+        {
+            "Riding": "Iowa 2nd District",
+            "Name": "Miller-Meeks, Mariannette",
+            "Twitter": "@RepMMM",
+            "Party": "R"
+        },
+        {
+            "Riding": "Iowa 3rd District",
+            "Name": "Axne, Cynthia",
+            "Twitter": "@RepCindyAxne",
+            "Party": "D"
+        },
+        {
+            "Riding": "Iowa 4th District",
+            "Name": "Feenstra, Randy",
+            "Twitter": "@RandyFeenstra",
+            "Party": "R"
+        }
+    ],
+    "Kansas": [
+        {
+            "Riding": "Kansas 1st District",
+            "Name": "Mann, Tracey",
+            "Twitter": "@TraceyMannKS",
+            "Party": "R"
+        },
+        {
+            "Riding": "Kansas 2nd District",
+            "Name": "LaTurner, Jake",
+            "Twitter": "@JakeLaTurner",
+            "Party": "R"
+        },
+        {
+            "Riding": "Kansas 3rd District",
+            "Name": "Davids, Sharice",
+            "Twitter": "@sharicedavids",
+            "Party": "D"
+        },
+        {
+            "Riding": "Kansas 4th District",
+            "Name": "Estes, Ron",
+            "Twitter": "@RepRonEstes",
+            "Party": "R"
+        }
+    ],
+    "Kentucky": [
+        {
+            "Riding": "Kentucky 1st District",
+            "Name": "Comer, James",
+            "Twitter": "@JamesComer",
+            "Party": "R"
+        },
+        {
+            "Riding": "Kentucky 2nd District",
+            "Name": "Guthrie, S. Brett",
+            "Twitter": "@RepGuthrie",
+            "Party": "R"
+        },
+        {
+            "Riding": "Kentucky 3rd District",
+            "Name": "Yarmuth, John A.",
+            "Twitter": "@RepJohnYarmuth",
+            "Party": "D"
+        },
+        {
+            "Riding": "Kentucky 4th District",
+            "Name": "Massie, Thomas",
+            "Twitter": "@RepThomasMassie",
+            "Party": "R"
+        },
+        {
+            "Riding": "Kentucky 5th District",
+            "Name": "Rogers, Harold",
+            "Twitter": "@RepHalRogers",
+            "Party": "R"
+        },
+        {
+            "Riding": "Kentucky 6th District",
+            "Name": "Barr, Andy",
+            "Twitter": "@RepAndyBarr",
+            "Party": "R"
+        }
+    ],
+    "Louisiana": [
+        {
+            "Riding": "Louisiana 1st District",
+            "Name": "Scalise, Steve",
+            "Twitter": "@SteveScalise",
+            "Party": "R"
+        },
+        {
+            "Riding": "Louisiana 2nd District",
+            "Name": "Richmond, Cedric",
+            "Twitter": "@RepRichmond",
+            "Party": "D"
+        },
+        {
+            "Riding": "Louisiana 3rd District",
+            "Name": "Higgins, Clay",
+            "Twitter": "@CaptClayHIggins",
+            "Party": "R"
+        },
+        {
+            "Riding": "Louisiana 4th District",
+            "Name": "Johnson, Mike",
+            "Twitter": "@RepMikeJohnson",
+            "Party": "R"
+        },
+        {
+            "Riding": "Louisiana 6th District",
+            "Name": "Graves, Garret",
+            "Twitter": "@RepGarretGraves",
+            "Party": "R"
+        }
+    ],
+    "Maine": [
+        {
+            "Riding": "Maine 1st District",
+            "Name": "Pingree, Chellie",
+            "Twitter": "@chelliepingree",
+            "Party": "D"
+        },
+        {
+            "Riding": "Maine 2nd District",
+            "Name": "Golden, Jared",
+            "Twitter": "@RepGolden",
+            "Party": "D"
+        }
+    ],
+    "Maryland": [
+        {
+            "Riding": "Maryland 1st District",
+            "Name": "Harris, Andy",
+            "Twitter": "@RepAndyHarrisMD",
+            "Party": "R"
+        },
+        {
+            "Riding": "Maryland 2nd District",
+            "Name": "Ruppersberger, C. A. Dutch",
+            "Twitter": "@Call_Me_Dutch",
+            "Party": "D"
+        },
+        {
+            "Riding": "Maryland 3rd District",
+            "Name": "Sarbanes, John P.",
+            "Twitter": "@RepSarbanes",
+            "Party": "D"
+        },
+        {
+            "Riding": "Maryland 4th District",
+            "Name": "Brown, Anthony",
+            "Twitter": "@RepAnthonyBrown",
+            "Party": "D"
+        },
+        {
+            "Riding": "Maryland 5th District",
+            "Name": "Hoyer, Steny H.",
+            "Twitter": "@LeaderHoyer",
+            "Party": "D"
+        },
+        {
+            "Riding": "Maryland 6th District",
+            "Name": "Trone, David",
+            "Twitter": "@RepDavidTrone",
+            "Party": "D"
+        },
+        {
+            "Riding": "Maryland 7th District",
+            "Name": "Mfume, Kweisi",
+            "Twitter": "@Mfume4Congress",
+            "Party": "D"
+        },
+        {
+            "Riding": "Maryland 8th District",
+            "Name": "Raskin, Jamie",
+            "Twitter": "@Jamie_Raskin",
+            "Party": "D"
+        }
+    ],
+    "Massachusetts": [
+        {
+            "Riding": "Massachusetts 1st District",
+            "Name": "Neal, Richard E.",
+            "Twitter": "@RepRichardNeal",
+            "Party": "D"
+        },
+        {
+            "Riding": "Massachusetts 2nd District",
+            "Name": "McGovern, James",
+            "Twitter": "@RepMcGovern",
+            "Party": "D"
+        },
+        {
+            "Riding": "Massachusetts 3rd District",
+            "Name": "Trahan, Lori",
+            "Twitter": "@RepLoriTrahan",
+            "Party": "D"
+        },
+        {
+            "Riding": "Massachusetts 4th District",
+            "Name": "Auchincloss, Jake",
+            "Twitter": "@JakeAuch",
+            "Party": "D"
+        },
+        {
+            "Riding": "Massachusetts 5th District",
+            "Name": "Clark, Katherine",
+            "Twitter": "@RepKClark",
+            "Party": "D"
+        },
+        {
+            "Riding": "Massachusetts 6th District",
+            "Name": "Moulton, Seth",
+            "Twitter": "@teammoulton",
+            "Party": "D"
+        },
+        {
+            "Riding": "Massachusetts 7th District",
+            "Name": "Pressley, Ayanna",
+            "Twitter": "@RepPressley",
+            "Party": "D"
+        },
+        {
+            "Riding": "Massachusetts 8th District",
+            "Name": "Lynch, Stephen F.",
+            "Twitter": "@RepStephenLynch",
+            "Party": "D"
+        },
+        {
+            "Riding": "Massachusetts 9th District",
+            "Name": "Keating, William",
+            "Twitter": "@USRepKeating",
+            "Party": "D"
+        }
+    ],
+    "Michigan": [
+        {
+            "Riding": "Michigan 1st District",
+            "Name": "Bergman, Jack",
+            "Twitter": "@JackBergman_MI1",
+            "Party": "R"
+        },
+        {
+            "Riding": "Michigan 2nd District",
+            "Name": "Huizenga, Bill",
+            "Twitter": "@RepHuizenga",
+            "Party": "R"
+        },
+        {
+            "Riding": "Michigan 3rd District",
+            "Name": "Meijer, Peter",
+            "Twitter": "@VoteMeijer",
+            "Party": "R"
+        },
+        {
+            "Riding": "Michigan 4th District",
+            "Name": "Moolenaar, John",
+            "Twitter": "@RepMoolenaar",
+            "Party": "R"
+        },
+        {
+            "Riding": "Michigan 5th District",
+            "Name": "Kildee, Daniel",
+            "Twitter": "@RepDanKildee",
+            "Party": "D"
+        },
+        {
+            "Riding": "Michigan 6th District",
+            "Name": "Upton, Fred",
+            "Twitter": "@RepFredUpton",
+            "Party": "R"
+        },
+        {
+            "Riding": "Michigan 7th District",
+            "Name": "Walberg, Tim",
+            "Twitter": "@RepWalberg",
+            "Party": "R"
+        },
+        {
+            "Riding": "Michigan 8th District",
+            "Name": "Slotkin, Elissa",
+            "Twitter": "@RepSlotkin",
+            "Party": "D"
+        },
+        {
+            "Riding": "Michigan 9th District",
+            "Name": "Levin, Andy",
+            "Twitter": "@RepAndyLevin",
+            "Party": "D"
+        },
+        {
+            "Riding": "Michigan 10th District",
+            "Name": "McClain, Lisa",
+            "Twitter": "@LisaForCongress",
+            "Party": "R"
+        },
+        {
+            "Riding": "Michigan 11th District",
+            "Name": "Stevens, Haley",
+            "Twitter": "@RepHaleyStevens",
+            "Party": "D"
+        },
+        {
+            "Riding": "Michigan 12th District",
+            "Name": "Dingell, Debbie",
+            "Twitter": "@RepDebDingell",
+            "Party": "D"
+        },
+        {
+            "Riding": "Michigan 13th District",
+            "Name": "Tlaib, Rashida",
+            "Twitter": "@RepRashida",
+            "Party": "D"
+        },
+        {
+            "Riding": "Michigan 14th District",
+            "Name": "Lawrence, Brenda",
+            "Twitter": "@RepLawrence",
+            "Party": "D"
+        }
+    ],
+    "Minnesota": [
+        {
+            "Riding": "Minnesota 1st District",
+            "Name": "Hagedorn, Jim",
+            "Twitter": "@RepHagedorn",
+            "Party": "R"
+        },
+        {
+            "Riding": "Minnesota 2nd District",
+            "Name": "Craig, Angie",
+            "Twitter": "@RepAngieCraig",
+            "Party": "D"
+        },
+        {
+            "Riding": "Minnesota 3rd District",
+            "Name": "Phillips, Dean",
+            "Twitter": "@RepDeanPhillips",
+            "Party": "D"
+        },
+        {
+            "Riding": "Minnesota 4th District",
+            "Name": "McCollum, Betty",
+            "Twitter": "@BettyMcCollum04",
+            "Party": "D"
+        },
+        {
+            "Riding": "Minnesota 5th District",
+            "Name": "Omar, Ilhan",
+            "Twitter": "@IlhanMN",
+            "Party": "D"
+        },
+        {
+            "Riding": "Minnesota 6th District",
+            "Name": "Emmer, Tom",
+            "Twitter": "@RepTomEmmer",
+            "Party": "R"
+        },
+        {
+            "Riding": "Minnesota 7th District",
+            "Name": "Fischbach, Michelle",
+            "Twitter": "@FischbachMN7",
+            "Party": "R"
+        },
+        {
+            "Riding": "Minnesota 8th District",
+            "Name": "Stauber, Pete",
+            "Twitter": "@RepPeteStauber",
+            "Party": "R"
+        }
+    ],
+    "Mississippi": [
+        {
+            "Riding": "Mississippi 1st District",
+            "Name": "Kelly, Trent",
+            "Twitter": "@RepTrentKelly",
+            "Party": "R"
+        },
+        {
+            "Riding": "Mississippi 2nd District",
+            "Name": "Thompson, Bennie G.",
+            "Twitter": "@BennieGThompson",
+            "Party": "D"
+        },
+        {
+            "Riding": "Mississippi 3rd District",
+            "Name": "Guest, Michael",
+            "Twitter": "@RepMichaelGuest",
+            "Party": "R"
+        },
+        {
+            "Riding": "Mississippi 4th District",
+            "Name": "Palazzo, Steven",
+            "Twitter": "@CongPalazzo",
+            "Party": "R"
+        }
+    ],
+    "Missouri": [
+        {
+            "Riding": "Missouri 1st District",
+            "Name": "Bush, Cori",
+            "Twitter": "@CoriBush",
+            "Party": "D"
+        },
+        {
+            "Riding": "Missouri 2nd District",
+            "Name": "Wagner, Ann",
+            "Twitter": "@RepAnnWagner",
+            "Party": "R"
+        },
+        {
+            "Riding": "Missouri 3rd District",
+            "Name": "Luetkemeyer, Blaine",
+            "Twitter": "@RepBlaine",
+            "Party": "R"
+        },
+        {
+            "Riding": "Missouri 4th District",
+            "Name": "Hartzler, Vicky",
+            "Twitter": "@RepHartzler",
+            "Party": "R"
+        },
+        {
+            "Riding": "Missouri 5th District",
+            "Name": "Cleaver, Emanuel",
+            "Twitter": "@repcleaver",
+            "Party": "D"
+        },
+        {
+            "Riding": "Missouri 6th District",
+            "Name": "Graves, Sam",
+            "Twitter": "@RepSamGraves",
+            "Party": "R"
+        },
+        {
+            "Riding": "Missouri 7th District",
+            "Name": "Long, Billy",
+            "Twitter": "@USRepLong",
+            "Party": "R"
+        },
+        {
+            "Riding": "Missouri 8th District",
+            "Name": "Smith, Jason",
+            "Twitter": "@RepJasonSmith",
+            "Party": "R"
+        }
+    ],
+    "Montana At-Large": [
+        {
+            "Riding": "Montana At-Large",
+            "Name": "Rosendale, Matt",
+            "Twitter": "@MattForMontana",
+            "Party": "R"
+        }
+    ],
+    "Nebraska": [
+        {
+            "Riding": "Nebraska 1st District",
+            "Name": "Fortenberry, Jeff",
+            "Twitter": "@JeffFortenberry",
+            "Party": "R"
+        },
+        {
+            "Riding": "Nebraska 2nd District",
+            "Name": "Bacon, Don",
+            "Twitter": "@RepDonBacon",
+            "Party": "R"
+        },
+        {
+            "Riding": "Nebraska 3rd District",
+            "Name": "Smith, Adrian",
+            "Twitter": "@RepAdrianSmith",
+            "Party": "R"
+        }
+    ],
+    "Nevada": [
+        {
+            "Riding": "Nevada 1st District",
+            "Name": "Titus, Dina",
+            "Twitter": "@repdinatitus",
+            "Party": "D"
+        },
+        {
+            "Riding": "Nevada 2nd District",
+            "Name": "Amodei, Mark",
+            "Twitter": "@MarkAmodeiNV2",
+            "Party": "R"
+        },
+        {
+            "Riding": "Nevada 3rd District",
+            "Name": "Lee, Susie",
+            "Twitter": "@RepSusieLee",
+            "Party": "D"
+        },
+        {
+            "Riding": "Nevada 4th District",
+            "Name": "Horsford, Steven",
+            "Twitter": "@RepHorsford",
+            "Party": "D"
+        }
+    ],
+    "New Hampshire": [
+        {
+            "Riding": "New Hampshire 1st District",
+            "Name": "Pappas, Chris",
+            "Twitter": "@RepChrisPappas",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Hampshire 2nd District",
+            "Name": "Kuster, Ann",
+            "Twitter": "@RepAnnieKuster",
+            "Party": "D"
+        }
+    ],
+    "New Jersey": [
+        {
+            "Riding": "New Jersey 1st District",
+            "Name": "Norcross, Donald",
+            "Twitter": "@DonNorcross4NJ",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Jersey 2nd District",
+            "Name": "Van Drew, Jefferson",
+            "Twitter": "@JeffVanDrew",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Jersey 3rd District",
+            "Name": "Kim, Andy",
+            "Twitter": "@RepAndyKimNJ",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Jersey 4th District",
+            "Name": "Smith, Chris",
+            "Twitter": "@RepChrisSmith",
+            "Party": "R"
+        },
+        {
+            "Riding": "New Jersey 5th District",
+            "Name": "Gottheimer, Josh",
+            "Twitter": "@JoshGottheimer",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Jersey 6th District",
+            "Name": "Pallone Jr., Frank",
+            "Twitter": "@FrankPallone",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Jersey 7th District",
+            "Name": "Malinowski, Tom",
+            "Twitter": "@RepMalinowski",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Jersey 8th District",
+            "Name": "Sires, Albio",
+            "Twitter": "@RepSires",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Jersey 9th District",
+            "Name": "Pascrell Jr., Bill",
+            "Twitter": "@BillPascrell",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Jersey 10th District",
+            "Name": "Payne Jr., Donald",
+            "Twitter": "@RepDonaldPayne",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Jersey 11th District",
+            "Name": "Sherrill, Mikie",
+            "Twitter": "@RepSherrill",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Jersey 12th District",
+            "Name": "Watson Coleman, Bonnie",
+            "Twitter": "@RepBonnie",
+            "Party": "D"
+        }
+    ],
+    "New Mexico": [
+        {
+            "Riding": "New Mexico 1st District",
+            "Name": "Haaland, Debra",
+            "Twitter": "@RepDebHaaland",
+            "Party": "D"
+        },
+        {
+            "Riding": "New Mexico 2nd District",
+            "Name": "Herrell, Yvette",
+            "Twitter": "@Yvette4congress",
+            "Party": "R"
+        },
+        {
+            "Riding": "New Mexico 3rd District",
+            "Name": "Fernandez, Teresa Leger",
+            "Twitter": "@TeresaForNM",
+            "Party": "D"
+        }
+    ],
+    "New York": [
+        {
+            "Riding": "New York 1st District",
+            "Name": "Zeldin, Lee",
+            "Twitter": "@RepLeeZeldin",
+            "Party": "R"
+        },
+        {
+            "Riding": "New York 2nd District",
+            "Name": "Garbarino, Andrew",
+            "Twitter": "@garbarinoforcongress",
+            "Party": "R"
+        },
+        {
+            "Riding": "New York 3rd District",
+            "Name": "Suozzi, Tom",
+            "Twitter": "@Tom_Suozzi",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 4th District",
+            "Name": "Rice, Kathleen",
+            "Twitter": "@RepKathleenRice",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 5th District",
+            "Name": "Meeks, Gregory W.",
+            "Twitter": "@RepGregoryMeeks",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 6th District",
+            "Name": "Meng, Grace",
+            "Twitter": "@RepGraceMeng",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 7th District",
+            "Name": "Vel\u00e1zquez, Nydia M.",
+            "Twitter": "@NydiaVelazquez",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 8th District",
+            "Name": "Jeffries, Hakeem",
+            "Twitter": "@RepJeffries",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 9th District",
+            "Name": "Clarke, Yvette D.",
+            "Twitter": "@RepYvetteClarke",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 10th District",
+            "Name": "Nadler, Jerrold",
+            "Twitter": "@RepJerryNadler",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 11th District",
+            "Name": "Malliotakis, Nicole",
+            "Twitter": "@Nmalliotakis",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 12th District",
+            "Name": "Maloney, Carolyn",
+            "Twitter": "@RepMaloney",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 13th District",
+            "Name": "Espaillat, Adriano",
+            "Twitter": "@EspaillatNY",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 14th District",
+            "Name": "Ocasio-Cortez, Alexandria",
+            "Twitter": "@RepAOC",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 15th District",
+            "Name": "Torres, Ritchie",
+            "Twitter": "@RitchieTorres",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 16th District",
+            "Name": "Bowman, Jamaal",
+            "Twitter": "@JamaalBowmanNY",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 17th District",
+            "Name": "Jones, Mondaire",
+            "Twitter": "@MondaireJones",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 18th District",
+            "Name": "Maloney, Sean Patrick",
+            "Twitter": "@RepSeanMaloney",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 19th District",
+            "Name": "Delgado, Antonio",
+            "Twitter": "@RepDelgado",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 20th District",
+            "Name": "Tonko, Paul D.",
+            "Twitter": "@RepPaulTonko",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 21st District",
+            "Name": "Stefanik, Elise",
+            "Twitter": "@RepStefanik",
+            "Party": "R"
+        },
+        {
+            "Riding": "New York 22nd District",
+            "Name": "Tenney, Claudia",
+            "Twitter": "@claudiatenney",
+            "Party": "R"
+        },
+        {
+            "Riding": "New York 23rd District",
+            "Name": "Reed, Tom",
+            "Twitter": "@RepTomReed",
+            "Party": "R"
+        },
+        {
+            "Riding": "New York 24th District",
+            "Name": "Katko, John",
+            "Twitter": "@RepJohnKatko",
+            "Party": "R"
+        },
+        {
+            "Riding": "New York 25th District",
+            "Name": "Morelle, Joseph",
+            "Twitter": "@RepJoeMorelle",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 26th District",
+            "Name": "Higgins, Brian",
+            "Twitter": "@RepBrianHiggins",
+            "Party": "D"
+        },
+        {
+            "Riding": "New York 27th District",
+            "Name": "Jacobs, Chris",
+            "Twitter": "@jacobsny27",
+            "Party": "R"
+        }
+    ],
+    "North Carolina": [
+        {
+            "Riding": "North Carolina 1st District",
+            "Name": "Butterfield, G.K.",
+            "Twitter": "@GKButterfield",
+            "Party": "D"
+        },
+        {
+            "Riding": "North Carolina 2nd District",
+            "Name": "Ross, Deborah K.",
+            "Twitter": "@DeborahRossNC",
+            "Party": "D"
+        },
+        {
+            "Riding": "North Carolina 3rd District",
+            "Name": "Murphy, Greg",
+            "Twitter": "@RepGregMurphy",
+            "Party": "R"
+        },
+        {
+            "Riding": "North Carolina 4th District",
+            "Name": "Price, David",
+            "Twitter": "@RepDavidEPrice",
+            "Party": "D"
+        },
+        {
+            "Riding": "North Carolina 5th District",
+            "Name": "Foxx, Virginia",
+            "Twitter": "@virginiafoxx",
+            "Party": "R"
+        },
+        {
+            "Riding": "North Carolina 6th District",
+            "Name": "Manning, Kathy",
+            "Twitter": "@KathyManningNC",
+            "Party": "D"
+        },
+        {
+            "Riding": "North Carolina 7th District",
+            "Name": "Rouzer, David",
+            "Twitter": "@RepDavidRouzer",
+            "Party": "R"
+        },
+        {
+            "Riding": "North Carolina 8th District",
+            "Name": "Hudson, Richard",
+            "Twitter": "@RepRichHudson",
+            "Party": "R"
+        },
+        {
+            "Riding": "North Carolina 9th District",
+            "Name": "Bishop, Dan",
+            "Twitter": "@jdanbishop",
+            "Party": "R"
+        },
+        {
+            "Riding": "North Carolina 10th District",
+            "Name": "McHenry, Patrick T.",
+            "Twitter": "@PatrickMcHenry",
+            "Party": "R"
+        },
+        {
+            "Riding": "North Carolina 11th District",
+            "Name": "Cawthorn, Madison",
+            "Twitter": "@CawthornforNC",
+            "Party": "R"
+        },
+        {
+            "Riding": "North Carolina 12th District",
+            "Name": "Adams, Alma",
+            "Twitter": "@RepAdams",
+            "Party": "D"
+        },
+        {
+            "Riding": "North Carolina 13th District",
+            "Name": "Budd, Ted",
+            "Twitter": "@BuddforCongress",
+            "Party": "R"
+        }
+    ],
+    "North Dakota At-Large": [
+        {
+            "Riding": "North Dakota At-Large",
+            "Name": "Armstrong, Kelly",
+            "Twitter": "@RepArmstrongND",
+            "Party": "R"
+        }
+    ],
+    "Northern Mariana Islands At-Large": [
+        {
+            "Riding": "Northern Mariana Islands At-Large",
+            "Name": "Sablan, Gregorio",
+            "Twitter": "@Kilili_Sablan",
+            "Party": "D"
+        }
+    ],
+    "Ohio": [
+        {
+            "Riding": "Ohio 1st District",
+            "Name": "Chabot, Steve",
+            "Twitter": "@RepSteveChabot",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 2nd District",
+            "Name": "Wenstrup, Brad",
+            "Twitter": "@RepBradWenstrup",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 3rd District",
+            "Name": "Beatty, Joyce",
+            "Twitter": "@RepBeatty",
+            "Party": "D"
+        },
+        {
+            "Riding": "Ohio 4th District",
+            "Name": "Jordan, Jim",
+            "Twitter": "@Jim_Jordan",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 5th District",
+            "Name": "Latta, Robert E.",
+            "Twitter": "@boblatta",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 6th District",
+            "Name": "Johnson, Bill",
+            "Twitter": "@RepBillJohnson",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 7th District",
+            "Name": "Gibbs, Bob",
+            "Twitter": "@RepBobGibbs",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 8th District",
+            "Name": "Davidson, Warren",
+            "Twitter": "@WarrenDavidson",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 9th District",
+            "Name": "Kaptur, Marcy",
+            "Twitter": "@RepMarcyKaptur",
+            "Party": "D"
+        },
+        {
+            "Riding": "Ohio 10th District",
+            "Name": "Turner, Michael",
+            "Twitter": "@RepMikeTurner",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 11th District",
+            "Name": "Fudge, Marcia L.",
+            "Twitter": "@RepMarciaFudge",
+            "Party": "D"
+        },
+        {
+            "Riding": "Ohio 12th District",
+            "Name": "Balderson, Troy",
+            "Twitter": "@RepBalderson",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 13th District",
+            "Name": "Ryan, Tim",
+            "Twitter": "@RepTimRyan",
+            "Party": "D"
+        },
+        {
+            "Riding": "Ohio 14th District",
+            "Name": "Joyce, David",
+            "Twitter": "@RepDaveJoyce",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 15th District",
+            "Name": "Stivers, Steve",
+            "Twitter": "@RepSteveStivers",
+            "Party": "R"
+        },
+        {
+            "Riding": "Ohio 16th District",
+            "Name": "Gonzalez, Anthony",
+            "Twitter": "@RepAGonzalez",
+            "Party": "R"
+        }
+    ],
+    "Oklahoma": [
+        {
+            "Riding": "Oklahoma 1st District",
+            "Name": "Hern, Kevin",
+            "Twitter": "@RepKevinHern",
+            "Party": "R"
+        },
+        {
+            "Riding": "Oklahoma 2nd District",
+            "Name": "Mullin, Markwayne",
+            "Twitter": "@RepMullin",
+            "Party": "R"
+        },
+        {
+            "Riding": "Oklahoma 3rd District",
+            "Name": "Lucas, Frank",
+            "Twitter": "@RepFrankLucas",
+            "Party": "R"
+        },
+        {
+            "Riding": "Oklahoma 4th District",
+            "Name": "Cole, Tom",
+            "Twitter": "@TomColeOK04",
+            "Party": "R"
+        },
+        {
+            "Riding": "Oklahoma 5th District",
+            "Name": "Bice, Stephanie",
+            "Twitter": "@stephaniebice",
+            "Party": "R"
+        }
+    ],
+    "Oregon": [
+        {
+            "Riding": "Oregon 1st District",
+            "Name": "Bonamici, Suzanne",
+            "Twitter": "@RepBonamici",
+            "Party": "D"
+        },
+        {
+            "Riding": "Oregon 2nd District",
+            "Name": "Bentz, Cliff",
+            "Twitter": "@RepBentz",
+            "Party": "R"
+        },
+        {
+            "Riding": "Oregon 3rd District",
+            "Name": "Blumenauer, Earl",
+            "Twitter": "@repblumenauer",
+            "Party": "D"
+        },
+        {
+            "Riding": "Oregon 4th District",
+            "Name": "DeFazio, Peter",
+            "Twitter": "@RepPeterDeFazio",
+            "Party": "D"
+        },
+        {
+            "Riding": "Oregon 5th District",
+            "Name": "Schrader, Kurt",
+            "Twitter": "@RepSchrader",
+            "Party": "D"
+        }
+    ],
+    "Puerto Rico At-Large": [
+        {
+            "Riding": "Puerto Rico At-Large",
+            "Name": "Gonzalez-Colon, Jenniffer",
+            "Twitter": "@Jenniffer2012",
+            "Party": "R"
+        }
+    ],
+    "Pennsylvania": [
+        {
+            "Riding": "Pennsylvania 1st District",
+            "Name": "Fitzpatrick, Brady",
+            "Twitter": "@RepBrianFitz",
+            "Party": "R"
+        },
+        {
+            "Riding": "Pennsylvania 2nd District",
+            "Name": "Boyle, Brendan",
+            "Twitter": "@CongBoyle",
+            "Party": "D"
+        },
+        {
+            "Riding": "Pennsylvania 3rd District",
+            "Name": "Evans, Dwight",
+            "Twitter": "@RepDwightEvans",
+            "Party": "D"
+        },
+        {
+            "Riding": "Pennsylvania 4th District",
+            "Name": "Dean, Madeleine",
+            "Twitter": "@RepDean",
+            "Party": "D"
+        },
+        {
+            "Riding": "Pennsylvania 5th District",
+            "Name": "Scanlon, Mary-Gay",
+            "Twitter": "@RepMGS",
+            "Party": "D"
+        },
+        {
+            "Riding": "Pennsylvania 6th District",
+            "Name": "Houlahan, Chrissy",
+            "Twitter": "@RepHoulahan",
+            "Party": "D"
+        },
+        {
+            "Riding": "Pennsylvania 7th District",
+            "Name": "Wild, Susan",
+            "Twitter": "@RepSusanWild",
+            "Party": "D"
+        },
+        {
+            "Riding": "Pennsylvania 8th District",
+            "Name": "Cartwright, Matt",
+            "Twitter": "@RepCartwright",
+            "Party": "D"
+        },
+        {
+            "Riding": "Pennsylvania 9th District",
+            "Name": "Meuser, Daniel",
+            "Twitter": "@RepMeuser",
+            "Party": "R"
+        },
+        {
+            "Riding": "Pennsylvania 10th District",
+            "Name": "Perry, Scott",
+            "Twitter": "@RepScottPerry",
+            "Party": "R"
+        },
+        {
+            "Riding": "Pennsylvania 11th District",
+            "Name": "Smucker, Lloyd",
+            "Twitter": "@RepLloyd",
+            "Party": "R"
+        },
+        {
+            "Riding": "Pennsylvania 12th District",
+            "Name": "Keller, Fred",
+            "Twitter": "@RepFredKelle",
+            "Party": "R"
+        },
+        {
+            "Riding": "Pennsylvania 13th District",
+            "Name": "Joyce, John",
+            "Twitter": "@RepJohnJoyce",
+            "Party": "R"
+        },
+        {
+            "Riding": "Pennsylvania 14th District",
+            "Name": "Reschenthaler, Guy",
+            "Twitter": "@GReschenthaler",
+            "Party": "R"
+        },
+        {
+            "Riding": "Pennsylvania 15th District",
+            "Name": "Thompson, Glenn",
+            "Twitter": "@CongressmanGT",
+            "Party": "R"
+        },
+        {
+            "Riding": "Pennsylvania 16th District",
+            "Name": "Kelly, Mike",
+            "Twitter": "@MikeKellyforPA",
+            "Party": "R"
+        },
+        {
+            "Riding": "Pennsylvania 17th District",
+            "Name": "Lamb, Conor",
+            "Twitter": "@RepConorLamb",
+            "Party": "D"
+        },
+        {
+            "Riding": "Pennsylvania 18th District",
+            "Name": "Doyle, Michael",
+            "Twitter": "@USRepMikeDoyle",
+            "Party": "D"
+        }
+    ],
+    "Rhode Island": [
+        {
+            "Riding": "Rhode Island 1st District",
+            "Name": "Cicilline, David",
+            "Twitter": "@RepCicilline",
+            "Party": "D"
+        },
+        {
+            "Riding": "Rhode Island 2nd District",
+            "Name": "Langevin, Jim",
+            "Twitter": "@jimlangevin",
+            "Party": "D"
+        }
+    ],
+    "South Carolina": [
+        {
+            "Riding": "South Carolina 1st District",
+            "Name": "Mace, Nancy",
+            "Twitter": "@NancyMace",
+            "Party": "R"
+        },
+        {
+            "Riding": "South Carolina 2nd District",
+            "Name": "Wilson, Joe",
+            "Twitter": "@RepJoeWilson",
+            "Party": "R"
+        },
+        {
+            "Riding": "South Carolina 3rd District",
+            "Name": "Duncan, Jeff",
+            "Twitter": "@RepJeffDuncan",
+            "Party": "R"
+        },
+        {
+            "Riding": "South Carolina 4th District",
+            "Name": "Timmons, William",
+            "Twitter": "@RepTimmons",
+            "Party": "R"
+        },
+        {
+            "Riding": "South Carolina 5th District",
+            "Name": "Norman, Ralph",
+            "Twitter": "@RepRalphNorman",
+            "Party": "R"
+        },
+        {
+            "Riding": "South Carolina 6th District",
+            "Name": "Clyburn, James E.",
+            "Twitter": "@WhipClyburn",
+            "Party": "D"
+        },
+        {
+            "Riding": "South Carolina 7th District",
+            "Name": "Rice, Tom",
+            "Twitter": "@RepTomRice",
+            "Party": "R"
+        }
+    ],
+    "South Dakota At-Large": [
+        {
+            "Riding": "South Dakota At-Large",
+            "Name": "Johnson, Dusty",
+            "Twitter": "@RepDustyJohnson",
+            "Party": "R"
+        }
+    ],
+    "Tennessee": [
+        {
+            "Riding": "Tennessee 1st District",
+            "Name": "Harshbarger, Diana",
+            "Twitter": "@DHarshbargerTN1",
+            "Party": "R"
+        },
+        {
+            "Riding": "Tennessee 2nd District",
+            "Name": "Burchett, Tim",
+            "Twitter": "@RepTimBurchett",
+            "Party": "R"
+        },
+        {
+            "Riding": "Tennessee 3rd District",
+            "Name": "Fleischmann, Chuck",
+            "Twitter": "@RepChuck",
+            "Party": "R"
+        },
+        {
+            "Riding": "Tennessee 4th District",
+            "Name": "DesJarlais, Scott",
+            "Twitter": "@DesJarlaisTN04",
+            "Party": "R"
+        },
+        {
+            "Riding": "Tennessee 5th District",
+            "Name": "Cooper, Jim",
+            "Twitter": "@repjimcooper",
+            "Party": "D"
+        },
+        {
+            "Riding": "Tennessee 6th District",
+            "Name": "Rose, John W.",
+            "Twitter": "@RepJohnRose",
+            "Party": "R"
+        },
+        {
+            "Riding": "Tennessee 7th District",
+            "Name": "Green, Mark",
+            "Twitter": "@RepMarkGreen",
+            "Party": "R"
+        },
+        {
+            "Riding": "Tennessee 8th District",
+            "Name": "Kustoff, David",
+            "Twitter": "@DavidKustoff",
+            "Party": "R"
+        },
+        {
+            "Riding": "Tennessee 9th District",
+            "Name": "Cohen, Steve",
+            "Twitter": "@RepCohen",
+            "Party": "D"
+        }
+    ],
+    "Texas": [
+        {
+            "Riding": "Texas 1st District",
+            "Name": "Gohmert, Louie",
+            "Twitter": "@replouiegohmert",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 2nd District",
+            "Name": "Crenshaw, Dan",
+            "Twitter": "@RepDanCrenshaw",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 3rd District",
+            "Name": "Taylor, Van",
+            "Twitter": "@RepVanTaylor",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 4th District",
+            "Name": "Fallon, Pat",
+            "Twitter": "@FallonForTexas",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 5th District",
+            "Name": "Gooden, Lance",
+            "Twitter": "@Lancegooden",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 6th District",
+            "Name": "Wright, Ron",
+            "Twitter": "@RepRonWright",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 7th District",
+            "Name": "Fletcher, Lizzie",
+            "Twitter": "@RepFletcher",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 8th District",
+            "Name": "Brady, Kevin",
+            "Twitter": "@RepKevinBrady",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 9th District",
+            "Name": "Green, Al",
+            "Twitter": "@RepAlGreen",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 10th District",
+            "Name": "McCaul, Michael T.",
+            "Twitter": "@RepMcCaul",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 11th District",
+            "Name": "Pfluger, August",
+            "Twitter": "@AugustPfluger",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 12th District",
+            "Name": "Granger, Kay",
+            "Twitter": "@RepKayGranger",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 13th District",
+            "Name": "Jackson, Ronny",
+            "Twitter": "@RonnyJacksonTX",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 14th District",
+            "Name": "Weber, Randy",
+            "Twitter": "@TXRandy14",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 15th District",
+            "Name": "Gonzalez, Vincente",
+            "Twitter": "@RepGonzalez",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 16th District",
+            "Name": "Escobar, Veronica&nbsp;",
+            "Twitter": "@RepEscobar",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 17th District",
+            "Name": "Sessions, Pete",
+            "Twitter": "@SessionsTX17",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 18th District",
+            "Name": "Jackson Lee, Sheila",
+            "Twitter": "@JacksonLeeTX18",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 19th District",
+            "Name": "Arrington, Jodey",
+            "Twitter": "@JodeyArrington",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 20th District",
+            "Name": "Castro, Joaquin",
+            "Twitter": "@JoaquinCastrotx",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 21st District",
+            "Name": "Roy, Chip",
+            "Twitter": "@RepChipRoy",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 22nd District",
+            "Name": "Nehls, Troy",
+            "Twitter": "@SheriffTNehls",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 23rd District",
+            "Name": "Gonzales, Tony",
+            "Twitter": "@TonyGonzales4TX",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 24th District",
+            "Name": "Van Duyne, Beth",
+            "Twitter": "@Bethvanduyne",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 25th District",
+            "Name": "Williams, Roger",
+            "Twitter": "@RepRWilliams",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 26th District",
+            "Name": "Burgess, Michael",
+            "Twitter": "@michaelcburgess",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 27th District",
+            "Name": "Cloud, Michael",
+            "Twitter": "@RepCloudTX",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 28th District",
+            "Name": "Cuellar, Henry",
+            "Twitter": "@RepCuellar",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 29th District",
+            "Name": "Garcia, Sylvia",
+            "Twitter": "@RepSylviaGarcia",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 30th District",
+            "Name": "Johnson, Eddie Bernice",
+            "Twitter": "@RepEBJ",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 31st District",
+            "Name": "Carter, John",
+            "Twitter": "@JudgeCarter",
+            "Party": "R"
+        },
+        {
+            "Riding": "Texas 32nd District",
+            "Name": "Allred, Colin",
+            "Twitter": "@RepColinAllred",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 33rd District",
+            "Name": "Veasey, Marc",
+            "Twitter": "@RepVeasey",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 34th District",
+            "Name": "Vela, Filemon",
+            "Twitter": "@RepFilemonVela",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 35th District",
+            "Name": "Doggett, Lloyd",
+            "Twitter": "@RepLloydDoggett",
+            "Party": "D"
+        },
+        {
+            "Riding": "Texas 36th District",
+            "Name": "Babin, Brian",
+            "Twitter": "@RepBrianBabin",
+            "Party": "R"
+        }
+    ],
+    "Utah": [
+        {
+            "Riding": "Utah 1st District",
+            "Name": "Moore, Blake",
+            "Twitter": "@RepBlakeMoore",
+            "Party": "R"
+        },
+        {
+            "Riding": "Utah 2nd District",
+            "Name": "Stewart, Chris",
+            "Twitter": "@RepChrisStewart",
+            "Party": "R"
+        },
+        {
+            "Riding": "Utah 3rd District",
+            "Name": "Curtis, John R.",
+            "Twitter": "@RepJohnCurtis",
+            "Party": "R"
+        },
+        {
+            "Riding": "Utah 4th District",
+            "Name": "Owens, Burgess",
+            "Twitter": "@BurgessOwens",
+            "Party": "R"
+        }
+    ],
+    "Vermont At-Large": [
+        {
+            "Riding": "Vermont At-Large",
+            "Name": "Welch, Peter",
+            "Twitter": "@PeterWelch",
+            "Party": "D"
+        }
+    ],
+    "Virginia": [
+        {
+            "Riding": "Virginia 1st District",
+            "Name": "Wittman, Robert J.",
+            "Twitter": "@RobWittman",
+            "Party": "R"
+        },
+        {
+            "Riding": "Virginia 2nd District",
+            "Name": "Luria, Elaine",
+            "Twitter": "@RepElaineLuria",
+            "Party": "D"
+        },
+        {
+            "Riding": "Virginia 3rd District",
+            "Name": "Scott, Robert C.",
+            "Twitter": "@BobbyScott",
+            "Party": "D"
+        },
+        {
+            "Riding": "Virginia 4th District",
+            "Name": "McEacchin, Donald",
+            "Twitter": "@Donald_McEachin",
+            "Party": "R"
+        },
+        {
+            "Riding": "Virginia 5th District",
+            "Name": "Good, Bob",
+            "Twitter": "@GoodForCongress",
+            "Party": "R"
+        },
+        {
+            "Riding": "Virginia 6th District",
+            "Name": "Cline, Ben",
+            "Twitter": "@RepBenCline",
+            "Party": "R"
+        },
+        {
+            "Riding": "Virginia 7th District",
+            "Name": "Spanberger, Abigail",
+            "Twitter": "@RepSpanberger",
+            "Party": "D"
+        },
+        {
+            "Riding": "Virginia 8th District",
+            "Name": "Beyer, Don",
+            "Twitter": "@RepDonBeyer",
+            "Party": "D"
+        },
+        {
+            "Riding": "Virginia 9th District",
+            "Name": "Griffith, Morgan",
+            "Twitter": "@RepMGriffith",
+            "Party": "R"
+        },
+        {
+            "Riding": "Virginia 10th District",
+            "Name": "Wexton, Jennifer",
+            "Twitter": "@RepWexton",
+            "Party": "D"
+        },
+        {
+            "Riding": "Virginia 11th District",
+            "Name": "Connolly, Gerald E. \u201cGerry\u201d",
+            "Twitter": "@GerryConnolly",
+            "Party": "D"
+        }
+    ],
+    "Virgin Islands At-Large": [
+        {
+            "Riding": "Virgin Islands At-Large",
+            "Name": "Plaskett, Stacey",
+            "Twitter": "@StaceyPlaskett",
+            "Party": "D"
+        }
+    ],
+    "Washington": [
+        {
+            "Riding": "Washington 1st District",
+            "Name": "DelBene, Suzan",
+            "Twitter": "@RepDelBene",
+            "Party": "D"
+        },
+        {
+            "Riding": "Washington 2nd District",
+            "Name": "Larsen, Rick",
+            "Twitter": "@RepRickLarsen",
+            "Party": "D"
+        },
+        {
+            "Riding": "Washington 3rd District",
+            "Name": "Herrera Beutler, Jaime",
+            "Twitter": "@HerreraBeutler",
+            "Party": "R"
+        },
+        {
+            "Riding": "Washington 4th District",
+            "Name": "Newhouse, Dan",
+            "Twitter": "@RepNewhouse",
+            "Party": "R"
+        },
+        {
+            "Riding": "Washington 5th District",
+            "Name": "McMorris Rodgers, Cathy",
+            "Twitter": "@cathymcmorris",
+            "Party": "R"
+        },
+        {
+            "Riding": "Washington 6th District",
+            "Name": "Kilmer, Derek",
+            "Twitter": "@RepDerekKilmer",
+            "Party": "D"
+        },
+        {
+            "Riding": "Washington 7th District",
+            "Name": "Jayapal, Pramila",
+            "Twitter": "@PramilaJayapal",
+            "Party": "D"
+        },
+        {
+            "Riding": "Washington 8th District",
+            "Name": "Schrier, Kim",
+            "Twitter": "@RepKimSchrier",
+            "Party": "D"
+        },
+        {
+            "Riding": "Washington 9th District",
+            "Name": "Smith, Adam",
+            "Twitter": "@RepAdamSmith",
+            "Party": "D"
+        },
+        {
+            "Riding": "Washington 10th District",
+            "Name": "Strickland, Marilyn",
+            "Twitter": "@StricklandforWA",
+            "Party": "D"
+        }
+    ],
+    "West Virginia": [
+        {
+            "Riding": "West Virginia 1st District",
+            "Name": "McKinley, David",
+            "Twitter": "@RepMcKinley",
+            "Party": "R"
+        },
+        {
+            "Riding": "West Virginia 2nd District",
+            "Name": "Mooney, Alex",
+            "Twitter": "@RepAlexMooney",
+            "Party": "R"
+        },
+        {
+            "Riding": "West Virginia 3rd District",
+            "Name": "Miller, Carol",
+            "Twitter": "@RepCarolMiller",
+            "Party": "R"
+        }
+    ],
+    "Wisconsin": [
+        {
+            "Riding": "Wisconsin 1st District",
+            "Name": "Steil, Bryan",
+            "Twitter": "@RepBryanSteil",
+            "Party": "D"
+        },
+        {
+            "Riding": "Wisconsin 2nd District",
+            "Name": "Pocan, Mark",
+            "Twitter": "@repmarkpocan",
+            "Party": "D"
+        },
+        {
+            "Riding": "Wisconsin 3rd District",
+            "Name": "Kind, Ron",
+            "Twitter": "@RepRonKind",
+            "Party": "D"
+        },
+        {
+            "Riding": "Wisconsin 4th District",
+            "Name": "Moore, Gwen",
+            "Twitter": "@RepGwenMoore",
+            "Party": "D"
+        },
+        {
+            "Riding": "Wisconsin 5th District",
+            "Name": "Fitzgerald, Scott",
+            "Twitter": "@FitzgeraldForWI",
+            "Party": "R"
+        },
+        {
+            "Riding": "Wisconsin 6th District",
+            "Name": "Grothman, Glenn",
+            "Twitter": "@RepGrothman",
+            "Party": "R"
+        },
+        {
+            "Riding": "Wisconsin 7th District",
+            "Name": "Tiffany, Thomas",
+            "Twitter": "@TomTiffanyWI",
+            "Party": "R"
+        },
+        {
+            "Riding": "Wisconsin 8th District",
+            "Name": "Gallagher, Mike",
+            "Twitter": "@MikeforWI",
+            "Party": "R"
+        }
+    ],
+    "Wyoming At-Large": [
+        {
+            "Riding": "Wyoming At-Large",
+            "Name": "Cheney, Liz",
+            "Twitter": "@Liz_Cheney",
+            "Party": "R"
+        }
+    ]
+}
