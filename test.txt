@@ -1,0 +1,42 @@
+</td>
+<td class="ninja_column_3 ninja_clmn_nm_website" style="display: none;">
+https://www.shelby.senate.gov/public/
+</td>
+<td class="ninja_column_4 ninja_clmn_nm_party" style="display: table-cell;">
+R
+</td>
+<td class="ninja_column_5 ninja_clmn_nm_twitter" style="display: table-cell;">
+<a href="https://twitter.com/SenShelby?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+@SenShelby
+</a>
+</td>
+<td class="ninja_column_6 ninja_clmn_nm_twitterlinks" style="display: none;">
+https://twitter.com/SenShelby?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+</td>
+<td class="ninja_column_7 ninja_clmn_nm_instagram" style="display: table-cell;">
+<a href="https://www.instagram.com/senatorshelby/">
+@senatorshelby
+</a>
+</td>
+<td class="ninja_column_8 ninja_clmn_nm_instagramlinks" style="display: none;">
+https://www.instagram.com/senatorshelby/
+</td>
+<td class="ninja_column_9 ninja_clmn_nm_facebook footable-last-visible" style="display: table-cell;">
+<a href="https://www.facebook.com/RichardShelby">
+x
+</a>
+</td>
+<td class="ninja_column_10 ninja_clmn_nm_facebooklinks" style="display: none;">
+https://www.facebook.com/RichardShelby
+</td>
+</tr>
+<tr data-row_id="1" class="ninja_table_row_1 nt_row_id_1">
+
+<td class="ninja_column_0 ninja_clmn_nm_state footable-first-visible" style="display: table-cell;">
+Alabama
+</td>
+<td class="ninja_column_1 ninja_clmn_nm_memberofcongress" style="display: table-cell;">
+U.S. Senator
+</td>
+<td class="ninja_column_2 ninja_clmn_nm_name" style="display: table-cell;">
+<a href="https://www.tuberville.senate.gov/">Tuberville, Tommy</a>
