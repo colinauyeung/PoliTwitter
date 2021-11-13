@@ -22,12 +22,12 @@ for key in js:
                 #     break
                 js[key][riding][i]["Tweets"].append({"date": tweet.date.strftime("%m/%d/%Y, %H:%M:%S"), "message":tweet.content, 
                 "replies":tweet.replyCount, "retweets":tweet.retweetCount, "likes":tweet.likeCount, 
-                "quotes": tweet.quoteCount})
+                "quotes": tweet.quoteCount, "link": tweet.url})
 
             print(len(js[key][riding][i]["Tweets"]))
             total = total + len(js[key][riding][i]["Tweets"])
 
 print(total)
 
-with open("out3.json", "w") as outfile:
+with open("outwithlink.json", "w") as outfile:
     json.dump(js, outfile)
