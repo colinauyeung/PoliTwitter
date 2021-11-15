@@ -1,7 +1,7 @@
 import json
 import random
 
-with open('outwithRCL.json') as f:
+with open('outwithOC.json') as f:
     js = json.load(f)
 
 nums = []
@@ -15,5 +15,5 @@ print(nums)
 for i in nums:
     sample.append(js[i])
 
-with open("sampleRCL.json", "w") as outfile:
+with open("sampleOC.json", "w") as outfile:
     json.dump(sample, outfile)

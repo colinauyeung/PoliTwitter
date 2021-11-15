@@ -1,7 +1,7 @@
 import json
 import csv
 
-file = "sampleO"
+file = "sampleOC"
 
 with open(file + '.json') as f:
     js = json.load(f)
@@ -12,12 +12,12 @@ with open(file + '.json') as f:
 simple = []
 for tweet in js:
     blob = []
-    link = ""
-    for candidate in links[tweet["State"]][tweet["Riding"]]:
-        if candidate["Name"] == tweet["name"]:
-            for tw in candidate["Tweets"]:
-                if tw["date"] == tweet["date"] and tw["message"] == tweet["message"]:
-                    link = tw["link"]
+    # link = ""
+    # for candidate in links[tweet["State"]][tweet["Riding"]]:
+    #     if candidate["Name"] == tweet["name"]:
+    #         for tw in candidate["Tweets"]:
+    #             if tw["date"] == tweet["date"] and tw["message"] == tweet["message"]:
+    #                 link = tw["link"]
     blob.append(tweet["name"])
     blob.append(tweet["date"])
     blob.append(tweet["message"])

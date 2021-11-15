@@ -95,9 +95,10 @@ noincum = ['Wisconsin 5th District',
 
 for state in js:
     for riding in js[state]:
-        if riding not in noincum:
+        if riding in comp or True:
             for candidate in range(0, len(js[state][riding])):
-                if js[state][riding][candidate]["Party"] == "R" and js[state][riding][candidate]["Incumbent"] == False:
+                if js[state][riding][candidate]["Party"] == "O" :
+                # and js[state][riding][candidate]["Incumbent"] == False:
                     for tweet in range(0, len(js[state][riding][candidate]["Tweets"])):
                         copy = js[state][riding][candidate]["Tweets"][tweet]
                         copy["name"] = js[state][riding][candidate]["Name"]
@@ -107,5 +108,5 @@ for state in js:
                         copy["Riding"] = riding
                         partytweets.append(copy)
 
-with open("outwithRCL.json", "w") as outfile:
+with open("outwithO.json", "w") as outfile:
     json.dump(partytweets, outfile)

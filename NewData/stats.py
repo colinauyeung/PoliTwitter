@@ -1,5 +1,5 @@
 import json
-with open('outwithR.json') as f:
+with open('outwithD.json') as f:
     js = json.load(f)
 
 checklist1 = [ 'biden', 'pelosi', 'kamala', 'harris', 'schumer']
@@ -18,8 +18,8 @@ for tweet in js:
         total = total + 1
         # print(tweet["message"])
 
-    if not (len(dats.split(" ")) == 1 and "http" in dats):
-        total2 = total2 + 1
+    # if not (len(dats.split(" ")) == 1 and "http" in dats):
+    total2 = total2 + 1
 
 print(total)
 print(total2)
