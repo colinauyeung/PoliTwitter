@@ -1044,7 +1044,7 @@
             {
                 "Name": "Neguse, Joe",
                 "Twitter": "@RepJoeNeguse",
-                "Party": "R",
+                "Party": "D",
                 "Winner": true
             },
             {
@@ -2388,7 +2388,7 @@
             {
                 "Name": "David Young",
                 "Twitter": "YoungForIowa",
-                "Party": "O",
+                "Party": "R",
                 "Winner": false
             }
         ],
@@ -3004,7 +3004,7 @@
             {
                 "Name": "Tim Kelly",
                 "Twitter": "timothykelly",
-                "Party": "O",
+                "Party": "R",
                 "Winner": false
             }
         ],
@@ -3144,6 +3144,12 @@
                 "Twitter": "@RepLawrence",
                 "Party": "D",
                 "Winner": true
+            },
+            {
+                "Name": "Vance Patrick",
+                "Twitter": "@RVancePatrick4C",
+                "Party": "R",
+                "Winner": false
             },
             {
                 "Name": "Lisa Lane Gioia",
@@ -3584,6 +3590,12 @@
                 "Winner": true
             },
             {
+                "Name": "Matt Mowers",
+                "Twitter": "@mowers",
+                "Party": "R",
+                "Winner": false
+            },
+            {
                 "Name": "Zachary Dumont",
                 "Twitter": "ZacharySDumont",
                 "Party": "O",
@@ -3630,7 +3642,7 @@
             {
                 "Name": "Van Drew, Jefferson",
                 "Twitter": "@JeffVanDrew",
-                "Party": "D",
+                "Party": "R",
                 "Winner": true
             },
             {
@@ -4030,7 +4042,7 @@
             {
                 "Name": "Malliotakis, Nicole",
                 "Twitter": "@Nmalliotakis",
-                "Party": "D",
+                "Party": "R",
                 "Winner": true
             },
             {
@@ -4922,7 +4934,7 @@
             {
                 "Name": "Gonzalez-Colon, Jenniffer",
                 "Twitter": "@Jenniffer2012",
-                "Party": "R",
+                "Party": "O",
                 "Winner": true
             },
             {
@@ -5986,6 +5998,12 @@
                 "Winner": true
             },
             {
+                "Name": "Sandra Whitten",
+                "Twitter": "@texas_sandra",
+                "Party": "R",
+                "Winner": false
+            },
+            {
                 "Name": "Bekah Congdon",
                 "Twitter": "LibertyBeks",
                 "Party": "O",
@@ -6316,7 +6334,7 @@
             {
                 "Name": "McEacchin, Donald",
                 "Twitter": "@Donald_McEachin",
-                "Party": "R",
+                "Party": "D",
                 "Winner": true
             },
             {
@@ -6614,7 +6632,7 @@
             {
                 "Name": "Steil, Bryan",
                 "Twitter": "@RepBryanSteil",
-                "Party": "D",
+                "Party": "R",
                 "Winner": true
             },
             {

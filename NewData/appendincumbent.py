@@ -1,6 +1,6 @@
 import json
 
-with open('outwithlink.json') as f:
+with open('newnewhandles.json') as f:
     js = json.load(f)
 
 noincum = ['Wisconsin 5th District',
@@ -67,5 +67,5 @@ for state in js:
                 js[state][riding][i]["Incumbent"] = js[state][riding][i]["Winner"]
 
 
-with open("outwithincumbent.json", "w") as outfile:
+with open("newnewnewhandles.json", "w") as outfile:
     json.dump(js, outfile)
