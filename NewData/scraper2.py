@@ -22,7 +22,10 @@ for key in js:
                 #     break
                 js[key][riding][i]["Tweets"].append({"date": tweet.date.strftime("%m/%d/%Y, %H:%M:%S"), "message":tweet.content, 
                 "replies":tweet.replyCount, "retweets":tweet.retweetCount, "likes":tweet.likeCount, 
-                "quotes": tweet.quoteCount, "link": tweet.url, "id":tweet.id, "sourceid"})
+                "quotes": tweet.quoteCount, "link": tweet.url, "id":tweet.id, "sourceid": tweet.sourceUrl, "outlinks": tweet.outlinks,
+                "tcooutlinks":tweet.tcooutlinks, "media":tweet.media, "retweetedtweet":tweet.retweetedTweet, "quotedTweet":tweet.quotedTweet,
+                "inReplyToTweetId":tweet.inReplyToTweetId, "inReplyToUser": tweet.inReplyToUser, "mentionedUsers": tweet.mentionedUsers,
+                "hashtags":tweet.hashtags})
 
             print(len(js[key][riding][i]["Tweets"]))
             total = total + len(js[key][riding][i]["Tweets"])
@@ -31,5 +34,5 @@ for key in js:
     break
 print(total)
 
-with open("outwithlink.json", "w") as outfile:
+with open("outwithlonger.json", "w") as outfile:
     json.dump(js, outfile)
