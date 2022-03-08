@@ -1544,14 +1544,14 @@
         "Twitter": "@BurgessOwens",
         "Winner": true,
         "Name": "Owens, Burgess",
-        "Incumbent": true
+        "Incumbent": false
       },
       {
         "Party": "D",
         "Twitter": "BenMcAdams",
         "Winner": false,
         "Name": "Ben McAdams",
-        "Incumbent": false
+        "Incumbent": true
       },
       {
         "Party": "O",
@@ -1633,7 +1633,7 @@
         "Twitter": "@GoodForCongress",
         "Winner": true,
         "Name": "Good, Bob",
-        "Incumbent": true
+        "Incumbent": false
       },
       {
         "Party": "D",
@@ -3254,14 +3254,14 @@
         "Twitter": "@NancyMace",
         "Winner": true,
         "Name": "Mace, Nancy",
-        "Incumbent": true
+        "Incumbent": false
       },
       {
         "Party": "D",
         "Twitter": "JoeCunninghamSC",
         "Winner": false,
         "Name": "Joe Cunningham",
-        "Incumbent": false
+        "Incumbent": true
       }
     ],
     "South Carolina 7th District": [
@@ -3406,7 +3406,7 @@
       },
       {
         "Party": "D",
-        "Twitter": "#!",
+        "Twitter": "JessicaKing6th",
         "Winner": false,
         "Name": "Jessica King",
         "Incumbent": false
@@ -4580,7 +4580,7 @@
   "Northern Mariana Islands At-Large": {
     "Northern Mariana Islands At-Large": [
       {
-        "Party": "D",
+        "Party": "O",
         "Twitter": "@Kilili_Sablan",
         "Winner": true,
         "Name": "Sablan, Gregorio",
@@ -4782,7 +4782,7 @@
         "Twitter": "@CoriBush",
         "Winner": true,
         "Name": "Bush, Cori",
-        "Incumbent": true
+        "Incumbent": false
       },
       {
         "Party": "R",
@@ -6200,7 +6200,7 @@
         "Twitter": "@CawthornforNC",
         "Winner": true,
         "Name": "Cawthorn, Madison",
-        "Incumbent": true
+        "Incumbent": false
       },
       {
         "Party": "D",
@@ -6646,14 +6646,14 @@
         "Twitter": "@claudiatenney",
         "Winner": true,
         "Name": "Tenney, Claudia",
-        "Incumbent": true
+        "Incumbent": false
       },
       {
         "Party": "D",
         "Twitter": "ABrindisiNY",
         "Winner": false,
         "Name": "Anthony Brindisi",
-        "Incumbent": false
+        "Incumbent": true
       }
     ],
     "New York 16th District": [
@@ -6662,7 +6662,7 @@
         "Twitter": "@JamaalBowmanNY",
         "Winner": true,
         "Name": "Bowman, Jamaal",
-        "Incumbent": true
+        "Incumbent": false
       }
     ],
     "New York 4th District": [
@@ -7069,7 +7069,7 @@
         "Party": "O",
         "Twitter": "Sosa4Congress",
         "Winner": false,
-        "Name": "Josﾃｩ Sosa",
+        "Name": "José Sosa",
         "Incumbent": false
       }
     ],
@@ -7201,7 +7201,7 @@
         "Twitter": "@FallonForTexas",
         "Winner": true,
         "Name": "Fallon, Pat",
-        "Incumbent": true
+        "Incumbent": false
       },
       {
         "Party": "D",

@@ -1,7 +1,7 @@
 import snscrape.modules.twitter as sntwitter
 import json
 
-with open('newnewhandles.json') as f:
+with open('newnewnewhandles.json') as f:
     js = json.load(f)
 total = 0;
 
@@ -17,7 +17,7 @@ for key in js:
 
 
             # Using TwitterSearchScraper to scrape data and append tweets to list
-            for j,tweet in enumerate(sntwitter.TwitterSearchScraper('from:{0} since:2020-9-3 until:2020-11-3'.format(handle)).get_items()):
+            for j,tweet in enumerate(sntwitter.TwitterSearchScraper('from:{0} since:2020-09-3 until:2020-11-3'.format(handle)).get_items()):
                 # if i>50:
                 #     break
                 video = False
@@ -62,9 +62,11 @@ for key in js:
             print(len(js[key][riding][i]["Tweets"]))
             total = total + len(js[key][riding][i]["Tweets"])
             
-    #     break
-    # break
+        if(total > 500):
+            break
+    if(total > 500):
+        break
 print(total)
 
-with open("outwithlonger.json", "w") as outfile:
+with open("outmini.json", "w") as outfile:
     json.dump(js, outfile)
