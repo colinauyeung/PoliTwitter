@@ -40,28 +40,36 @@ class BallotpediaGetter:
             page2 = requests.get(URL2)
             rep = BeautifulSoup(page2.content, 'html.parser')
             if("Oops! The page you’re looking for does not exist." in rep.prettify()):
-                return ("Missing", "Missing")
+                return ("Missing", "Missing", "Missing","Missing","Missing","Missing")
         else:
             reppage = requests.get(replink)
             rep = BeautifulSoup(reppage.content, 'html.parser')
         ctwitter = ""
         ptwitter = ""
+        otwitter = ""
         for link in rep.find_all("a"):
             if "Campaign Twitter" in link.text:
                 ctwitter = link["href"]
             if "Personal Twitter" in link.text:
                 ptwitter = link["href"]
-        twitter = ""
-        res = "Campaign"
+            if "Official Twitter" in link.text:
+                otwitter = link["href"]
+        cctwitter = "None"
+        cres = "Campaign"
         if(len(ctwitter) > 0):
-            twitter = self.parseTwitterUrl(ctwitter)
-        elif (len(ptwitter) > 0):
-            twitter = self.parseTwitterUrl(ptwitter)
-            res = "Personal"
-        else:
-            twitter = "None"
-            res = "None"
-        return((twitter, res))
+            cctwitter = self.parseTwitterUrl(ctwitter)
+        pptwitter = "None"
+        pres = "Personal"
+        if (len(ptwitter) > 0):
+            pptwitter = self.parseTwitterUrl(ptwitter)
+        ootwitter = "None"
+        ores = "Official"
+        if (len(otwitter) > 0):
+            ootwitter = self.parseTwitterUrl(otwitter)
+        # else:
+        #     twitter = "None"
+        #     res = "None"
+        return((cres, cctwitter, pres, pptwitter, ores, ootwitter))
 
 def gethandles(name):
     i = 0
@@ -160,16 +168,85 @@ for i in data:
         if(i[0] == "*") :    
             j = re.split(r"(\(|\))", i)
             if(len(j) > 2):
-
+                name = ""
+                party = ""
                 if("{{Aye}}" not in i):
+                    # f = i.split()
+                    
                     name = j[0].strip("* []")
-                    party = j[2].strip("()")
-                    handle = twitterHandler.getTwitter(name, state)
-                    res = [name, party, state, district, handle[0], handle[1]]
+                    name = name.split("|")[-1]
+                    party = j[-3].strip("()[]")
+                    party = party.split("|")[-1]
+                    party = party.split("/")[-1]
+                    # print(name)
+                    # handle = twitterHandler.getTwitter(name, state)
+                    # res = [name, party, state, district, handle[0], handle[1]]
+                    # print(name + " " + party)
+                    # ndata.append(res)
+                    # print(res)
+                    # print(len(twitterHandler.getstates()))
+                
+                else:
+                    i = i.split("ref")[0]
+                    namesearch = re.search("{{(.*)}}", i[10:])
+                    if namesearch != None:
+                        namebits = namesearch.group()
+                        namebits = namebits.strip("{}")
+                        namebits = namebits.split("|")
+                        first = namebits[1].strip()
+                        last = namebits[2].strip()
+                        name = first + " " + last
+                        partysearch = re.search(" \((.*)\) ", i[10:])
+                        if(partysearch != None):
+                            party = partysearch.group().strip()
+                            
+                            party = party.split()
+                            
+                            party = party[-1].strip().strip("\(\)")
+                            party = party.split("/")[-1]
+                            # print(party)
+                        else:
+                            partysearch = re.search(" \((.*)\)", i[10:])
+                            party = partysearch.group().strip()
+                            
+                            party = party.split()
+                            
+                            party = party[-1].strip().strip("\(\)")
+                            party = party.split("/")[-1]
 
-                    ndata.append(res)
-                    print(res)
-                    print(len(twitterHandler.getstates()))
+                      
+                    else:
+                        namesearch = re.search("\[\[(.*)\]\]", i[10:])
+                        name = namesearch.group().strip()
+                        name = name.split("|")
+                        name = name[-1].strip("\[\]")
+                        partysearch = re.search(" \((.*)\) ", i[10:])
+                        if(partysearch != None):
+                            party = partysearch.group().strip()
+                            
+                            party = party.split()
+                            
+                            party = party[-1].strip().strip("\(\)")
+                            party = party.split("/")[-1]
+                        else:
+                            partysearch = re.search(" \((.*)\)", i[10:])
+                            party = partysearch.group().strip()
+                            
+                            party = party.split()
+                            party = party[-1].strip().strip("\(\)")
+                            party = party.split("/")[-1]
+
+                    # if len(name) > 50:
+                    #     print("name: " +name)
+                    # if len(party) > 50:
+                    #     print("party: " +party)
+                print(name + " " + party)
+                handle = twitterHandler.getTwitter(name, state)
+                res = [name, party, state, district, handle[0], handle[1], handle[2], handle[3], handle[4], handle[5]]
+                # print(name + " " + party)
+                ndata.append(res)
+                print(res)
+                print(len(twitterHandler.getstates()))
 
 
         if("ushr" in i):
@@ -186,6 +263,6 @@ for i in data:
 # print(len(ndata))
 
 
-with open('losersBallot.csv', 'w', newline='') as f:
+with open('allBallot.csv', 'w', newline='') as f:
     writer = csv.writer(f)
     writer.writerows(ndata)
