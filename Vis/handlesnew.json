@@ -1,0 +1,7744 @@
+{
+  "Mississippi": {
+    "Mississippi 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@BennieGThompson",
+        "Winner": true,
+        "Name": "Thompson, Bennie G.",
+        "Incumbent": true
+      }
+    ],
+    "Mississippi 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepTrentKelly",
+        "Winner": true,
+        "Name": "Kelly, Trent",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Antonia4MS1",
+        "Winner": false,
+        "Name": "Antonia Eliason",
+        "Incumbent": false
+      }
+    ],
+    "Mississippi 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMichaelGuest",
+        "Winner": true,
+        "Name": "Guest, Michael",
+        "Incumbent": true
+      }
+    ],
+    "Mississippi 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@CongPalazzo",
+        "Winner": true,
+        "Name": "Palazzo, Steven",
+        "Incumbent": true
+      }
+    ]
+  },
+  "Oklahoma": {
+    "Oklahoma 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMullin",
+        "Winner": true,
+        "Name": "Mullin, Markwayne",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "danyell_lanier",
+        "Winner": false,
+        "Name": "Danyell Lanier",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "richiecastaldo",
+        "Winner": false,
+        "Name": "Richie Castaldo",
+        "Incumbent": false
+      }
+    ],
+    "Oklahoma 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepFrankLucas",
+        "Winner": true,
+        "Name": "Lucas, Frank",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ZoeCongress2020",
+        "Winner": false,
+        "Name": "Zoe Midyett",
+        "Incumbent": false
+      }
+    ],
+    "Oklahoma 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepKevinHern",
+        "Winner": true,
+        "Name": "Hern, Kevin",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "kojoforcongress",
+        "Winner": false,
+        "Name": "Kojo Asamoa-Caesar",
+        "Incumbent": false
+      }
+    ],
+    "Oklahoma 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@stephaniebice",
+        "Winner": true,
+        "Name": "Bice, Stephanie",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "HornForCongress",
+        "Winner": false,
+        "Name": "Kendra Horn",
+        "Incumbent": true
+      }
+    ],
+    "Oklahoma 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@TomColeOK04",
+        "Winner": true,
+        "Name": "Cole, Tom",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ElectBrannon",
+        "Winner": false,
+        "Name": "Mary Brannon",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Minnesota": {
+    "Minnesota 7th District": [
+      {
+        "Party": "R",
+        "Twitter": "@FischbachMN7",
+        "Winner": true,
+        "Name": "Fischbach, Michelle",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "collincpeterson",
+        "Winner": false,
+        "Name": "Collin Peterson",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "GodisHere2day4U",
+        "Winner": false,
+        "Name": "Rae Hart Anderson",
+        "Incumbent": false
+      }
+    ],
+    "Minnesota 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@BettyMcCollum04",
+        "Winner": true,
+        "Name": "McCollum, Betty",
+        "Incumbent": true
+      }
+    ],
+    "Minnesota 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepHagedorn",
+        "Winner": true,
+        "Name": "Hagedorn, Jim",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "danielfeehan",
+        "Winner": false,
+        "Name": "Dan Feehan",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Antirepublocrat",
+        "Winner": false,
+        "Name": "Bill Rood",
+        "Incumbent": false
+      }
+    ],
+    "Minnesota 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepTomEmmer",
+        "Winner": true,
+        "Name": "Emmer, Tom",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Tawnja4Congress",
+        "Winner": false,
+        "Name": "Tawnja Zahradka",
+        "Incumbent": false
+      }
+    ],
+    "Minnesota 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDeanPhillips",
+        "Winner": true,
+        "Name": "Phillips, Dean",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "KendallQuallsMN",
+        "Winner": false,
+        "Name": "Kendall Qualls",
+        "Incumbent": false
+      }
+    ],
+    "Minnesota 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepPeteStauber",
+        "Winner": true,
+        "Name": "Stauber, Pete",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "QuinnNystrom",
+        "Winner": false,
+        "Name": "Quinn Nystrom",
+        "Incumbent": false
+      }
+    ],
+    "Minnesota 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@IlhanMN",
+        "Winner": true,
+        "Name": "Omar, Ilhan",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "LacyJohnsonMN",
+        "Winner": false,
+        "Name": "Lacy Johnson",
+        "Incumbent": false
+      }
+    ],
+    "Minnesota 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAngieCraig",
+        "Winner": true,
+        "Name": "Craig, Angie",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "KistnerCongress",
+        "Winner": false,
+        "Name": "Tyler Kistner",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "weeks2020",
+        "Winner": false,
+        "Name": "Adam Weeks",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Alaska At-Large": {
+    "Alaska At-Large": [
+      {
+        "Party": "R",
+        "Twitter": "@RepDonYoung",
+        "Winner": true,
+        "Name": "Young, Don",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "AlyseGalvin",
+        "Winner": false,
+        "Name": "Alyse Galvin",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Arkansas": {
+    "Arkansas 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepWesterman",
+        "Winner": true,
+        "Name": "Westerman, Bruce",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "WilliamHansonAR",
+        "Winner": false,
+        "Name": "William Hanson",
+        "Incumbent": false
+      }
+    ],
+    "Arkansas 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepRickCrawford",
+        "Winner": true,
+        "Name": "Crawford, Rick",
+        "Incumbent": true
+      }
+    ],
+    "Arkansas 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@rep_stevewomack",
+        "Winner": true,
+        "Name": "Womack, Steve",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "CelesteforAR",
+        "Winner": false,
+        "Name": "Celeste Williams",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "KalagiasforUS",
+        "Winner": false,
+        "Name": "Michael Kalagias",
+        "Incumbent": false
+      }
+    ],
+    "Arkansas 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepFrenchHill",
+        "Winner": true,
+        "Name": "Hill, French",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "xjelliott",
+        "Winner": false,
+        "Name": "Joyce Elliott",
+        "Incumbent": false
+      }
+    ]
+  },
+  "New Mexico": {
+    "New Mexico 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDebHaaland",
+        "Winner": true,
+        "Name": "Haaland, Debra",
+        "Incumbent": true
+      }
+    ],
+    "New Mexico 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@Yvette4congress",
+        "Winner": true,
+        "Name": "Herrell, Yvette",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "XochforCongress",
+        "Winner": false,
+        "Name": "Xochitl Torres Small",
+        "Incumbent": true
+      }
+    ],
+    "New Mexico 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@TeresaForNM",
+        "Winner": true,
+        "Name": "Fernandez, Teresa Leger",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "alexisjohnsonnm",
+        "Winner": false,
+        "Name": "Alexis Johnson",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Virgin Islands At-Large": {
+    "Virgin Islands At-Large": [
+      {
+        "Party": "D",
+        "Twitter": "@StaceyPlaskett",
+        "Winner": true,
+        "Name": "Plaskett, Stacey",
+        "Incumbent": true
+      }
+    ]
+  },
+  "Indiana": {
+    "Indiana 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@Jim_Banks",
+        "Winner": true,
+        "Name": "Banks, Jim",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Chip4Congress",
+        "Winner": false,
+        "Name": "Chip Coldiron",
+        "Incumbent": false
+      }
+    ],
+    "Indiana 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepLarryBucshon",
+        "Winner": true,
+        "Name": "Bucshon, Larry",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "jdrodenberger",
+        "Winner": false,
+        "Name": "James Rodenberger",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "Hope_IN8",
+        "Winner": false,
+        "Name": "E. Thomasina Marsili",
+        "Incumbent": false
+      }
+    ],
+    "Indiana 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@Victoria_Spartz",
+        "Winner": true,
+        "Name": "Spartz, Victoria",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "HaleIndy",
+        "Winner": false,
+        "Name": "Christina Hale",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "aguyfromindiana",
+        "Winner": false,
+        "Name": "Kenneth Tucker",
+        "Incumbent": false
+      }
+    ],
+    "Indiana 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepWalorski",
+        "Winner": true,
+        "Name": "Walorski, Jackie",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "HackettCongress",
+        "Winner": false,
+        "Name": "Pat Hackett",
+        "Incumbent": false
+      }
+    ],
+    "Indiana 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepGregPence",
+        "Winner": true,
+        "Name": "Pence, Greg",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "JeannineLeeLake",
+        "Winner": false,
+        "Name": "Jeannine Lee Lake",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "FerkieCPA",
+        "Winner": false,
+        "Name": "Tom Ferkinhoff",
+        "Incumbent": false
+      }
+    ],
+    "Indiana 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepJimBaird",
+        "Winner": true,
+        "Name": "Baird, James",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "joe4hoosiers",
+        "Winner": false,
+        "Name": "Joe Mackey",
+        "Incumbent": false
+      }
+    ],
+    "Indiana 9th District": [
+      {
+        "Party": "R",
+        "Twitter": "@VoteForTrey",
+        "Winner": true,
+        "Name": "Hollingsworth, Trey",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "AndyRuffIN9",
+        "Winner": false,
+        "Name": "Andy Ruff",
+        "Incumbent": false
+      }
+    ],
+    "Indiana 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMrvan",
+        "Winner": true,
+        "Name": "Mrvan, Frank",
+        "Incumbent": false
+      }
+    ],
+    "Indiana 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAndreCarson",
+        "Winner": true,
+        "Name": "Carson, André",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "susanfor7th",
+        "Winner": false,
+        "Name": "Susan Marie Smith",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Maryland": {
+    "Maryland 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@Mfume4Congress",
+        "Winner": true,
+        "Name": "Mfume, Kweisi",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "kimKBaltimore",
+        "Winner": false,
+        "Name": "Kimberly Klacik",
+        "Incumbent": false
+      }
+    ],
+    "Maryland 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSarbanes",
+        "Winner": true,
+        "Name": "Sarbanes, John P.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Charles4MD",
+        "Winner": false,
+        "Name": "Charles Anthony",
+        "Incumbent": false
+      }
+    ],
+    "Maryland 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDavidTrone",
+        "Winner": true,
+        "Name": "Trone, David",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "neilparrott",
+        "Winner": false,
+        "Name": "Neil Parrott",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Gluck4Congress",
+        "Winner": false,
+        "Name": "George Gluck",
+        "Incumbent": false
+      }
+    ],
+    "Maryland 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepAndyHarrisMD",
+        "Winner": true,
+        "Name": "Harris, Andy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Mia4MD",
+        "Winner": false,
+        "Name": "Mia Mason",
+        "Incumbent": false
+      }
+    ],
+    "Maryland 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAnthonyBrown",
+        "Winner": true,
+        "Name": "Brown, Anthony",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "GeorgeMcDermot3",
+        "Winner": false,
+        "Name": "George McDermott",
+        "Incumbent": false
+      }
+    ],
+    "Maryland 8th District": [
+      {
+        "Party": "D",
+        "Twitter": "@Jamie_Raskin",
+        "Winner": true,
+        "Name": "Raskin, Jamie",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "CollforCongress",
+        "Winner": false,
+        "Name": "Gregory Coll",
+        "Incumbent": false
+      }
+    ],
+    "Maryland 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@LeaderHoyer",
+        "Winner": true,
+        "Name": "Hoyer, Steny H.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ChrisPalombi",
+        "Winner": false,
+        "Name": "Chris Palombi",
+        "Incumbent": false
+      }
+    ],
+    "Maryland 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@Call_Me_Dutch",
+        "Winner": true,
+        "Name": "Ruppersberger, C. A. Dutch",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "J_R_Salling",
+        "Winner": false,
+        "Name": "Johnny Ray Salling",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Louisiana": {
+    "Louisiana 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepGarretGraves",
+        "Winner": true,
+        "Name": "Graves, Garret",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "daw4us",
+        "Winner": false,
+        "Name": "Dartanyon Williams",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "ElectSloan",
+        "Winner": false,
+        "Name": "Shannon Sloan",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "RichTorregano",
+        "Winner": false,
+        "Name": "Richard Torregano",
+        "Incumbent": false
+      }
+    ],
+    "Louisiana 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMikeJohnson",
+        "Winner": true,
+        "Name": "Johnson, Mike",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "KennyHoustonCD4",
+        "Winner": false,
+        "Name": "Kenny Houston",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "ryantrundleCD4",
+        "Winner": false,
+        "Name": "Ryan Trundle",
+        "Incumbent": false
+      }
+    ],
+    "Louisiana 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepRichmond",
+        "Winner": true,
+        "Name": "Richmond, Cedric",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "colbyFor2ndDist",
+        "Winner": false,
+        "Name": "Colby James",
+        "Incumbent": false
+      }
+    ],
+    "Louisiana 5th District": [
+        {
+          "Party": "R",
+          "Twitter": "@LukeLetlow",
+          "Winner": true,
+          "Name": "Luke Letlow",
+          "Incumbent": false
+        },
+        {
+          "Party": "R",
+          "Twitter": "@RepLanceHarris",
+          "Winner": false,
+          "Name": "Lance Harris",
+          "Incumbent": false
+        }
+      ],
+    "Louisiana 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@CaptClayHIggins",
+        "Winner": true,
+        "Name": "Higgins, Clay",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Harris4US2020",
+        "Winner": false,
+        "Name": "Braylon Harris",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "RobAnderson2018",
+        "Winner": false,
+        "Name": "Rob Anderson",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "brandon_leleux",
+        "Winner": false,
+        "Name": "Brandon Leleux",
+        "Incumbent": false
+      }
+    ],
+    "Louisiana 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@SteveScalise",
+        "Winner": true,
+        "Name": "Scalise, Steve",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "LeeDugas2001",
+        "Winner": false,
+        "Name": "Lee Ann Dugas",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "HowardKearney",
+        "Winner": false,
+        "Name": "Howard Kearney",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Idaho": {
+    "Idaho 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepRussFulcher",
+        "Winner": true,
+        "Name": "Fulcher, Russ",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Rudy4Congress",
+        "Winner": false,
+        "Name": "Rudy Soto",
+        "Incumbent": false
+      }
+    ],
+    "Idaho 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@CongMikeSimpson",
+        "Winner": true,
+        "Name": "Simpson, Mike",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "SwisherforIdaho",
+        "Winner": false,
+        "Name": "C. Aaron Swisher",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Congress4_IDLaw",
+        "Winner": false,
+        "Name": "Idaho Sierra Law",
+        "Incumbent": false
+      }
+    ]
+  },
+  "American Samoa At-Large": {
+    "American Samoa At-Large": [
+      {
+        "Party": "R",
+        "Twitter": "@RepAmata",
+        "Winner": true,
+        "Name": "Radewagen, Amata",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ladyofthereef",
+        "Winner": false,
+        "Name": "Meleagi Suitonu-Chapman",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Arizona": {
+    "Arizona 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepRubenGallego",
+        "Winner": true,
+        "Name": "Gallego, Ruben",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "BarnettforAZ",
+        "Winner": false,
+        "Name": "Josh Barnett",
+        "Incumbent": false
+      }
+    ],
+    "Arizona 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepGosar",
+        "Winner": true,
+        "Name": "Gosar, Paul A.",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "delina4az",
+        "Winner": false,
+        "Name": "Delina DiSanto",
+        "Incumbent": false
+      }
+    ],
+    "Arizona 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepDavid",
+        "Winner": true,
+        "Name": "Schweikert, David",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "hiral4congress",
+        "Winner": false,
+        "Name": "Hiral Tipirneni",
+        "Incumbent": false
+      }
+    ],
+    "Arizona 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@TomOHalleran",
+        "Winner": true,
+        "Name": "O'Halleran, Tom",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Tiffany_Shedd",
+        "Winner": false,
+        "Name": "Tiffany Shedd",
+        "Incumbent": false
+      }
+    ],
+    "Arizona 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepRaulGrijalva",
+        "Winner": true,
+        "Name": "Grijalva, Raul",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "DWood4Congress",
+        "Winner": false,
+        "Name": "Daniel Wood",
+        "Incumbent": false
+      }
+    ],
+    "Arizona 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepGregStanton",
+        "Winner": true,
+        "Name": "Stanton, Greg",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "VoteGiles",
+        "Winner": false,
+        "Name": "Dave Giles",
+        "Incumbent": false
+      }
+    ],
+    "Arizona 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@AndyBiggs4AZ",
+        "Winner": true,
+        "Name": "Biggs, Andy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "joangreeneaz",
+        "Winner": false,
+        "Name": "Joan Greene",
+        "Incumbent": false
+      }
+    ],
+    "Arizona 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepDLesko",
+        "Winner": true,
+        "Name": "Lesko, Debbie&nbsp;",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "michael_muscato",
+        "Winner": false,
+        "Name": "Michael Muscato",
+        "Incumbent": false
+      }
+    ],
+    "Arizona 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepKirkPatrick",
+        "Winner": true,
+        "Name": "Kirkpatrick, Ann",
+        "Incumbent": true
+      }
+    ]
+  },
+  "Iowa": {
+    "Iowa 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepAshleyHinson",
+        "Winner": true,
+        "Name": "Hinson, Ashley",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "Abby4Iowa",
+        "Winner": false,
+        "Name": "Abby Finkenauer",
+        "Incumbent": true
+      }
+    ],
+    "Iowa 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepCindyAxne",
+        "Winner": true,
+        "Name": "Axne, Cynthia",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "YoungForIowa",
+        "Winner": false,
+        "Name": "David Young",
+        "Incumbent": false
+      }
+    ],
+    "Iowa 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMMM",
+        "Winner": true,
+        "Name": "Miller-Meeks, Mariannette",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "RitaHartIA",
+        "Winner": false,
+        "Name": "Rita Hart",
+        "Incumbent": false
+      }
+    ],
+    "Iowa 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RandyFeenstra",
+        "Winner": true,
+        "Name": "Feenstra, Randy",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "JDScholten",
+        "Winner": false,
+        "Name": "J. D. Scholten",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Montana At-Large": {
+    "Montana At-Large": [
+      {
+        "Party": "R",
+        "Twitter": "@MattForMontana",
+        "Winner": true,
+        "Name": "Rosendale, Matt",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "WilliamsForMT",
+        "Winner": false,
+        "Name": "Kathleen Williams",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Michigan": {
+    "Michigan 8th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSlotkin",
+        "Winner": true,
+        "Name": "Slotkin, Elissa",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "VotePaulJunge",
+        "Winner": false,
+        "Name": "Paul Junge",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "realJoeHartman",
+        "Winner": false,
+        "Name": "Joe Hartman",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 10th District": [
+      {
+        "Party": "R",
+        "Twitter": "@LisaForCongress",
+        "Winner": true,
+        "Name": "McClain, Lisa",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "electbizon2020",
+        "Winner": false,
+        "Name": "Kimberly Bizon",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAndyLevin",
+        "Winner": true,
+        "Name": "Levin, Andy",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "LangworthyUS9th",
+        "Winner": false,
+        "Name": "Charles Langworthy",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDanKildee",
+        "Winner": true,
+        "Name": "Kildee, Daniel",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "timothykelly",
+        "Winner": false,
+        "Name": "Tim Kelly",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepHuizenga",
+        "Winner": true,
+        "Name": "Huizenga, Bill",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "pubtheologian",
+        "Winner": false,
+        "Name": "Bryan Berghoef",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "2020Creviere",
+        "Winner": false,
+        "Name": "Jean-Michel Creviere",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 11th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepHaleyStevens",
+        "Winner": true,
+        "Name": "Stevens, Haley",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "EsshakiCongress",
+        "Winner": false,
+        "Name": "Eric Esshaki",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMoolenaar",
+        "Winner": true,
+        "Name": "Moolenaar, John",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "HilliardForCong",
+        "Winner": false,
+        "Name": "Jerry Hilliard",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "DavidCanny4con",
+        "Winner": false,
+        "Name": "David Canny",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "AmySlepr",
+        "Winner": false,
+        "Name": "Amy Slepr",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 13th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepRashida",
+        "Winner": true,
+        "Name": "Tlaib, Rashida",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Dude4Liberty",
+        "Winner": false,
+        "Name": "David Dudenhoefer",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "ArticiaBomer",
+        "Winner": false,
+        "Name": "Articia Bomer",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 7th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepWalberg",
+        "Winner": true,
+        "Name": "Walberg, Tim",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "gdriskell",
+        "Winner": false,
+        "Name": "Gretchen Driskell",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 14th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepLawrence",
+        "Winner": true,
+        "Name": "Lawrence, Brenda",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "@RVancePatrick4C",
+        "Winner": false,
+        "Name": "Vance Patrick",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "lisaforliberty",
+        "Winner": false,
+        "Name": "Lisa Lane Gioia",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 12th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDebDingell",
+        "Winner": true,
+        "Name": "Dingell, Debbie",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Vote_JeffJones",
+        "Winner": false,
+        "Name": "Jeff Jones",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@VoteMeijer",
+        "Winner": true,
+        "Name": "Meijer, Peter",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "HillaryScholten",
+        "Winner": false,
+        "Name": "Hillary Scholten",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepFredUpton",
+        "Winner": true,
+        "Name": "Upton, Fred",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "jonhoadley",
+        "Winner": false,
+        "Name": "Jon Hoadley",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Jeff_for_6th",
+        "Winner": false,
+        "Name": "Jeff DePoy",
+        "Incumbent": false
+      }
+    ],
+    "Michigan 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@JackBergman_MI1",
+        "Winner": true,
+        "Name": "Bergman, Jack",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "FergusonforMI1",
+        "Winner": false,
+        "Name": "Dana Ferguson",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Kansas": {
+    "Kansas 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@sharicedavids",
+        "Winner": true,
+        "Name": "Davids, Sharice",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "amanda_adkins",
+        "Winner": false,
+        "Name": "Amanda Adkins",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "stevehoheks",
+        "Winner": false,
+        "Name": "Steve Hohe",
+        "Incumbent": false
+      }
+    ],
+    "Kansas 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@TraceyMannKS",
+        "Winner": true,
+        "Name": "Mann, Tracey",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "KaliforKansas",
+        "Winner": false,
+        "Name": "Kali Barnett",
+        "Incumbent": false
+      }
+    ],
+    "Kansas 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepRonEstes",
+        "Winner": true,
+        "Name": "Estes, Ron",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "LauraforKansas",
+        "Winner": false,
+        "Name": "Laura Lombard",
+        "Incumbent": false
+      }
+    ],
+    "Kansas 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@JakeLaTurner",
+        "Winner": true,
+        "Name": "LaTurner, Jake",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "Michelle4Kansas",
+        "Winner": false,
+        "Name": "Michelle De La Isla",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Utah": {
+    "Utah 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBlakeMoore",
+        "Winner": true,
+        "Name": "Moore, Blake",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "darrenforutah",
+        "Winner": false,
+        "Name": "Darren Parry",
+        "Incumbent": false
+      }
+    ],
+    "Utah 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepJohnCurtis",
+        "Winner": true,
+        "Name": "Curtis, John R.",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "devindthorpe",
+        "Winner": false,
+        "Name": "Devin Thorpe",
+        "Incumbent": false
+      }
+    ],
+    "Utah 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepChrisStewart",
+        "Winner": true,
+        "Name": "Stewart, Chris",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "kaelweston?lang=en",
+        "Winner": false,
+        "Name": "Kael Weston",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "freeutahns",
+        "Winner": false,
+        "Name": "J. Robert Latham",
+        "Incumbent": false
+      }
+    ],
+    "Utah 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@BurgessOwens",
+        "Winner": true,
+        "Name": "Owens, Burgess",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "BenMcAdams",
+        "Winner": false,
+        "Name": "Ben McAdams",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "Gear6A",
+        "Winner": false,
+        "Name": "John Molnar",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "teamjonia2020",
+        "Winner": false,
+        "Name": "Jonia Broderick",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Virginia": {
+    "Virginia 8th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDonBeyer",
+        "Winner": true,
+        "Name": "Beyer, Don",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "JeffJordan2020",
+        "Winner": false,
+        "Name": "Jeff Jordan",
+        "Incumbent": false
+      }
+    ],
+    "Virginia 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBenCline",
+        "Winner": true,
+        "Name": "Cline, Ben",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "VoteForBetts",
+        "Winner": false,
+        "Name": "Nicholas Betts",
+        "Incumbent": false
+      }
+    ],
+    "Virginia 9th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMGriffith",
+        "Winner": true,
+        "Name": "Griffith, Morgan",
+        "Incumbent": true
+      }
+    ],
+    "Virginia 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RobWittman",
+        "Winner": true,
+        "Name": "Wittman, Robert J.",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "QasimRashid",
+        "Winner": false,
+        "Name": "Qasim Rashid",
+        "Incumbent": false
+      }
+    ],
+    "Virginia 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@GoodForCongress",
+        "Winner": true,
+        "Name": "Good, Bob",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "DrCameronWebb",
+        "Winner": false,
+        "Name": "Cameron Webb",
+        "Incumbent": false
+      }
+    ],
+    "Virginia 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepElaineLuria",
+        "Winner": true,
+        "Name": "Luria, Elaine",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Scotttaylorva",
+        "Winner": false,
+        "Name": "Scott Taylor",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "RsvpTruth",
+        "Winner": false,
+        "Name": "David Foster",
+        "Incumbent": false
+      }
+    ],
+    "Virginia 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSpanberger",
+        "Winner": true,
+        "Name": "Spanberger, Abigail",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "TeamNickVA",
+        "Winner": false,
+        "Name": "Nick Freitas",
+        "Incumbent": false
+      }
+    ],
+    "Virginia 11th District": [
+      {
+        "Party": "D",
+        "Twitter": "@GerryConnolly",
+        "Winner": true,
+        "Name": "Connolly, Gerald E. “Gerry”",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Manga4Congress",
+        "Winner": false,
+        "Name": "Manga Anantatmula",
+        "Incumbent": false
+      }
+    ],
+    "Virginia 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@Donald_McEachin",
+        "Winner": true,
+        "Name": "McEacchin, Donald",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Leon4Congress",
+        "Winner": false,
+        "Name": "Leon Benjamin",
+        "Incumbent": false
+      }
+    ],
+    "Virginia 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@BobbyScott",
+        "Winner": true,
+        "Name": "Scott, Robert C.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "johncollick",
+        "Winner": false,
+        "Name": "John Collick",
+        "Incumbent": false
+      }
+    ],
+    "Virginia 10th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepWexton",
+        "Winner": true,
+        "Name": "Wexton, Jennifer",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "alisciaandrews",
+        "Winner": false,
+        "Name": "Aliscia Andrews",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Oregon": {
+    "Oregon 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepBonamici",
+        "Winner": true,
+        "Name": "Bonamici, Suzanne",
+        "Incumbent": true
+      }
+    ],
+    "Oregon 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSchrader",
+        "Winner": true,
+        "Name": "Schrader, Kurt",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "AmyforOregon",
+        "Winner": false,
+        "Name": "Amy Ryan Courser",
+        "Incumbent": false
+      }
+    ],
+    "Oregon 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepPeterDeFazio",
+        "Winner": true,
+        "Name": "DeFazio, Peter",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "alekskarlatos",
+        "Winner": false,
+        "Name": "Alek Skarlatos",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "kogwonton",
+        "Winner": false,
+        "Name": "Daniel Hoffay",
+        "Incumbent": false
+      }
+    ],
+    "Oregon 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@repblumenauer",
+        "Winner": true,
+        "Name": "Blumenauer, Earl",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "joanna4oregon",
+        "Winner": false,
+        "Name": "Joanna Harbour",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "DiBlasi4Oregon",
+        "Winner": false,
+        "Name": "Alex DiBlasi",
+        "Incumbent": false
+      }
+    ],
+    "Oregon 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBentz",
+        "Winner": true,
+        "Name": "Bentz, Cliff",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "spenser2020",
+        "Winner": false,
+        "Name": "Alex Spenser",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "RawFlyer",
+        "Winner": false,
+        "Name": "Robert Werch",
+        "Incumbent": false
+      }
+    ]
+  },
+  "District of Columbia At-Large": {
+    "District of Columbia At-Large": [
+      {
+        "Party": "D",
+        "Twitter": "@EleanorNorton",
+        "Winner": true,
+        "Name": "Norton, Eleanor Holmes",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "princelowery",
+        "Winner": false,
+        "Name": "Amir Lowery",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "dkrucoff",
+        "Winner": false,
+        "Name": "David Krucoff",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "StracuzziLino",
+        "Winner": false,
+        "Name": "Natale Lino Stracuzzi",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Connecticut": {
+    "Connecticut 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJahanaHayes",
+        "Winner": true,
+        "Name": "Hayes, Jahana",
+        "Incumbent": true
+      }
+    ],
+    "Connecticut 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJoeCourtney",
+        "Winner": true,
+        "Name": "Courtney, Joe",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "CassCongress",
+        "Winner": false,
+        "Name": "Cassandra Martineau",
+        "Incumbent": false
+      }
+    ],
+    "Connecticut 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJohnLarson",
+        "Winner": true,
+        "Name": "Larson, John B.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Fay4Congress",
+        "Winner": false,
+        "Name": "Mary Fay",
+        "Incumbent": false
+      }
+    ],
+    "Connecticut 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@rosadelauro",
+        "Winner": true,
+        "Name": "DeLauro, Rosa L.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ForStreicker",
+        "Winner": false,
+        "Name": "Margaret Streicker",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "justin4all2",
+        "Winner": false,
+        "Name": "Justin Paglino",
+        "Incumbent": false
+      }
+    ],
+    "Connecticut 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@jahimes",
+        "Winner": true,
+        "Name": "Himes, Jim",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "riddlecongress",
+        "Winner": false,
+        "Name": "Jonathan Riddle",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Tennessee": {
+    "Tennessee 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepChuck",
+        "Winner": true,
+        "Name": "Fleischmann, Chuck",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Meg4Congress",
+        "Winner": false,
+        "Name": "Meg Gorman",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "hysell2020",
+        "Winner": false,
+        "Name": "Amber Hysell",
+        "Incumbent": false
+      }
+    ],
+    "Tennessee 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepTimBurchett",
+        "Winner": true,
+        "Name": "Burchett, Tim",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "HoyosInTheHouse",
+        "Winner": false,
+        "Name": "Renee Hoyos",
+        "Incumbent": false
+      }
+    ],
+    "Tennessee 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@DHarshbargerTN1",
+        "Winner": true,
+        "Name": "Harshbarger, Diana",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "BlairWalsingham",
+        "Winner": false,
+        "Name": "Blair Walsingham",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "SteveHolder_",
+        "Winner": false,
+        "Name": "Steve Holder",
+        "Incumbent": false
+      }
+    ],
+    "Tennessee 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepCohen",
+        "Winner": true,
+        "Name": "Cohen, Steve",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ElectBergmann",
+        "Winner": false,
+        "Name": "Charlotte Bergmann",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "dennisdacomic",
+        "Winner": false,
+        "Name": "Dennis Clark",
+        "Incumbent": false
+      }
+    ],
+    "Tennessee 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@DavidKustoff",
+        "Winner": true,
+        "Name": "Kustoff, David",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "erika_stotts",
+        "Winner": false,
+        "Name": "Erika Stotts Pearson",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "JonDillard_TN8",
+        "Winner": false,
+        "Name": "Jon Dillard",
+        "Incumbent": false
+      }
+    ],
+    "Tennessee 7th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMarkGreen",
+        "Winner": true,
+        "Name": "Green, Mark",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Kiran4congress",
+        "Winner": false,
+        "Name": "Kiran Sreepada",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "RonaldB35121782",
+        "Winner": false,
+        "Name": "Ronald Brown",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "ForVieira",
+        "Winner": false,
+        "Name": "Scott Vieira, Jr.",
+        "Incumbent": false
+      }
+    ],
+    "Tennessee 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepJohnRose",
+        "Winner": true,
+        "Name": "Rose, John W.",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "CMonday4Liberty",
+        "Winner": false,
+        "Name": "Christopher Monday",
+        "Incumbent": false
+      }
+    ],
+    "Tennessee 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@DesJarlaisTN04",
+        "Winner": true,
+        "Name": "DesJarlais, Scott",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "chrisjollyhale",
+        "Winner": false,
+        "Name": "Christopher J. Hale",
+        "Incumbent": false
+      }
+    ],
+    "Tennessee 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@repjimcooper",
+        "Winner": true,
+        "Name": "Cooper, Jim",
+        "Incumbent": true
+      }
+    ]
+  },
+  "California": {
+    "California 43rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@MaxineWaters",
+        "Winner": true,
+        "Name": "Waters, Maxine",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "joeecollins3",
+        "Winner": false,
+        "Name": "Joe Collins",
+        "Incumbent": false
+      }
+    ],
+    "California 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepGaramendi",
+        "Winner": true,
+        "Name": "Garamendi, John",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "TamikaGHamilton",
+        "Winner": false,
+        "Name": "Tamika Hamilton",
+        "Incumbent": false
+      }
+    ],
+    "California 38th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepLindaSanchez",
+        "Winner": true,
+        "Name": "Sánchez, Linda",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "MichaelTolar6",
+        "Winner": false,
+        "Name": "Michael Tolar",
+        "Incumbent": false
+      }
+    ],
+    "California 22nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@DevinNunes",
+        "Winner": true,
+        "Name": "Nunes, Devin",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "philarballo",
+        "Winner": false,
+        "Name": "Phil Arballo",
+        "Incumbent": false
+      }
+    ],
+    "California 17th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RoKhannaUSA",
+        "Winner": true,
+        "Name": "Khanna, Ro",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "tandon4congress",
+        "Winner": false,
+        "Name": "Ritesh Tandon",
+        "Incumbent": false
+      }
+    ],
+    "California 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@DorisMatsui",
+        "Winner": true,
+        "Name": "Matsui, Doris O.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "BishForCongress",
+        "Winner": false,
+        "Name": "Chris Bish",
+        "Incumbent": false
+      }
+    ],
+    "California 28th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAdamSchiff",
+        "Winner": true,
+        "Name": "Schiff, Adam",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "EricEarly_CA",
+        "Winner": false,
+        "Name": "Eric Early",
+        "Incumbent": false
+      }
+    ],
+    "California 50th District": [
+      {
+        "Party": "R",
+        "Twitter": "@DarrellIssa",
+        "Winner": true,
+        "Name": " Issa, Darrell",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "ACampaNajjar",
+        "Winner": false,
+        "Name": "Ammar Campa-Najjar",
+        "Incumbent": false
+      }
+    ],
+    "California 10th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJoshHarder",
+        "Winner": true,
+        "Name": "Harder, Josh",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Ted_Howze",
+        "Winner": false,
+        "Name": "Ted Howze",
+        "Incumbent": false
+      }
+    ],
+    "California 35th District": [
+      {
+        "Party": "D",
+        "Twitter": "@NormaJTorres",
+        "Winner": true,
+        "Name": "Torres, Norma",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "CargileFor",
+        "Winner": false,
+        "Name": "Mike Cargile",
+        "Incumbent": false
+      }
+    ],
+    "California 47th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepLowenthal",
+        "Winner": true,
+        "Name": "Lowenthal, Alan",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "johnfbriscoe",
+        "Winner": false,
+        "Name": "John Briscoe",
+        "Incumbent": false
+      }
+    ],
+    "California 45th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepKatiePorter",
+        "Winner": true,
+        "Name": "Porter, Katie",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "GregRaths",
+        "Winner": false,
+        "Name": "Greg Raths",
+        "Incumbent": false
+      }
+    ],
+    "California 24th District": [
+      {
+        "Party": "D",
+        "Twitter": "@CarbajalSalud",
+        "Winner": true,
+        "Name": "Carbajal, Salud",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Caldwell_CA24",
+        "Winner": false,
+        "Name": "Andy Caldwell",
+        "Incumbent": false
+      }
+    ],
+    "California 12th District": [
+      {
+        "Party": "D",
+        "Twitter": "@SpeakerPelosi",
+        "Winner": true,
+        "Name": "Pelosi, Nancy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ShahidForChange",
+        "Winner": false,
+        "Name": "Shahid Buttar",
+        "Incumbent": false
+      }
+    ],
+    "California 14th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSpeier",
+        "Winner": true,
+        "Name": "Speier, Jackie",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "petel4congress",
+        "Winner": false,
+        "Name": "Ran Petel",
+        "Incumbent": false
+      }
+    ],
+    "California 49th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMikeLevin",
+        "Winner": true,
+        "Name": "Levin, Mike",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "brianlmaryott",
+        "Winner": false,
+        "Name": "Brian Maryott",
+        "Incumbent": false
+      }
+    ],
+    "California 30th District": [
+      {
+        "Party": "D",
+        "Twitter": "@BradSherman",
+        "Winner": true,
+        "Name": "Sherman, Brad",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "MarkReed1776",
+        "Winner": false,
+        "Name": "Mark Reed",
+        "Incumbent": false
+      }
+    ],
+    "California 25th District": [
+      {
+        "Party": "R",
+        "Twitter": "@MikeGarcia2020",
+        "Winner": true,
+        "Name": "Garcia, Mike",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "christysmithca",
+        "Winner": false,
+        "Name": "Christy Smith",
+        "Incumbent": false
+      }
+    ],
+    "California 53rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@SaraJacobsCA",
+        "Winner": true,
+        "Name": "Jacobs, Sara",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "SDGeorgette",
+        "Winner": false,
+        "Name": "Georgette Gómez",
+        "Incumbent": false
+      }
+    ],
+    "California 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepThompson",
+        "Winner": true,
+        "Name": "Thompson, Mike",
+        "Incumbent": true
+      }
+    ],
+    "California 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMcNerney",
+        "Winner": true,
+        "Name": "McNerney, Jerry",
+        "Incumbent": true
+      }
+    ],
+    "California 46th Division": [
+      {
+        "Party": "D",
+        "Twitter": "@RepLouCorrea",
+        "Winner": true,
+        "Name": "Correa, Lou",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "watersfor",
+        "Winner": false,
+        "Name": "James Waters",
+        "Incumbent": false
+      }
+    ],
+    "California 20th District": [
+      {
+        "Party": "D",
+        "Twitter": "@JimmyPanetta",
+        "Winner": true,
+        "Name": "Panetta, Jimmy",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "JeffGormanMRY",
+        "Winner": false,
+        "Name": "Jeff Gorman",
+        "Incumbent": false
+      }
+    ],
+    "California 16th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJimCosta",
+        "Winner": true,
+        "Name": "Costa, Jim",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "KevCookingham",
+        "Winner": false,
+        "Name": "Kevin Cookingham",
+        "Incumbent": false
+      }
+    ],
+    "California 40th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepRoybalAllard",
+        "Winner": true,
+        "Name": "Roybal-Allard, Lucille",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "cAntonioDelgado",
+        "Winner": false,
+        "Name": "Antonio Delgado",
+        "Incumbent": false
+      }
+    ],
+    "California 33rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepTedLieu",
+        "Winner": true,
+        "Name": "Lieu, Ted",
+        "Incumbent": true
+      }
+    ],
+    "California 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepLaMalfa",
+        "Winner": true,
+        "Name": "LaMalfa, Doug",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "audrey4congress",
+        "Winner": false,
+        "Name": "Audrey Denney",
+        "Incumbent": false
+      }
+    ],
+    "California 27th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJudyChu",
+        "Winner": true,
+        "Name": "Chu, Judy",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Johnny_Congress",
+        "Winner": false,
+        "Name": "Johnny Nalbandian",
+        "Incumbent": false
+      }
+    ],
+    "California 48th District": [
+      {
+        "Party": "R",
+        "Twitter": "@MichelleSteelCA",
+        "Winner": true,
+        "Name": "Steel, Michelle",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "HarleyRouda",
+        "Winner": false,
+        "Name": "Harley Rouda",
+        "Incumbent": true
+      }
+    ],
+    "California 21st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepDavidValadao",
+        "Winner": true,
+        "Name": "Valadao, David",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "TJCoxCongress",
+        "Winner": false,
+        "Name": "TJ Cox",
+        "Incumbent": true
+      }
+    ],
+    "California 13th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepBarbaraLee",
+        "Winner": true,
+        "Name": "Lee, Barbara",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "NikkaGOP",
+        "Winner": false,
+        "Name": "Nikka Piterman",
+        "Incumbent": false
+      }
+    ],
+    "California 31st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepPeteAguilar",
+        "Winner": true,
+        "Name": "Aguilar, Pete",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "agnes_gibboney",
+        "Winner": false,
+        "Name": "Agnes Gibboney",
+        "Incumbent": false
+      }
+    ],
+    "California 11th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDeSaulnier",
+        "Winner": true,
+        "Name": "DeSaulnier, Mark",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "UsaNisha",
+        "Winner": false,
+        "Name": "Nisha Sharma",
+        "Incumbent": false
+      }
+    ],
+    "California 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@JayObernolte",
+        "Winner": true,
+        "Name": "Obernolte, Jay",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "bubser4congress",
+        "Winner": false,
+        "Name": "Chris Bubser",
+        "Incumbent": false
+      }
+    ],
+    "California 29th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepCardenas",
+        "Winner": true,
+        "Name": "Cárdenas, Tony",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Angelica4CA",
+        "Winner": false,
+        "Name": "Angélica Dueñas",
+        "Incumbent": false
+      }
+    ],
+    "California 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMcClintock",
+        "Winner": true,
+        "Name": "McClintock, Tom",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "BrynneSpeak",
+        "Winner": false,
+        "Name": "Brynne Kennedy",
+        "Incumbent": false
+      }
+    ],
+    "California 26th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepBrownley",
+        "Winner": true,
+        "Name": "Brownley, Julia",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ronda4congress",
+        "Winner": false,
+        "Name": "Ronda Kennedy",
+        "Incumbent": false
+      }
+    ],
+    "California 18th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAnnaEshoo",
+        "Winner": true,
+        "Name": "Eshoo, Anna G.",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "rishikumar1",
+        "Winner": false,
+        "Name": "Rishi Kumar",
+        "Incumbent": false
+      }
+    ],
+    "California 37th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepKarenBass",
+        "Winner": true,
+        "Name": "Bass, Karen",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ErrolWebber",
+        "Winner": false,
+        "Name": "Errol Webber",
+        "Incumbent": false
+      }
+    ],
+    "California 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepHuffman",
+        "Winner": true,
+        "Name": "Huffman, Jared",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "MensingDale",
+        "Winner": false,
+        "Name": "Dale Mensing",
+        "Incumbent": false
+      }
+    ],
+    "California 42nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@KenCalvert",
+        "Winner": true,
+        "Name": "Calvert, Ken",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "LiamOMaraIV",
+        "Winner": false,
+        "Name": "Liam O'Mara",
+        "Incumbent": false
+      }
+    ],
+    "California 23rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@GOPLeader",
+        "Winner": true,
+        "Name": "McCarthy, Kevin",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "kimmangone",
+        "Winner": false,
+        "Name": "Kim Mangone",
+        "Incumbent": false
+      }
+    ],
+    "California 39th District": [
+      {
+        "Party": "R",
+        "Twitter": "@YoungKimCA",
+        "Winner": true,
+        "Name": "Kim, Young",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "GilCisnerosCA",
+        "Winner": false,
+        "Name": "Gil Cisneros",
+        "Incumbent": true
+      }
+    ],
+    "California 32nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@gracenapolitano",
+        "Winner": true,
+        "Name": "Napolitano, Grace",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "joshuascottca32",
+        "Winner": false,
+        "Name": "Joshua Scott",
+        "Incumbent": false
+      }
+    ],
+    "California 36th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepRaulRuizMD",
+        "Winner": true,
+        "Name": "Ruiz, Raul",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "RealErinCruz",
+        "Winner": false,
+        "Name": "Erin Cruz",
+        "Incumbent": false
+      }
+    ],
+    "California 51st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJuanVargas",
+        "Winner": true,
+        "Name": "Vargas, Juan",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "HidalgoCongress",
+        "Winner": false,
+        "Name": "Juan Hidalgo",
+        "Incumbent": false
+      }
+    ],
+    "California 15th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSwalwell",
+        "Winner": true,
+        "Name": "Swalwell, Eric",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Alison4Congress",
+        "Winner": false,
+        "Name": "Alison Hayden",
+        "Incumbent": false
+      }
+    ],
+    "California 19th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepZoeLofgren",
+        "Winner": true,
+        "Name": "Lofgren, Zoe",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "JoinJustin19",
+        "Winner": false,
+        "Name": "Justin Aguilera",
+        "Incumbent": false
+      }
+    ],
+    "California 52nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepScottPeters",
+        "Winner": true,
+        "Name": "Peters, Scott",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "DeBelloCongress",
+        "Winner": false,
+        "Name": "Jim DeBello",
+        "Incumbent": false
+      }
+    ],
+    "California 41st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMarkTakano",
+        "Winner": true,
+        "Name": "Takano, Mark",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "AjaforCongress",
+        "Winner": false,
+        "Name": "Aja Smith",
+        "Incumbent": false
+      }
+    ],
+    "California 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepBera",
+        "Winner": true,
+        "Name": "Bera, Ami",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "BuzzPatterson",
+        "Winner": false,
+        "Name": "Buzz Patterson",
+        "Incumbent": false
+      }
+    ],
+    "California 44th District": [
+      {
+        "Party": "D",
+        "Twitter": "@Nanette4CA",
+        "Winner": true,
+        "Name": "Barragan, Nanette",
+        "Incumbent": true
+      }
+    ],
+    "California 34th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJimmyGomez",
+        "Winner": true,
+        "Name": "Gomez, Jimmy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "DavidKimForCA",
+        "Winner": false,
+        "Name": "David Kim",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Massachusetts": {
+    "Massachusetts 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepPressley",
+        "Winner": true,
+        "Name": "Pressley, Ayanna",
+        "Incumbent": true
+      }
+    ],
+    "Massachusetts 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@teammoulton",
+        "Winner": true,
+        "Name": "Moulton, Seth",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "JohnPaul4Mass",
+        "Winner": false,
+        "Name": "John Paul Moran",
+        "Incumbent": false
+      }
+    ],
+    "Massachusetts 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@JakeAuch",
+        "Winner": true,
+        "Name": "Auchincloss, Jake",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "Hall4CongressMA",
+        "Winner": false,
+        "Name": "Julie Hall",
+        "Incumbent": false
+      }
+    ],
+    "Massachusetts 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@USRepKeating",
+        "Winner": true,
+        "Name": "Keating, William",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "HelenBradyMA9",
+        "Winner": false,
+        "Name": "Helen Brady",
+        "Incumbent": false
+      }
+    ],
+    "Massachusetts 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepRichardNeal",
+        "Winner": true,
+        "Name": "Neal, Richard E.",
+        "Incumbent": true
+      }
+    ],
+    "Massachusetts 8th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepStephenLynch",
+        "Winner": true,
+        "Name": "Lynch, Stephen F.",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "MrJonLott",
+        "Winner": false,
+        "Name": "Jonathan Lott",
+        "Incumbent": false
+      }
+    ],
+    "Massachusetts 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepKClark",
+        "Winner": true,
+        "Name": "Clark, Katherine",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "CarolineforCon1",
+        "Winner": false,
+        "Name": "Caroline Colarusso",
+        "Incumbent": false
+      }
+    ],
+    "Massachusetts 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMcGovern",
+        "Winner": true,
+        "Name": "McGovern, James",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Tracy4Congress",
+        "Winner": false,
+        "Name": "Tracy Lovvorn",
+        "Incumbent": false
+      }
+    ],
+    "Massachusetts 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepLoriTrahan",
+        "Winner": true,
+        "Name": "Trahan, Lori",
+        "Incumbent": true
+      }
+    ]
+  },
+  "Vermont At-Large": {
+    "Vermont At-Large": [
+      {
+        "Party": "D",
+        "Twitter": "@PeterWelch",
+        "Winner": true,
+        "Name": "Welch, Peter",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "ElectHorne",
+        "Winner": false,
+        "Name": "Marcia Horne",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "ChrisHelali",
+        "Winner": false,
+        "Name": "Christopher Helali",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "MiriamBerry3",
+        "Winner": false,
+        "Name": "Miriam Berry",
+        "Incumbent": false
+      }
+    ]
+  },
+  "West Virginia": {
+    "West Virginia 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMcKinley",
+        "Winner": true,
+        "Name": "McKinley, David",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "NatalieClineWV",
+        "Winner": false,
+        "Name": "Natalie Cline",
+        "Incumbent": false
+      }
+    ],
+    "West Virginia 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepCarolMiller",
+        "Winner": true,
+        "Name": "Miller, Carol",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "HilaryTurnerWV",
+        "Winner": false,
+        "Name": "Hilary Turner",
+        "Incumbent": false
+      }
+    ],
+    "West Virginia 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepAlexMooney",
+        "Winner": true,
+        "Name": "Mooney, Alex",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Kunkel4Congress",
+        "Winner": false,
+        "Name": "Cathy Kunkel",
+        "Incumbent": false
+      }
+    ]
+  },
+  "South Carolina": {
+    "South Carolina 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepJeffDuncan",
+        "Winner": true,
+        "Name": "Duncan, Jeff",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ClevelandHosea",
+        "Winner": false,
+        "Name": "Hosea Cleveland",
+        "Incumbent": false
+      }
+    ],
+    "South Carolina 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepTimmons",
+        "Winner": true,
+        "Name": "Timmons, William",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "KimforSC",
+        "Winner": false,
+        "Name": "Kim Nelson",
+        "Incumbent": false
+      }
+    ],
+    "South Carolina 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@WhipClyburn",
+        "Winner": true,
+        "Name": "Clyburn, James E.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "MccollumFor",
+        "Winner": false,
+        "Name": "John McCollum",
+        "Incumbent": false
+      }
+    ],
+    "South Carolina 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepJoeWilson",
+        "Winner": true,
+        "Name": "Wilson, Joe",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Adair4Congress",
+        "Winner": false,
+        "Name": "Adair Boroughs",
+        "Incumbent": false
+      }
+    ],
+    "South Carolina 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepRalphNorman",
+        "Winner": true,
+        "Name": "Norman, Ralph",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "MoeBrownSC",
+        "Winner": false,
+        "Name": "Moe Brown",
+        "Incumbent": false
+      }
+    ],
+    "South Carolina 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@NancyMace",
+        "Winner": true,
+        "Name": "Mace, Nancy",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "JoeCunninghamSC",
+        "Winner": false,
+        "Name": "Joe Cunningham",
+        "Incumbent": true
+      }
+    ],
+    "South Carolina 7th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepTomRice",
+        "Winner": true,
+        "Name": "Rice, Tom",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "melissawatsonf1",
+        "Winner": false,
+        "Name": "Melissa Watson",
+        "Incumbent": false
+      }
+    ]
+  },
+  "New Hampshire": {
+    "New Hampshire 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAnnieKuster",
+        "Winner": true,
+        "Name": "Kuster, Ann",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "SteveNegronNH",
+        "Winner": false,
+        "Name": "Steve Negron",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "AndrewOlding",
+        "Winner": false,
+        "Name": "Andrew Olding",
+        "Incumbent": false
+      }
+    ],
+    "New Hampshire 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepChrisPappas",
+        "Winner": true,
+        "Name": "Pappas, Chris",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "@mowers",
+        "Winner": false,
+        "Name": "Matt Mowers",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "ZacharySDumont",
+        "Winner": false,
+        "Name": "Zachary Dumont",
+        "Incumbent": false
+      }
+    ]
+  },
+  "North Dakota At-Large": {
+    "North Dakota At-Large": [
+      {
+        "Party": "R",
+        "Twitter": "@RepArmstrongND",
+        "Winner": true,
+        "Name": "Armstrong, Kelly",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ZachforND",
+        "Winner": false,
+        "Name": "Zach Raknerud",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Wisconsin": {
+    "Wisconsin 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepGwenMoore",
+        "Winner": true,
+        "Name": "Moore, Gwen",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "RogersforCong",
+        "Winner": false,
+        "Name": "Tim Rogers",
+        "Incumbent": false
+      }
+    ],
+    "Wisconsin 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepRonKind",
+        "Winner": true,
+        "Name": "Kind, Ron",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "derrickvanorden",
+        "Winner": false,
+        "Name": "Derrick Van Orden",
+        "Incumbent": false
+      }
+    ],
+    "Wisconsin 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBryanSteil",
+        "Winner": true,
+        "Name": "Steil, Bryan",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "RogerforWI",
+        "Winner": false,
+        "Name": "Roger Polack",
+        "Incumbent": false
+      }
+    ],
+    "Wisconsin 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepGrothman",
+        "Winner": true,
+        "Name": "Grothman, Glenn",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "JessicaKing6th",
+        "Winner": false,
+        "Name": "Jessica King",
+        "Incumbent": false
+      }
+    ],
+    "Wisconsin 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@FitzgeraldForWI",
+        "Winner": true,
+        "Name": "Fitzgerald, Scott",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "tomforwi",
+        "Winner": false,
+        "Name": "Tom Palzewicz",
+        "Incumbent": false
+      }
+    ],
+    "Wisconsin 7th District": [
+      {
+        "Party": "R",
+        "Twitter": "@TomTiffanyWI",
+        "Winner": true,
+        "Name": "Tiffany, Thomas",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "TriciaforWI",
+        "Winner": false,
+        "Name": "Tricia Zunker",
+        "Incumbent": false
+      }
+    ],
+    "Wisconsin 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@repmarkpocan",
+        "Winner": true,
+        "Name": "Pocan, Mark",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "petertheron",
+        "Winner": false,
+        "Name": "Peter Theron",
+        "Incumbent": false
+      }
+    ],
+    "Wisconsin 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@MikeforWI",
+        "Winner": true,
+        "Name": "Gallagher, Mike",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "AmandaStuck8",
+        "Winner": false,
+        "Name": "Amanda Stuck",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Wyoming At-Large": {
+    "Wyoming At-Large": [
+      {
+        "Party": "R",
+        "Twitter": "@Liz_Cheney",
+        "Winner": true,
+        "Name": "Cheney, Liz",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "GreyBull4WY",
+        "Winner": false,
+        "Name": "Lynnette Grey Bull",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Jeff36982230",
+        "Winner": false,
+        "Name": "Jeff Haggit",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Georgia": {
+    "Georgia 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepBourdeaux",
+        "Winner": true,
+        "Name": "Bourdeaux, Carolyn",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "RichforGA",
+        "Winner": false,
+        "Name": "Rich McCormick",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 11th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepLoudermilk",
+        "Winner": true,
+        "Name": "Loudermilk, Barry",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "TheDanaBarrett",
+        "Winner": false,
+        "Name": "Dana Barrett",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepHankJohnson",
+        "Winner": true,
+        "Name": "Johnson, Henry C. “Hank” Jr.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "JohsieC",
+        "Winner": false,
+        "Name": "Johsie Cruz",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepLucyMcBath",
+        "Winner": true,
+        "Name": "McBath, Lucy",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "karenhandel",
+        "Winner": false,
+        "Name": "Karen Handel",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBuddyCarter",
+        "Winner": true,
+        "Name": "Carter, Buddy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "joycegriggs2020",
+        "Winner": false,
+        "Name": "Joyce Griggs",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@DrewFergusonGA",
+        "Winner": true,
+        "Name": "Ferguson, Drew",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "valforcongress3",
+        "Winner": false,
+        "Name": "Val Almonord",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 10th District": [
+      {
+        "Party": "R",
+        "Twitter": "@CongressmanHice",
+        "Winner": true,
+        "Name": "Hice, Jody",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "TJG4GA",
+        "Winner": false,
+        "Name": "Tabitha Johnson-Green",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 9th District": [
+      {
+        "Party": "R",
+        "Twitter": "@repclyde",
+        "Winner": true,
+        "Name": "Clyde, Andrew",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "DevinPandy",
+        "Winner": false,
+        "Name": "Devin Pandy",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@NikemaWilliams",
+        "Winner": true,
+        "Name": "Williams, Nikema",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "theangiestanton",
+        "Winner": false,
+        "Name": "Angela Stanton-King",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@AustinScottGA08",
+        "Winner": true,
+        "Name": "Scott, Austin",
+        "Incumbent": true
+      }
+    ],
+    "Georgia 13th District": [
+      {
+        "Party": "D",
+        "Twitter": "@repdavidscott",
+        "Winner": true,
+        "Name": "Scott, David",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Hites4Congress",
+        "Winner": false,
+        "Name": "Becky Hites",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@SanfordBishop",
+        "Winner": true,
+        "Name": "Bishop Jr., Sanford D.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "DonCole4Cong",
+        "Winner": false,
+        "Name": "Don Cole",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 12th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepRickAllen",
+        "Winner": true,
+        "Name": "Allen, Rick",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "lizjohnsonforus",
+        "Winner": false,
+        "Name": "Liz Johnson",
+        "Incumbent": false
+      }
+    ],
+    "Georgia 14th District": [
+      {
+        "Party": "R",
+        "Twitter": "@mtgreenee",
+        "Winner": true,
+        "Name": "Greene, Marjorie Taylor",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "KevinVanAusdal",
+        "Winner": false,
+        "Name": "Kevin Van Ausdal",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Pennsylvania": {
+    "Pennsylvania 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDwightEvans",
+        "Winner": true,
+        "Name": "Evans, Dwight",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "FriendsHarvey",
+        "Winner": false,
+        "Name": "Michael Harvey",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 9th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMeuser",
+        "Winner": true,
+        "Name": "Meuser, Daniel",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "DrGaryWegman",
+        "Winner": false,
+        "Name": "Gary Wegman",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepHoulahan",
+        "Winner": true,
+        "Name": "Houlahan, Chrissy",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Emmons4Congress",
+        "Winner": false,
+        "Name": "John Emmons",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBrianFitz",
+        "Winner": true,
+        "Name": "Fitzpatrick, Brady",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "FinelloForPA",
+        "Winner": false,
+        "Name": "Christina Finello",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 10th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepScottPerry",
+        "Winner": true,
+        "Name": "Perry, Scott",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "DePasqualePA",
+        "Winner": false,
+        "Name": "Eugene DePasquale",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 18th District": [
+      {
+        "Party": "D",
+        "Twitter": "@USRepMikeDoyle",
+        "Winner": true,
+        "Name": "Doyle, Michael",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "LukeEdison20",
+        "Winner": false,
+        "Name": "Luke Negron",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 11th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepLloyd",
+        "Winner": true,
+        "Name": "Smucker, Lloyd",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "sarahforus",
+        "Winner": false,
+        "Name": "Sarah Hammond",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDean",
+        "Winner": true,
+        "Name": "Dean, Madeleine",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "kathy4truth",
+        "Winner": false,
+        "Name": "Kathy Barnette",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 13th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepJohnJoyce",
+        "Winner": true,
+        "Name": "Joyce, John",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ToddRowleyPA13",
+        "Winner": false,
+        "Name": "Todd Rowley",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSusanWild",
+        "Winner": true,
+        "Name": "Wild, Susan",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "SchellerforPA",
+        "Winner": false,
+        "Name": "Lisa Scheller",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 16th District": [
+      {
+        "Party": "R",
+        "Twitter": "@MikeKellyforPA",
+        "Winner": true,
+        "Name": "Kelly, Mike",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "kristy4pa",
+        "Winner": false,
+        "Name": "Kristy Gnibus",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 12th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepFredKelle",
+        "Winner": true,
+        "Name": "Keller, Fred",
+        "Incumbent": true
+      }
+    ],
+    "Pennsylvania 17th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepConorLamb",
+        "Winner": true,
+        "Name": "Lamb, Conor",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "SeanParnellUSA",
+        "Winner": false,
+        "Name": "Sean Parnell",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 14th District": [
+      {
+        "Party": "R",
+        "Twitter": "@GReschenthaler",
+        "Winner": true,
+        "Name": "Reschenthaler, Guy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "BillforPA14",
+        "Winner": false,
+        "Name": "William Marx",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@CongBoyle",
+        "Winner": true,
+        "Name": "Boyle, Brendan",
+        "Incumbent": true
+      }
+    ],
+    "Pennsylvania 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMGS",
+        "Winner": true,
+        "Name": "Scanlon, Mary-Gay",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "DashaPruett",
+        "Winner": false,
+        "Name": "Dasha Pruett",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 15th District": [
+      {
+        "Party": "R",
+        "Twitter": "@CongressmanGT",
+        "Winner": true,
+        "Name": "Thompson, Glenn",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "williamsfor15",
+        "Winner": false,
+        "Name": "Robert Williams",
+        "Incumbent": false
+      }
+    ],
+    "Pennsylvania 8th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepCartwright",
+        "Winner": true,
+        "Name": "Cartwright, Matt",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Bognet4congress",
+        "Winner": false,
+        "Name": "Jim Bognet",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Florida": {
+    "Florida 17th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepGregSteube",
+        "Winner": true,
+        "Name": "Steube, W. Gregory",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "AllenLEllison",
+        "Winner": false,
+        "Name": "Allen Ellison",
+        "Incumbent": false
+      }
+    ],
+    "Florida 24th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepWilson",
+        "Winner": true,
+        "Name": "Wilson, Frederica",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "lavern_spicer",
+        "Winner": false,
+        "Name": "Lavern Spicer",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Christinefor24",
+        "Winner": false,
+        "Name": "Christine Olivo",
+        "Incumbent": false
+      }
+    ],
+    "Florida 15th District": [
+      {
+        "Party": "R",
+        "Twitter": "@ScottFranklinFL",
+        "Winner": true,
+        "Name": "Franklin, Scott",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "AlanMCohn",
+        "Winner": false,
+        "Name": "Alan Cohn",
+        "Incumbent": false
+      }
+    ],
+    "Florida 12th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepGusBilirakis",
+        "Winner": true,
+        "Name": "Bilirakis, Gus M.",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "kw4congress",
+        "Winner": false,
+        "Name": "Kimberly Walker",
+        "Incumbent": false
+      }
+    ],
+    "Florida 25th District": [
+      {
+        "Party": "R",
+        "Twitter": "@MarioDB",
+        "Winner": true,
+        "Name": "Diaz-Balart, Mario",
+        "Incumbent": true
+      }
+    ],
+    "Florida 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@DrNealDunnFL2",
+        "Winner": true,
+        "Name": "Dunn, Neal",
+        "Incumbent": true
+      }
+    ],
+    "Florida 26th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepCarlos",
+        "Winner": true,
+        "Name": "Giménez, Carlos",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "DebbieforFL",
+        "Winner": false,
+        "Name": "Debbie Mucarsel-Powell",
+        "Incumbent": true
+      }
+    ],
+    "Florida 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@JRutherfordFL",
+        "Winner": true,
+        "Name": "Rutherford, John",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "DonnaDeegan",
+        "Winner": false,
+        "Name": "Donna Deegan",
+        "Incumbent": false
+      }
+    ],
+    "Florida 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@MattGaetz",
+        "Winner": true,
+        "Name": "Gaetz, Matt",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "PhilEhr",
+        "Winner": false,
+        "Name": "Phil Ehr",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "RealMaverickUSA",
+        "Winner": false,
+        "Name": "Albert Oram",
+        "Incumbent": false
+      }
+    ],
+    "Florida 14th District": [
+      {
+        "Party": "D",
+        "Twitter": "@USRepKCastor",
+        "Winner": true,
+        "Name": "Castor, Kathy",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ElectQuinn",
+        "Winner": false,
+        "Name": "Christine Quinn",
+        "Incumbent": false
+      }
+    ],
+    "Florida 11th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepWebster",
+        "Winner": true,
+        "Name": "Webster, Daniel",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "DanaforCongress",
+        "Winner": false,
+        "Name": "Dana Cottrell",
+        "Incumbent": false
+      }
+    ],
+    "Florida 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@SMurphyCongress",
+        "Winner": true,
+        "Name": "Murphy, Stephanie",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "billgarlington",
+        "Winner": false,
+        "Name": "William Garlington",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "drleovalentin",
+        "Winner": false,
+        "Name": "Leo Valentín",
+        "Incumbent": false
+      }
+    ],
+    "Florida 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@congbillposey",
+        "Winner": true,
+        "Name": "Posey, Bill",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "JK4Florida",
+        "Winner": false,
+        "Name": "Jim Kennedy",
+        "Incumbent": false
+      }
+    ],
+    "Florida 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@AlLawsonJr",
+        "Winner": true,
+        "Name": "Lawson, Al",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ElectAdler",
+        "Winner": false,
+        "Name": "Gary Adler",
+        "Incumbent": false
+      }
+    ],
+    "Florida 19th District": [
+      {
+        "Party": "R",
+        "Twitter": "@ByronDonalds",
+        "Winner": true,
+        "Name": "Byron Donalds",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "SWFLmom2020",
+        "Winner": false,
+        "Name": "Cindy Banyai",
+        "Incumbent": false
+      }
+    ],
+    "Florida 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDarrenSoto",
+        "Winner": true,
+        "Name": "Soto, Darren",
+        "Incumbent": true
+      }
+    ],
+    "Florida 20th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepHastingsFL",
+        "Winner": true,
+        "Name": "Hastings, Alcee L.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "GregMusselwhit3",
+        "Winner": false,
+        "Name": "Greg Musselwhite",
+        "Incumbent": false
+      }
+    ],
+    "Florida 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@Kat_Cammack",
+        "Winner": true,
+        "Name": "Cammack, Kat",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "AC4Congress2020",
+        "Winner": false,
+        "Name": "Adam Christensen",
+        "Incumbent": false
+      }
+    ],
+    "Florida 22nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepTedDeutch",
+        "Winner": true,
+        "Name": "Deutch, Ted",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Jimprudenforco1",
+        "Winner": false,
+        "Name": "Jim Pruden",
+        "Incumbent": false
+      }
+    ],
+    "Florida 23rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDWStweets",
+        "Winner": true,
+        "Name": "Wasserman Schultz, Debbie",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "carla_spalding",
+        "Winner": false,
+        "Name": "Carla Spalding",
+        "Incumbent": false
+      }
+    ],
+    "Florida 27th District": [
+      {
+        "Party": "R",
+        "Twitter": "@MaElviraSalazar",
+        "Winner": true,
+        "Name": "Salazar, Maria Elvira",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "DonnaShalala",
+        "Winner": false,
+        "Name": "Donna Shalala",
+        "Incumbent": true
+      }
+    ],
+    "Florida 10th District": [
+      {
+        "Party": "D",
+        "Twitter": "@Val_Demings",
+        "Winner": true,
+        "Name": "Demings, Val",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Vennia4Congress",
+        "Winner": false,
+        "Name": "Vennia Francois",
+        "Incumbent": false
+      }
+    ],
+    "Florida 18th District": [
+      {
+        "Party": "R",
+        "Twitter": "@BrianMastFL",
+        "Winner": true,
+        "Name": "Mast, Brian",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "PamKeithFL",
+        "Winner": false,
+        "Name": "Pam Keith",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "KwCongressional",
+        "Winner": false,
+        "Name": "K. W. Miller",
+        "Incumbent": false
+      }
+    ],
+    "Florida 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMichaelWaltz",
+        "Winner": true,
+        "Name": "Waltz, Michael",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Clint4congress",
+        "Winner": false,
+        "Name": "Clint Curtis",
+        "Incumbent": false
+      }
+    ],
+    "Florida 21st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepLoisFrankel",
+        "Winner": true,
+        "Name": "Frankel, Lois",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "votecharleston",
+        "Winner": false,
+        "Name": "Charleston Malkemus",
+        "Incumbent": false
+      }
+    ],
+    "Florida 13th District": [
+      {
+        "Party": "D",
+        "Twitter": "@CharlieCrist",
+        "Winner": true,
+        "Name": "Crist, Charlie",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "VoteAPL",
+        "Winner": false,
+        "Name": "Anna Paulina Luna",
+        "Incumbent": false
+      }
+    ],
+    "Florida 16th District": [
+      {
+        "Party": "R",
+        "Twitter": "@VernBuchanan",
+        "Winner": true,
+        "Name": "Buchanan, Vern",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "GoodforFlorida",
+        "Winner": false,
+        "Name": "Margaret Good",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Hawaii": {
+    "Hawaii 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepEdCase",
+        "Winner": true,
+        "Name": "Case, Ed",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "rcurtis808",
+        "Winner": false,
+        "Name": "Ron Curtis",
+        "Incumbent": false
+      }
+    ],
+    "Hawaii 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@kaikahele",
+        "Winner": true,
+        "Name": "Kahele, Kai",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "Joe_Akana",
+        "Winner": false,
+        "Name": "Joe Akana",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "JHoomanawanui",
+        "Winner": false,
+        "Name": "Jonathan Hoomanawanui",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Kentucky": {
+    "Kentucky 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@JamesComer",
+        "Winner": true,
+        "Name": "Comer, James",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Rhodes4Congress",
+        "Winner": false,
+        "Name": "James Rhodes",
+        "Incumbent": false
+      }
+    ],
+    "Kentucky 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepHalRogers",
+        "Winner": true,
+        "Name": "Rogers, Harold",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "BestforKY",
+        "Winner": false,
+        "Name": "Matthew Best",
+        "Incumbent": false
+      }
+    ],
+    "Kentucky 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepGuthrie",
+        "Winner": true,
+        "Name": "Guthrie, S. Brett",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "hank4ky",
+        "Winner": false,
+        "Name": "Hank Linderman",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Perry4Ky",
+        "Winner": false,
+        "Name": "Robert Lee Perry",
+        "Incumbent": false
+      }
+    ],
+    "Kentucky 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepAndyBarr",
+        "Winner": true,
+        "Name": "Barr, Andy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "joshhicksky",
+        "Winner": false,
+        "Name": "Josh Hicks",
+        "Incumbent": false
+      }
+    ],
+    "Kentucky 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepThomasMassie",
+        "Winner": true,
+        "Name": "Massie, Thomas",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "AMOwensby",
+        "Winner": false,
+        "Name": "Alexandra Owensby",
+        "Incumbent": false
+      }
+    ],
+    "Kentucky 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJohnYarmuth",
+        "Winner": true,
+        "Name": "Yarmuth, John A.",
+        "Incumbent": true
+      }
+    ]
+  },
+  "Northern Mariana Islands At-Large": {
+    "Northern Mariana Islands At-Large": [
+      {
+        "Party": "O",
+        "Twitter": "@Kilili_Sablan",
+        "Winner": true,
+        "Name": "Sablan, Gregorio",
+        "Incumbent": true
+      }
+    ]
+  },
+  "Guam At-Large": {
+    "Guam At-Large": [
+      {
+        "Party": "D",
+        "Twitter": "@GuamCongressman",
+        "Winner": true,
+        "Name": "San Nicolas, Michael F.Q.",
+        "Incumbent": true
+      }
+    ]
+  },
+  "Nebraska": {
+    "Nebraska 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepDonBacon",
+        "Winner": true,
+        "Name": "Bacon, Don",
+        "Incumbent": true
+      }
+    ],
+    "Nebraska 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@JeffFortenberry",
+        "Winner": true,
+        "Name": "Fortenberry, Jeff",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "katejbolz",
+        "Winner": false,
+        "Name": "Kate Bolz",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "thedennisgrace",
+        "Winner": false,
+        "Name": "Dennis Grace",
+        "Incumbent": false
+      }
+    ],
+    "Nebraska 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepAdrianSmith",
+        "Winner": true,
+        "Name": "Smith, Adrian",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "MarkElworthJr",
+        "Winner": false,
+        "Name": "Mark Elworth",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Missouri": {
+    "Missouri 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepSamGraves",
+        "Winner": true,
+        "Name": "Graves, Sam",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "GenaRossforMO6",
+        "Winner": false,
+        "Name": "Gena L. Ross",
+        "Incumbent": false
+      }
+    ],
+    "Missouri 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepAnnWagner",
+        "Winner": true,
+        "Name": "Wagner, Ann",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "JillSchupp",
+        "Winner": false,
+        "Name": "Jill Schupp",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "mvschulte",
+        "Winner": false,
+        "Name": "Martin Schulte",
+        "Incumbent": false
+      }
+    ],
+    "Missouri 7th District": [
+      {
+        "Party": "R",
+        "Twitter": "@USRepLong",
+        "Winner": true,
+        "Name": "Long, Billy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "montsenyt",
+        "Winner": false,
+        "Name": "Teresa Montseny",
+        "Incumbent": false
+      }
+    ],
+    "Missouri 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepJasonSmith",
+        "Winner": true,
+        "Name": "Smith, Jason",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ellis4congress",
+        "Winner": false,
+        "Name": "Kathy Ellis",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "TomSchmitzEsq",
+        "Winner": false,
+        "Name": "Tom Schmitz",
+        "Incumbent": false
+      }
+    ],
+    "Missouri 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepHartzler",
+        "Winner": true,
+        "Name": "Hartzler, Vicky",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "LynzforCongress",
+        "Winner": false,
+        "Name": "Lindsey Simmons",
+        "Incumbent": false
+      }
+    ],
+    "Missouri 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@repcleaver",
+        "Winner": true,
+        "Name": "Cleaver, Emanuel",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "thisisderks",
+        "Winner": false,
+        "Name": "Ryan Derks",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "RobinRD4MO",
+        "Winner": false,
+        "Name": "Robin Dominick",
+        "Incumbent": false
+      }
+    ],
+    "Missouri 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBlaine",
+        "Winner": true,
+        "Name": "Luetkemeyer, Blaine",
+        "Incumbent": true
+      }
+    ],
+    "Missouri 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@CoriBush",
+        "Winner": true,
+        "Name": "Bush, Cori",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "MrAnthonyRogers",
+        "Winner": false,
+        "Name": "Anthony Rogers",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "alexforus",
+        "Winner": false,
+        "Name": "Alex Furman",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Ohio": {
+    "Ohio 12th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBalderson",
+        "Winner": true,
+        "Name": "Balderson, Troy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "alainashearer",
+        "Winner": false,
+        "Name": "Alaina Shearer",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "electjstewart",
+        "Winner": false,
+        "Name": "John S. Stewart",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@boblatta",
+        "Winner": true,
+        "Name": "Latta, Robert E.",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "NickRubando",
+        "Winner": false,
+        "Name": "Nick Rubando",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 10th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMikeTurner",
+        "Winner": true,
+        "Name": "Turner, Michael",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "TimsDesiree",
+        "Winner": false,
+        "Name": "Desiree Tims",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 16th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepAGonzalez",
+        "Winner": true,
+        "Name": "Gonzalez, Anthony",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "GodfreyForOH16",
+        "Winner": false,
+        "Name": "Aaron Paul Godfrey",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBillJohnson",
+        "Winner": true,
+        "Name": "Johnson, Bill",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "RobertsOhioD6",
+        "Winner": false,
+        "Name": "Shawna Roberts",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@WarrenDavidson",
+        "Winner": true,
+        "Name": "Davidson, Warren",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "DrVEnoch",
+        "Winner": false,
+        "Name": "Vanessa Enoch",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 13th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepTimRyan",
+        "Winner": true,
+        "Name": "Ryan, Tim",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "RepHagan",
+        "Winner": false,
+        "Name": "Christina Hagan",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBradWenstrup",
+        "Winner": true,
+        "Name": "Wenstrup, Brad",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "jaimecastleOH",
+        "Winner": false,
+        "Name": "Jaime Castle",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 7th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBobGibbs",
+        "Winner": true,
+        "Name": "Gibbs, Bob",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "quentinforoh7",
+        "Winner": false,
+        "Name": "Quentin Potter",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "LapeforOhio",
+        "Winner": false,
+        "Name": "Brandon Lape",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 15th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepSteveStivers",
+        "Winner": true,
+        "Name": "Stivers, Steve",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "NewbyOH15",
+        "Winner": false,
+        "Name": "Joel Newby",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepSteveChabot",
+        "Winner": true,
+        "Name": "Chabot, Steve",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "KateForCongress",
+        "Winner": false,
+        "Name": "Kate Schroder",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Kahn4C",
+        "Winner": false,
+        "Name": "Kevin David Kahn",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepBeatty",
+        "Winner": true,
+        "Name": "Beatty, Joyce",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "RichardsonOH3",
+        "Winner": false,
+        "Name": "Mark Richardson",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@Jim_Jordan",
+        "Winner": true,
+        "Name": "Jordan, Jim",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ShannonFreshour",
+        "Winner": false,
+        "Name": "Shannon Freshour",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMarcyKaptur",
+        "Winner": true,
+        "Name": "Kaptur, Marcy",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "WestPointWeber",
+        "Winner": false,
+        "Name": "Rob Weber",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 14th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepDaveJoyce",
+        "Winner": true,
+        "Name": "Joyce, David",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "HillaryMueri",
+        "Winner": false,
+        "Name": "Hillary O'Connor Mueri",
+        "Incumbent": false
+      }
+    ],
+    "Ohio 11th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMarciaFudge",
+        "Winner": true,
+        "Name": "Fudge, Marcia L.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "GoreLaverne",
+        "Winner": false,
+        "Name": "Laverne Gore",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Alabama": {
+    "Alabama 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@USRepGaryPalmer",
+        "Winner": true,
+        "Name": "Palmer, Gary",
+        "Incumbent": true
+      }
+    ],
+    "Alabama 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMoBrooks",
+        "Winner": true,
+        "Name": "Brooks, Mo",
+        "Incumbent": true
+      }
+    ],
+    "Alabama 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepTerriSewell",
+        "Winner": true,
+        "Name": "Sewell, Terri A.",
+        "Incumbent": true
+      }
+    ],
+    "Alabama 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBarryMoore",
+        "Winner": true,
+        "Name": "Moore, Barry",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "PhyllisDHHall",
+        "Winner": false,
+        "Name": "Phyllis Harvey-Hall",
+        "Incumbent": false
+      }
+    ],
+    "Alabama 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@Robert_Aderholt",
+        "Winner": true,
+        "Name": "Aderholt, Robert",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "VoteNeighbors",
+        "Winner": false,
+        "Name": "Rick Neighbors",
+        "Incumbent": false
+      }
+    ],
+    "Alabama 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepJerryCarl",
+        "Winner": true,
+        "Name": "Carl, Jerry",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "JAverhart2020",
+        "Winner": false,
+        "Name": "James Averhart",
+        "Incumbent": false
+      }
+    ],
+    "Alabama 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMikeRogers",
+        "Winner": true,
+        "Name": "Rogers, Mike",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "drdia",
+        "Winner": false,
+        "Name": "Adia Winfrey",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Illinois": {
+    "Illinois 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMikeQuigley",
+        "Winner": true,
+        "Name": "Quigley, Mike",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "TomWilda2020",
+        "Winner": false,
+        "Name": "Thomas Wilda",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 17th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepCheri",
+        "Winner": true,
+        "Name": "Bustos, Cheri",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "esther4congress",
+        "Winner": false,
+        "Name": "Esther Joy King",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 8th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RajaForCongress",
+        "Winner": true,
+        "Name": "Krishnamoorthi, Raja",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "Preston4Congres",
+        "Winner": false,
+        "Name": "Preston Nelson",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepCasten",
+        "Winner": true,
+        "Name": "Casten, Sean",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "JeanneIves",
+        "Winner": false,
+        "Name": "Jeanne Ives",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "BillRedpath2020",
+        "Winner": false,
+        "Name": "Bill Redpath",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 11th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepBillFoster",
+        "Winner": true,
+        "Name": "Foster, Bill",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "RickLaibfor11",
+        "Winner": false,
+        "Name": "Rick Laib",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 18th District": [
+      {
+        "Party": "R",
+        "Twitter": "@ElectLaHood",
+        "Winner": true,
+        "Name": "LaHood,Darin",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "GeorgePetrilli",
+        "Winner": false,
+        "Name": "George Petrilli",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 12th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBost",
+        "Winner": true,
+        "Name": "Bost, Mike",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Lenzi4Congress",
+        "Winner": false,
+        "Name": "Raymond Lenzi",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepRobinKelly",
+        "Winner": true,
+        "Name": "Kelly, Robin",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Raborn4Congress",
+        "Winner": false,
+        "Name": "Theresa Raborn",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 15th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMaryMiller",
+        "Winner": true,
+        "Name": "Miller, Mary",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "Weaver4Illinois",
+        "Winner": false,
+        "Name": "Erika Weaver",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 16th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepKinzinger",
+        "Winner": true,
+        "Name": "Kinzinger, Adam",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "DaniForCongress",
+        "Winner": false,
+        "Name": "Dani Brzozowski",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMarieNewman",
+        "Winner": true,
+        "Name": "Newman, Marie",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "FriciloneMike",
+        "Winner": false,
+        "Name": "Mike Fricilone",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepBobbyRush",
+        "Winner": true,
+        "Name": "Rush, Bobby L.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Philaniseforco1",
+        "Winner": false,
+        "Name": "Philanise White",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 14th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepUnderwood",
+        "Winner": true,
+        "Name": "Underwood, Lauren",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "JimOberweis",
+        "Winner": false,
+        "Name": "Jim Oberweis",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepChuyGarcia",
+        "Winner": true,
+        "Name": "Garcia, Jesus “Chuy”",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "jesussoloriojr",
+        "Winner": false,
+        "Name": "Jesus Solorio",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 13th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RodneyDavis",
+        "Winner": true,
+        "Name": "Davis, Rodney",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "BetsyforIL",
+        "Winner": false,
+        "Name": "Betsy Dirksen Londrigan",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@janschakowsky",
+        "Winner": true,
+        "Name": "Schakowsky, Jan",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "VoteSangari",
+        "Winner": false,
+        "Name": "Sargis Sangari",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 10th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSchneider",
+        "Winner": true,
+        "Name": "Schneider, Bradley",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ValforCongress",
+        "Winner": false,
+        "Name": "Valerie Mukherjee",
+        "Incumbent": false
+      }
+    ],
+    "Illinois 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDannyDavis",
+        "Winner": true,
+        "Name": "Davis, Danny K.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "CraigCameron07",
+        "Winner": false,
+        "Name": "Craig Cameron",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "TracyJenningsIL",
+        "Winner": false,
+        "Name": "Tracy Jennings",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Colorado": {
+    "Colorado 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepKenBuck",
+        "Winner": true,
+        "Name": "Buck, Ken",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ike4co",
+        "Winner": false,
+        "Name": "Ike McCorkle",
+        "Incumbent": false
+      }
+    ],
+    "Colorado 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDianaDeGette",
+        "Winner": true,
+        "Name": "DeGette, Diana",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Shane4Co",
+        "Winner": false,
+        "Name": "Shane Bolling",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "votefiorino",
+        "Winner": false,
+        "Name": "Paul N. Fiorino",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "kylefurey",
+        "Winner": false,
+        "Name": "Kyle Furey",
+        "Incumbent": false
+      }
+    ],
+    "Colorado 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@laurenboebert",
+        "Winner": true,
+        "Name": "Boebert, Lauren",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "RepDMB",
+        "Winner": false,
+        "Name": "Diane Mitsch Bush",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "CritterMilton",
+        "Winner": false,
+        "Name": "Critter Milton",
+        "Incumbent": false
+      }
+    ],
+    "Colorado 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJasonCrow",
+        "Winner": true,
+        "Name": "Crow, Jason",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "House4CO",
+        "Winner": false,
+        "Name": "Steve House",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "JaimieKulikows1",
+        "Winner": false,
+        "Name": "Jaimie Kulikowski",
+        "Incumbent": false
+      }
+    ],
+    "Colorado 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepDLamborn",
+        "Winner": true,
+        "Name": "Lamborn, Doug",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "FreelandCO5",
+        "Winner": false,
+        "Name": "Jillian Freeland",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Keltie4Congress",
+        "Winner": false,
+        "Name": "Rebecca Keltie",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "eduffett",
+        "Winner": false,
+        "Name": "Ed Duffett",
+        "Incumbent": false
+      }
+    ],
+    "Colorado 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJoeNeguse",
+        "Winner": true,
+        "Name": "Neguse, Joe",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "DrCharlieWinn",
+        "Winner": false,
+        "Name": "Charles Winn",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "swinggary",
+        "Winner": false,
+        "Name": "Gary Swing",
+        "Incumbent": false
+      }
+    ],
+    "Colorado 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepPerlmutter",
+        "Winner": true,
+        "Name": "Perlmutter, Ed",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Casper4Colorado",
+        "Winner": false,
+        "Name": "Casper Stockham",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Ken4Colorado",
+        "Winner": false,
+        "Name": "Ken Biles",
+        "Incumbent": false
+      }
+    ]
+  },
+  "New Jersey": {
+    "New Jersey 11th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSherrill",
+        "Winner": true,
+        "Name": "Sherrill, Mikie",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Becchi4Congress",
+        "Winner": false,
+        "Name": "Rosemary Becchi",
+        "Incumbent": false
+      }
+    ],
+    "New Jersey 8th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSires",
+        "Winner": true,
+        "Name": "Sires, Albio",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "danforcongress",
+        "Winner": false,
+        "Name": "Dan Delaney",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "jtmush",
+        "Winner": false,
+        "Name": "Jason Mushnick",
+        "Incumbent": false
+      }
+    ],
+    "New Jersey 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@JoshGottheimer",
+        "Winner": true,
+        "Name": "Gottheimer, Josh",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "FrankPallottaNJ",
+        "Winner": false,
+        "Name": "Frank Pallotta",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "louv55",
+        "Winner": false,
+        "Name": "Louis Vellucci",
+        "Incumbent": false
+      }
+    ],
+    "New Jersey 12th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepBonnie",
+        "Winner": true,
+        "Name": "Watson Coleman, Bonnie",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "Cody4CongressNJ",
+        "Winner": false,
+        "Name": "Kenneth Cody",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "NJWeedmansJoint",
+        "Winner": false,
+        "Name": "Ed Forchion",
+        "Incumbent": false
+      }
+    ],
+    "New Jersey 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@JeffVanDrew",
+        "Winner": true,
+        "Name": "Van Drew, Jefferson",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "AmyKennedy715",
+        "Winner": false,
+        "Name": "Amy Kennedy",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "JennaforSj",
+        "Winner": false,
+        "Name": "Jenna Harvey",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "jesse4congress",
+        "Winner": false,
+        "Name": "Jesse Ehrnstrom",
+        "Incumbent": false
+      }
+    ],
+    "New Jersey 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@BillPascrell",
+        "Winner": true,
+        "Name": "Pascrell Jr., Bill",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "BillyPrempeh",
+        "Winner": false,
+        "Name": "Billy Prempeh",
+        "Incumbent": false
+      }
+    ],
+    "New Jersey 10th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDonaldPayne",
+        "Winner": true,
+        "Name": "Payne Jr., Donald",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "JenZinone",
+        "Winner": false,
+        "Name": "Jennifer Zinone",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "CongressKhaliah",
+        "Winner": false,
+        "Name": "Khaliah Fitchette",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "DrK4Congress",
+        "Winner": false,
+        "Name": "Akil Khalfani",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "JohnPMirrione",
+        "Winner": false,
+        "Name": "John Mirrione",
+        "Incumbent": false
+      }
+    ],
+    "New Jersey 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMalinowski",
+        "Winner": true,
+        "Name": "Malinowski, Tom",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "KeanForCongress",
+        "Winner": false,
+        "Name": "Thomas Kean Jr.",
+        "Incumbent": false
+      }
+    ],
+    "New Jersey 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAndyKimNJ",
+        "Winner": true,
+        "Name": "Kim, Andy",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "DavidRichterNJ",
+        "Winner": false,
+        "Name": "David Richter",
+        "Incumbent": false
+      }
+    ],
+    "New Jersey 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@FrankPallone",
+        "Winner": true,
+        "Name": "Pallone Jr., Frank",
+        "Incumbent": true
+      }
+    ],
+    "New Jersey 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@DonNorcross4NJ",
+        "Winner": true,
+        "Name": "Norcross, Donald",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ClaireGForNJRep",
+        "Winner": false,
+        "Name": "Claire Gustafson",
+        "Incumbent": false
+      }
+    ],
+    "New Jersey 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepChrisSmith",
+        "Winner": true,
+        "Name": "Smith, Chris",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "StephLSchmid",
+        "Winner": false,
+        "Name": "Stephanie Schmid",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "rufo4congress",
+        "Winner": false,
+        "Name": "Michael Rufo",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "hank_schroeder",
+        "Winner": false,
+        "Name": "Hank Schroeder",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "AndrewPachuta",
+        "Winner": false,
+        "Name": "Andrew Pachuta",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Washington": {
+    "Washington 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@PramilaJayapal",
+        "Winner": true,
+        "Name": "Jayapal, Pramila",
+        "Incumbent": true
+      }
+    ],
+    "Washington 8th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepKimSchrier",
+        "Winner": true,
+        "Name": "Schrier, Kim",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "JesseJensenWA",
+        "Winner": false,
+        "Name": "Jesse Jensen",
+        "Incumbent": false
+      }
+    ],
+    "Washington 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAdamSmith",
+        "Winner": true,
+        "Name": "Smith, Adam",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "dougbasler",
+        "Winner": false,
+        "Name": "Doug Basler",
+        "Incumbent": false
+      }
+    ],
+    "Washington 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@cathymcmorris",
+        "Winner": true,
+        "Name": "McMorris Rodgers, Cathy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Elect_DaveW",
+        "Winner": false,
+        "Name": "Dave Wilson",
+        "Incumbent": false
+      }
+    ],
+    "Washington 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDelBene",
+        "Winner": true,
+        "Name": "DelBene, Suzan",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Beeler4Congress",
+        "Winner": false,
+        "Name": "Jeffrey Beeler",
+        "Incumbent": false
+      }
+    ],
+    "Washington 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDerekKilmer",
+        "Winner": true,
+        "Name": "Kilmer, Derek",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "cleanupthehouse",
+        "Winner": false,
+        "Name": "Elizabeth Kreiselmaier",
+        "Incumbent": false
+      }
+    ],
+    "Washington 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepRickLarsen",
+        "Winner": true,
+        "Name": "Larsen, Rick",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Hazelo4congress",
+        "Winner": false,
+        "Name": "Tim Hazelo",
+        "Incumbent": false
+      }
+    ],
+    "Washington 10th District": [
+      {
+        "Party": "D",
+        "Twitter": "@StricklandforWA",
+        "Winner": true,
+        "Name": "Strickland, Marilyn",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "BethDoglio",
+        "Winner": false,
+        "Name": "Beth Doglio",
+        "Incumbent": false
+      }
+    ],
+    "Washington 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepNewhouse",
+        "Winner": true,
+        "Name": "Newhouse, Dan",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "vote4mckinley",
+        "Winner": false,
+        "Name": "Douglas McKinley",
+        "Incumbent": false
+      }
+    ],
+    "Washington 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@HerreraBeutler",
+        "Winner": true,
+        "Name": "Herrera Beutler, Jaime",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ElectLong",
+        "Winner": false,
+        "Name": "Carolyn Long",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Puerto Rico At-Large": {
+    "Puerto Rico At-Large": [
+      {
+        "Party": "O",
+        "Twitter": "@Jenniffer2012",
+        "Winner": true,
+        "Name": "Gonzalez-Colon, Jenniffer",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "anibalacevedo",
+        "Winner": false,
+        "Name": "Aníbal Acevedo Vilá",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "drajordanconde",
+        "Winner": false,
+        "Name": "Zayira Jordán Conde",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "AdaHenriquez1",
+        "Winner": false,
+        "Name": "Ada Norah Henriquez",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "luisrobertoII",
+        "Winner": false,
+        "Name": "Luis Roberto Piñero",
+        "Incumbent": false
+      }
+    ]
+  },
+  "North Carolina": {
+    "North Carolina 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepRichHudson",
+        "Winner": true,
+        "Name": "Hudson, Richard",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "TimmonsGoodson",
+        "Winner": false,
+        "Name": "Patricia Timmons-Goodson",
+        "Incumbent": false
+      }
+    ],
+    "North Carolina 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@KathyManningNC",
+        "Winner": true,
+        "Name": "Manning, Kathy",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "1Haywood",
+        "Winner": false,
+        "Name": "Lee Haywood",
+        "Incumbent": false
+      }
+    ],
+    "North Carolina 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDavidEPrice",
+        "Winner": true,
+        "Name": "Price, David",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "robertthomasnc1",
+        "Winner": false,
+        "Name": "Robert Thomas",
+        "Incumbent": false
+      }
+    ],
+    "North Carolina 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepGregMurphy",
+        "Winner": true,
+        "Name": "Murphy, Greg",
+        "Incumbent": true
+      }
+    ],
+    "North Carolina 12th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAdams",
+        "Winner": true,
+        "Name": "Adams, Alma",
+        "Incumbent": true
+      }
+    ],
+    "North Carolina 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@virginiafoxx",
+        "Winner": true,
+        "Name": "Foxx, Virginia",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "DWB4Congress",
+        "Winner": false,
+        "Name": "David Wilson Brown",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "JeffGre09936619",
+        "Winner": false,
+        "Name": "Jeff Gregory",
+        "Incumbent": false
+      }
+    ],
+    "North Carolina 11th District": [
+      {
+        "Party": "R",
+        "Twitter": "@CawthornforNC",
+        "Winner": true,
+        "Name": "Cawthorn, Madison",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "MoeNc11",
+        "Winner": false,
+        "Name": "Morris Davis",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "TDeBruhl",
+        "Winner": false,
+        "Name": "Tracey DeBruhl",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "ZwinakNC11",
+        "Winner": false,
+        "Name": "Tamara Zwinak",
+        "Incumbent": false
+      }
+    ],
+    "North Carolina 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@DeborahRossNC",
+        "Winner": true,
+        "Name": "Ross, Deborah K.",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "swain4congress",
+        "Winner": false,
+        "Name": "Alan Swain",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "JeffNc2",
+        "Winner": false,
+        "Name": "Jeff Matemu",
+        "Incumbent": false
+      }
+    ],
+    "North Carolina 9th District": [
+      {
+        "Party": "R",
+        "Twitter": "@jdanbishop",
+        "Winner": true,
+        "Name": "Bishop, Dan",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "WallaceCongress",
+        "Winner": false,
+        "Name": "Cynthia Wallace",
+        "Incumbent": false
+      }
+    ],
+    "North Carolina 7th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepDavidRouzer",
+        "Winner": true,
+        "Name": "Rouzer, David",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "wardcongress",
+        "Winner": false,
+        "Name": "Christopher M. Ward",
+        "Incumbent": false
+      }
+    ],
+    "North Carolina 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@GKButterfield",
+        "Winner": true,
+        "Name": "Butterfield, G.K.",
+        "Incumbent": true
+      }
+    ],
+    "North Carolina 10th District": [
+      {
+        "Party": "R",
+        "Twitter": "@PatrickMcHenry",
+        "Winner": true,
+        "Name": "McHenry, Patrick T.",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Parker4NC10",
+        "Winner": false,
+        "Name": "David Parker",
+        "Incumbent": false
+      }
+    ],
+    "North Carolina 13th District": [
+      {
+        "Party": "R",
+        "Twitter": "@BuddforCongress",
+        "Winner": true,
+        "Name": "Budd, Ted",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "HuffmanForNC",
+        "Winner": false,
+        "Name": "Scott Huffman",
+        "Incumbent": false
+      }
+    ]
+  },
+  "South Dakota At-Large": {
+    "South Dakota At-Large": [
+      {
+        "Party": "R",
+        "Twitter": "@RepDustyJohnson",
+        "Winner": true,
+        "Name": "Johnson, Dusty",
+        "Incumbent": true
+      }
+    ]
+  },
+  "New York": {
+    "New York 20th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepPaulTonko",
+        "Winner": true,
+        "Name": "Tonko, Paul D.",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "LizLemeryJoy",
+        "Winner": false,
+        "Name": "Elizabeth Joy",
+        "Incumbent": false
+      }
+    ],
+    "New York 23rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepTomReed",
+        "Winner": true,
+        "Name": "Reed, Tom",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "MitranoForNY23",
+        "Winner": false,
+        "Name": "Tracy Mitrano",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "AndrewKolstee",
+        "Winner": false,
+        "Name": "Andrew Kolstee",
+        "Incumbent": false
+      }
+    ],
+    "New York 15th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RitchieTorres",
+        "Winner": true,
+        "Name": "Torres, Ritchie",
+        "Incumbent": false
+      }
+    ],
+    "New York 27th District": [
+      {
+        "Party": "R",
+        "Twitter": "@jacobsny27",
+        "Winner": true,
+        "Name": "Jacobs, Chris",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Nate_McMurray",
+        "Winner": false,
+        "Name": "Nate McMurray",
+        "Incumbent": false
+      }
+    ],
+    "New York 25th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJoeMorelle",
+        "Winner": true,
+        "Name": "Morelle, Joseph",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "GeorgeMitris1",
+        "Winner": false,
+        "Name": "George Mitris",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "KevinWilsonROC",
+        "Winner": false,
+        "Name": "Kevin Wilson",
+        "Incumbent": false
+      }
+    ],
+    "New York 6th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepGraceMeng",
+        "Winner": true,
+        "Name": "Meng, Grace",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "tom_zmich",
+        "Winner": false,
+        "Name": "Tom Zmich",
+        "Incumbent": false
+      }
+    ],
+    "New York 18th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSeanMaloney",
+        "Winner": true,
+        "Name": "Maloney, Sean Patrick",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "CheleFarley",
+        "Winner": false,
+        "Name": "Chele Farley",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "MrSmithCongress",
+        "Winner": false,
+        "Name": "Scott Smith",
+        "Incumbent": false
+      }
+    ],
+    "New York 26th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepBrianHiggins",
+        "Winner": true,
+        "Name": "Higgins, Brian",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "MikeForBuffalo",
+        "Winner": false,
+        "Name": "Michael Raleigh",
+        "Incumbent": false
+      }
+    ],
+    "New York 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@garbarinoforcongress",
+        "Winner": true,
+        "Name": "Garbarino, Andrew",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "VoteJackie4NY",
+        "Winner": false,
+        "Name": "Jackie Gordon",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "HarryRBurger",
+        "Winner": false,
+        "Name": "Harry Burger",
+        "Incumbent": false
+      }
+    ],
+    "New York 11th District": [
+      {
+        "Party": "R",
+        "Twitter": "@Nmalliotakis",
+        "Winner": true,
+        "Name": "Malliotakis, Nicole",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "MaxRose4NY",
+        "Winner": false,
+        "Name": "Max Rose",
+        "Incumbent": false
+      }
+    ],
+    "New York 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@NydiaVelazquez",
+        "Winner": true,
+        "Name": "Velázquez, Nydia M.",
+        "Incumbent": true
+      }
+    ],
+    "New York 24th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepJohnKatko",
+        "Winner": true,
+        "Name": "Katko, John",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "dana_balter",
+        "Winner": false,
+        "Name": "Dana Balter",
+        "Incumbent": false
+      }
+    ],
+    "New York 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepYvetteClarke",
+        "Winner": true,
+        "Name": "Clarke, Yvette D.",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "JoelAzumah",
+        "Winner": false,
+        "Name": "Joel Anabilah-Azumah",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "garypopkin",
+        "Winner": false,
+        "Name": "Gary Popkin",
+        "Incumbent": false
+      }
+    ],
+    "New York 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@Tom_Suozzi",
+        "Winner": true,
+        "Name": "Suozzi, Tom",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "Santos4Congress",
+        "Winner": false,
+        "Name": "George Santos",
+        "Incumbent": false
+      }
+    ],
+    "New York 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepLeeZeldin",
+        "Winner": true,
+        "Name": "Zeldin, Lee",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ngoroff",
+        "Winner": false,
+        "Name": "Nancy Goroff",
+        "Incumbent": false
+      }
+    ],
+    "New York 12th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepMaloney",
+        "Winner": true,
+        "Name": "Maloney, Carolyn",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "CarlosforNY12",
+        "Winner": false,
+        "Name": "Carlos Santiago-Cano",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "stevenkolln",
+        "Winner": false,
+        "Name": "Steven Kolln",
+        "Incumbent": false
+      }
+    ],
+    "New York 10th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJerryNadler",
+        "Winner": true,
+        "Name": "Nadler, Jerrold",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "CathyCongress",
+        "Winner": false,
+        "Name": "Cathy Bernstein",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "madrid4nyc",
+        "Winner": false,
+        "Name": "Michael Madrid",
+        "Incumbent": false
+      }
+    ],
+    "New York 22nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@claudiatenney",
+        "Winner": true,
+        "Name": "Tenney, Claudia",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "ABrindisiNY",
+        "Winner": false,
+        "Name": "Anthony Brindisi",
+        "Incumbent": true
+      }
+    ],
+    "New York 16th District": [
+      {
+        "Party": "D",
+        "Twitter": "@JamaalBowmanNY",
+        "Winner": true,
+        "Name": "Bowman, Jamaal",
+        "Incumbent": false
+      }
+    ],
+    "New York 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepKathleenRice",
+        "Winner": true,
+        "Name": "Rice, Kathleen",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ElectTuman",
+        "Winner": false,
+        "Name": "Douglas Tuman",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "MrDunes",
+        "Winner": false,
+        "Name": "Joseph Naham",
+        "Incumbent": false
+      }
+    ],
+    "New York 13th District": [
+      {
+        "Party": "D",
+        "Twitter": "@EspaillatNY",
+        "Winner": true,
+        "Name": "Espaillat, Adriano",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "love4congress",
+        "Winner": false,
+        "Name": "Lovelynn Gwinn",
+        "Incumbent": false
+      }
+    ],
+    "New York 14th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAOC",
+        "Winner": true,
+        "Name": "Ocasio-Cortez, Alexandria",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "cummings2020",
+        "Winner": false,
+        "Name": "John Cummings",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "MCaruso_Cabrera",
+        "Winner": false,
+        "Name": "Michelle Caruso-Cabrera",
+        "Incumbent": false
+      }
+    ],
+    "New York 5th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepGregoryMeeks",
+        "Winner": true,
+        "Name": "Meeks, Gregory W.",
+        "Incumbent": true
+      }
+    ],
+    "New York 17th District": [
+      {
+        "Party": "D",
+        "Twitter": "@MondaireJones",
+        "Winner": true,
+        "Name": "Jones, Mondaire",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "YehudisForNY",
+        "Winner": false,
+        "Name": "Yehudis Gottesfeld",
+        "Incumbent": false
+      },
+      {
+        "Party": "R",
+        "Twitter": "Maureen4NY",
+        "Winner": false,
+        "Name": "Maureen McArdle-Schulman",
+        "Incumbent": false
+      }
+    ],
+    "New York 21st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepStefanik",
+        "Winner": true,
+        "Name": "Stefanik, Elise",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "TedraCobb",
+        "Winner": false,
+        "Name": "Tedra Cobb",
+        "Incumbent": false
+      }
+    ],
+    "New York 8th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepJeffries",
+        "Winner": true,
+        "Name": "Jeffries, Hakeem",
+        "Incumbent": true
+      }
+    ],
+    "New York 19th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepDelgado",
+        "Winner": true,
+        "Name": "Delgado, Antonio",
+        "Incumbent": true
+      },
+      {
+        "Party": "O",
+        "Twitter": "Alexander4Cong1",
+        "Winner": false,
+        "Name": "Victoria Alexander",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Greenfield4NY19",
+        "Winner": false,
+        "Name": "Steve Greenfield",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Texas": {
+    "Texas 26th District": [
+      {
+        "Party": "R",
+        "Twitter": "@michaelcburgess",
+        "Winner": true,
+        "Name": "Burgess, Michael",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "caroltx26",
+        "Winner": false,
+        "Name": "Carol Iannuzzi",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "markboler",
+        "Winner": false,
+        "Name": "Mark Boler",
+        "Incumbent": false
+      }
+    ],
+    "Texas 36th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepBrianBabin",
+        "Winner": true,
+        "Name": "Babin, Brian",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "RLewis4Congress",
+        "Winner": false,
+        "Name": "Rashad Lewis",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "HalRidleyJr",
+        "Winner": false,
+        "Name": "Hal Ridley, Jr.",
+        "Incumbent": false
+      }
+    ],
+    "Texas 16th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepEscobar",
+        "Winner": true,
+        "Name": "Escobar, Veronica",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "amazingurl09",
+        "Winner": false,
+        "Name": "Irene Armendariz-Jackson",
+        "Incumbent": false
+      }
+    ],
+    "Texas 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepDanCrenshaw",
+        "Winner": true,
+        "Name": "Crenshaw, Dan",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "SimaforTX",
+        "Winner": false,
+        "Name": "Sima Ladjevardian",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "VoteScheirman",
+        "Winner": false,
+        "Name": "Elliott Scheirman",
+        "Incumbent": false
+      }
+    ],
+    "Texas 35th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepLloydDoggett",
+        "Winner": true,
+        "Name": "Doggett, Lloyd",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "jenny4congress",
+        "Winner": false,
+        "Name": "Jenny Sharon",
+        "Incumbent": false
+      }
+    ],
+    "Texas 34th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepFilemonVela",
+        "Winner": true,
+        "Name": "Vela, Filemon",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "reygonzalez34",
+        "Winner": false,
+        "Name": "Rey Gonzalez",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "CristoDude",
+        "Winner": false,
+        "Name": "Anthony Cristo",
+        "Incumbent": false
+      }
+    ],
+    "Texas 11th District": [
+      {
+        "Party": "R",
+        "Twitter": "@AugustPfluger",
+        "Winner": true,
+        "Name": "Pfluger, August",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "jonmarkhogg",
+        "Winner": false,
+        "Name": "Jon Mark Hogg",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "WaceyCody",
+        "Winner": false,
+        "Name": "Wacey Alpha Cody",
+        "Incumbent": false
+      }
+    ],
+    "Texas 31st District": [
+      {
+        "Party": "R",
+        "Twitter": "@JudgeCarter",
+        "Winner": true,
+        "Name": "Carter, John",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "donnaimamtx",
+        "Winner": false,
+        "Name": "Donna Imam",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "clarkpatterso12",
+        "Winner": false,
+        "Name": "Clark Patterson",
+        "Incumbent": false
+      }
+    ],
+    "Texas 7th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepFletcher",
+        "Winner": true,
+        "Name": "Fletcher, Lizzie",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "WesleyHuntTX",
+        "Winner": false,
+        "Name": "Wesley Hunt",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "ShawnKelly2020",
+        "Winner": false,
+        "Name": "Shawn Kelly",
+        "Incumbent": false
+      }
+    ],
+    "Texas 1st District": [
+      {
+        "Party": "R",
+        "Twitter": "@replouiegohmert",
+        "Winner": true,
+        "Name": "Gohmert, Louie",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "Hank4Texas",
+        "Winner": false,
+        "Name": "Hank Gilbert",
+        "Incumbent": false
+      }
+    ],
+    "Texas 3rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepVanTaylor",
+        "Winner": true,
+        "Name": "Taylor, Van",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "LuluForTexas",
+        "Winner": false,
+        "Name": "Lulu Seikaly",
+        "Incumbent": false
+      }
+    ],
+    "Texas 15th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepGonzalez",
+        "Winner": true,
+        "Name": "Gonzalez, Vincente",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "monica4congress",
+        "Winner": false,
+        "Name": "Monica de la Cruz-Hernandez",
+        "Incumbent": false
+      }
+    ],
+    "Texas 9th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepAlGreen",
+        "Winner": true,
+        "Name": "Green, Al",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "for_teague",
+        "Winner": false,
+        "Name": "Johnny Teague",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Sosa4Congress",
+        "Winner": false,
+        "Name": "José Sosa",
+        "Incumbent": false
+      }
+    ],
+    "Texas 10th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepMcCaul",
+        "Winner": true,
+        "Name": "McCaul, Michael T.",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "siegelfortexas",
+        "Winner": false,
+        "Name": "Mike Siegel",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "royeriksen10",
+        "Winner": false,
+        "Name": "Roy Eriksen",
+        "Incumbent": false
+      }
+    ],
+    "Texas 12th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepKayGranger",
+        "Winner": true,
+        "Name": "Granger, Kay",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "WelchforAll",
+        "Winner": false,
+        "Name": "Lisa Welch",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "TreyHolcomb",
+        "Winner": false,
+        "Name": "Trey Holcomb",
+        "Incumbent": false
+      }
+    ],
+    "Texas 6th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepRonWright",
+        "Winner": true,
+        "Name": "Wright, Ron",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "stephendaniel",
+        "Winner": false,
+        "Name": "Stephen Daniel",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "MelanieABlackf1",
+        "Winner": false,
+        "Name": "Melanie Black",
+        "Incumbent": false
+      }
+    ],
+    "Texas 22nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@SheriffTNehls",
+        "Winner": true,
+        "Name": "Nehls, Troy",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "SriPKulkarni",
+        "Winner": false,
+        "Name": "Sri Preston Kulkarni",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "PieRatKing",
+        "Winner": false,
+        "Name": "Joseph LeBlanc, Jr.",
+        "Incumbent": false
+      }
+    ],
+    "Texas 32nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepColinAllred",
+        "Winner": true,
+        "Name": "Allred, Colin",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "gcforcongress",
+        "Winner": false,
+        "Name": "Genevieve Collins",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "ElectMowrey",
+        "Winner": false,
+        "Name": "Christy Mowrey Peterson",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "jasonxsigmon",
+        "Winner": false,
+        "Name": "Jason Sigmon",
+        "Incumbent": false
+      }
+    ],
+    "Texas 4th District": [
+      {
+        "Party": "R",
+        "Twitter": "@FallonForTexas",
+        "Winner": true,
+        "Name": "Fallon, Pat",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "RussellFosterTX",
+        "Winner": false,
+        "Name": "Russell Foster",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "LouAntonelli",
+        "Winner": false,
+        "Name": "Lou Antonelli",
+        "Incumbent": false
+      }
+    ],
+    "Texas 13th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RonnyJacksonTX",
+        "Winner": true,
+        "Name": "Jackson, Ronny",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "GusForTX",
+        "Winner": false,
+        "Name": "Gus Trujillo",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "ministerjWb",
+        "Winner": false,
+        "Name": "Jack Westbrook",
+        "Incumbent": false
+      }
+    ],
+    "Texas 23rd District": [
+      {
+        "Party": "R",
+        "Twitter": "@TonyGonzales4TX",
+        "Winner": true,
+        "Name": "Gonzales, Tony",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "ginaortizjones",
+        "Winner": false,
+        "Name": "Gina Ortiz Jones",
+        "Incumbent": false
+      }
+    ],
+    "Texas 33rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepVeasey",
+        "Winner": true,
+        "Name": "Veasey, Marc",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "FCV2020Campaign",
+        "Winner": false,
+        "Name": "Fabian Vasquez",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "accionamerica",
+        "Winner": false,
+        "Name": "Carlos Quintanilla",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Welton4US",
+        "Winner": false,
+        "Name": "Renedria Welton",
+        "Incumbent": false
+      }
+    ],
+    "Texas 14th District": [
+      {
+        "Party": "R",
+        "Twitter": "@TXRandy14",
+        "Winner": true,
+        "Name": "Weber, Randy",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "AdrBell",
+        "Winner": false,
+        "Name": "Adrienne Bell",
+        "Incumbent": false
+      }
+    ],
+    "Texas 21st District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepChipRoy",
+        "Winner": true,
+        "Name": "Roy, Chip",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "wendydavis",
+        "Winner": false,
+        "Name": "Wendy Davis",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Wakely2020",
+        "Winner": false,
+        "Name": "Tommy Wakely",
+        "Incumbent": false
+      }
+    ],
+    "Texas 17th District": [
+      {
+        "Party": "R",
+        "Twitter": "@SessionsTX17",
+        "Winner": true,
+        "Name": "Sessions, Pete",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "RickKennedyTX17",
+        "Winner": false,
+        "Name": "Rick Kennedy",
+        "Incumbent": false
+      }
+    ],
+    "Texas 19th District": [
+      {
+        "Party": "R",
+        "Twitter": "@JodeyArrington",
+        "Winner": true,
+        "Name": "Arrington, Jodey",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "TomWatsonTX19",
+        "Winner": false,
+        "Name": "Tom Watson",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "JoeBurnes",
+        "Winner": false,
+        "Name": "Joe Burnes",
+        "Incumbent": false
+      }
+    ],
+    "Texas 5th District": [
+      {
+        "Party": "R",
+        "Twitter": "@Lancegooden",
+        "Winner": true,
+        "Name": "Gooden, Lance",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "SalterforTexas",
+        "Winner": false,
+        "Name": "Carolyn Salter",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "HaleGive",
+        "Winner": false,
+        "Name": "Kevin Hale",
+        "Incumbent": false
+      }
+    ],
+    "Texas 8th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepKevinBrady",
+        "Winner": true,
+        "Name": "Brady, Kevin",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "LizForTX8",
+        "Winner": false,
+        "Name": "Elizabeth Hernandez",
+        "Incumbent": false
+      }
+    ],
+    "Texas 24th District": [
+      {
+        "Party": "R",
+        "Twitter": "@Bethvanduyne",
+        "Winner": true,
+        "Name": "Van Duyne, Beth",
+        "Incumbent": false
+      },
+      {
+        "Party": "D",
+        "Twitter": "candacefor24",
+        "Winner": false,
+        "Name": "Candace Valenzuela",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "DHamilton2020",
+        "Winner": false,
+        "Name": "Darren Hamilton",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "stevekuzmich",
+        "Winner": false,
+        "Name": "Steve Kuzmich",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "MarkBauer",
+        "Winner": false,
+        "Name": "Mark Bauer",
+        "Incumbent": false
+      }
+    ],
+    "Texas 20th District": [
+      {
+        "Party": "D",
+        "Twitter": "@JoaquinCastrotx",
+        "Winner": true,
+        "Name": "Castro, Joaquin",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "MauroGarzaTX21",
+        "Winner": false,
+        "Name": "Mauro Garza",
+        "Incumbent": false
+      }
+    ],
+    "Texas 25th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepRWilliams",
+        "Winner": true,
+        "Name": "Williams, Roger",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "JulieForTX25",
+        "Winner": false,
+        "Name": "Julie Oliver",
+        "Incumbent": false
+      }
+    ],
+    "Texas 28th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepCuellar",
+        "Winner": true,
+        "Name": "Cuellar, Henry",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "@texas_sandra",
+        "Winner": false,
+        "Name": "Sandra Whitten",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "LibertyBeks",
+        "Winner": false,
+        "Name": "Bekah Congdon",
+        "Incumbent": false
+      }
+    ],
+    "Texas 27th District": [
+      {
+        "Party": "R",
+        "Twitter": "@RepCloudTX",
+        "Winner": true,
+        "Name": "Cloud, Michael",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "ricky4congress",
+        "Winner": false,
+        "Name": "Ricardo de la Fuente",
+        "Incumbent": false
+      }
+    ],
+    "Texas 18th District": [
+      {
+        "Party": "D",
+        "Twitter": "@JacksonLeeTX18",
+        "Winner": true,
+        "Name": "Jackson Lee, Sheila",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "ChampionTx2020",
+        "Winner": false,
+        "Name": "Wendell Champion",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "LukeSpencer2020",
+        "Winner": false,
+        "Name": "Luke Spencer",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "duncanvince23",
+        "Winner": false,
+        "Name": "Vince Duncan",
+        "Incumbent": false
+      }
+    ],
+    "Texas 29th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSylviaGarcia",
+        "Winner": true,
+        "Name": "Garcia, Sylvia",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "blanco4congress",
+        "Winner": false,
+        "Name": "Jaimy Blanco",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "PhilKurtz3",
+        "Winner": false,
+        "Name": "Phil Kurtz",
+        "Incumbent": false
+      }
+    ],
+    "Texas 30th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepEBJ",
+        "Winner": true,
+        "Name": "Johnson, Eddie Bernice",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "sgt_pennie",
+        "Winner": false,
+        "Name": "Tre Pennie",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "thefutured30",
+        "Winner": false,
+        "Name": "Eric Williams",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Delaware At-Large": {
+    "Delaware At-Large": [
+      {
+        "Party": "D",
+        "Twitter": "@LisaBRochester",
+        "Winner": true,
+        "Name": "Blunt Rochester, Lisa",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "goMurph2020",
+        "Winner": false,
+        "Name": "Lee Murphy",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "Catheri45538542",
+        "Winner": false,
+        "Name": "Catherine Purcell",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Nevada": {
+    "Nevada 3rd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepSusieLee",
+        "Winner": true,
+        "Name": "Lee, Susie",
+        "Incumbent": true
+      }
+    ],
+    "Nevada 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@repdinatitus",
+        "Winner": true,
+        "Name": "Titus, Dina",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "JoyceBentleyCD1",
+        "Winner": false,
+        "Name": "Joyce Bentley",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "strawvegasdon",
+        "Winner": false,
+        "Name": "Robert Van Strawder",
+        "Incumbent": false
+      },
+      {
+        "Party": "O",
+        "Twitter": "bakarikamau",
+        "Winner": false,
+        "Name": "Kamau Bakari",
+        "Incumbent": false
+      }
+    ],
+    "Nevada 4th District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepHorsford",
+        "Winner": true,
+        "Name": "Horsford, Steven",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "VoteJimMarchant",
+        "Winner": false,
+        "Name": "Jim Marchant",
+        "Incumbent": false
+      }
+    ],
+    "Nevada 2nd District": [
+      {
+        "Party": "R",
+        "Twitter": "@MarkAmodeiNV2",
+        "Winner": true,
+        "Name": "Amodei, Mark",
+        "Incumbent": true
+      },
+      {
+        "Party": "D",
+        "Twitter": "PAckermanNV",
+        "Winner": false,
+        "Name": "Patricia Ackerman",
+        "Incumbent": false
+      }
+    ]
+  },
+  "Maine": {
+    "Maine 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@chelliepingree",
+        "Winner": true,
+        "Name": "Pingree, Chellie",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "AllenCongress",
+        "Winner": false,
+        "Name": "Jay Allen",
+        "Incumbent": false
+      }
+    ],
+    "Maine 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepGolden",
+        "Winner": true,
+        "Name": "Golden, Jared",
+        "Incumbent": true
+      }
+    ]
+  },
+  "Rhode Island": {
+    "Rhode Island 1st District": [
+      {
+        "Party": "D",
+        "Twitter": "@RepCicilline",
+        "Winner": true,
+        "Name": "Cicilline, David",
+        "Incumbent": true
+      }
+    ],
+    "Rhode Island 2nd District": [
+      {
+        "Party": "D",
+        "Twitter": "@jimlangevin",
+        "Winner": true,
+        "Name": "Langevin, Jim",
+        "Incumbent": true
+      },
+      {
+        "Party": "R",
+        "Twitter": "BobLancia",
+        "Winner": false,
+        "Name": "Robert Lancia",
+        "Incumbent": false
+      }
+    ]
+  }
+}
