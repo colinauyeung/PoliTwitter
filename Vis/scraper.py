@@ -18,7 +18,7 @@ total = 0;
     #     for riding in js[key]:
     #         count = count + len(js[key][riding])
     # bar = ChargingBar("Processing", max =count)
-ignore =['Mississippi', 'Oklahoma', 'Minnesota', 'Alaska At-Large', 'Arkansas', 'New Mexico', 'Virgin Islands At-Large', 'Indiana', 'Maryland', 'Louisiana', 'Idaho', 'American Samoa At-Large', 'Arizona', 'Iowa', 'Montana At-Large', 'Michigan', 'Kansas', 'Utah', 'Virginia', 'Oregon', 'District of Columbia At-Large', 'Connecticut', 'Tennessee', 'California', 'Massachusetts', 'Vermont At-Large', 'West Virginia', 'South Carolina']
+ignore =['Mississippi', 'Oklahoma', 'Minnesota', 'Alaska At-Large', 'Arkansas', 'New Mexico', 'Virgin Islands At-Large', 'Indiana', 'Maryland', 'Louisiana', 'Idaho', 'American Samoa At-Large', 'Arizona', 'Iowa', 'Montana At-Large', 'Michigan', 'Kansas', 'Utah', 'Virginia', 'Oregon', 'District of Columbia At-Large', 'Connecticut', 'Tennessee', 'California', 'Massachusetts', 'Vermont At-Large', 'West Virginia', 'South Carolina', 'New Hampshire', 'North Dakota At-Large', 'Wisconsin', 'Wyoming At-Large', 'Georgia', 'Pennsylvania', 'Florida', 'Hawaii', 'Kentucky', 'Northern Mariana Islands At-Large', 'Guam At-Large', 'Nebraska', 'Missouri', 'Ohio', 'Alabama', 'Illinois', 'Colorado', 'New Jersey', 'Washington', 'Puerto Rico At-Large', 'North Carolina', 'South Dakota At-Large', 'New York', 'Texas', 'Delaware At-Large', 'Nevada', 'Maine', 'Rhode Island']
 for key in js:
     if(key in ignore):
         continue
